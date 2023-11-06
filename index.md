@@ -10,18 +10,19 @@ sections:
       title: CDA Test Homepage
       subtitle: Test Home Page for CDA
       background: /images/ncid-building.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: For Patients and Visitors
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: For Healthcare Professionals
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: For General Public
+          description: ""
           url: /privacy/
+        - title: Infectious Disease Research
+          description: ""
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle

@@ -1,6 +1,7 @@
 ---
 title: Marvin Test Page
 permalink: /marvintestpage/
-variant: tiptap
+variant: markdown
 description: test
 ---
+Test Page

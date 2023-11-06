@@ -1,15 +1,13 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About CDA
+    url: /about-cda/
+  - title: News and Events
+    url: /news-and-events-page/
+  - title: For Patients and Visitors
+    url: /for-patients-and-visitors
+    sublinks:
+      - title: Visit a Specialist
+        url: /for-patients-and-visitors/visit-a-specialist
   - title: Example Folder
     collection: example-folder

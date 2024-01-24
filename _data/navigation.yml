@@ -1,0 +1,17 @@
+logo: /images/isomer-logo.svg
+links:
+  - title: About CDA
+    url: /about-cda/
+  - title: News and Events
+    url: /news-and-events-page/
+  - title: For Patients and Visitors
+    url: /for-patients-and-visitors
+    sublinks:
+      - title: Visit a Specialist
+        url: /for-patients-and-visitors/visit-a-specialist
+      - title: Admission
+        url: /for-patients-and-visitors/admission
+      - title: Getting to NCID
+        url: /for-patients-and-visitors/getting-to-ncid
+  - title: Example Folder
+    collection: example-folder

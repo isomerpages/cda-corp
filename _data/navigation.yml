@@ -15,3 +15,8 @@ links:
         url: /for-patients-and-visitors/getting-to-ncid
   - title: Example Folder
     collection: example-folder
+  - title: New menu group
+    url: /example-folder
+    sublinks:
+      - title: New submenu
+        url: /example-folder

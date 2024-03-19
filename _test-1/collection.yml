@@ -2,4 +2,5 @@ collections:
   test-1:
     output: true
     order:
+      - Test 2/test page.md
       - Test 2/.keep

@@ -1,0 +1,4 @@
+collections:
+  public-health-strategy:
+    output: true
+    order: []

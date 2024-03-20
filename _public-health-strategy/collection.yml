@@ -1,4 +1,5 @@
 collections:
   public-health-strategy:
     output: true
-    order: []
+    order:
+      - Vaccinations.md

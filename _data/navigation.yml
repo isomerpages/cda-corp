@@ -20,7 +20,7 @@ links:
     sublinks:
       - title: New submenu
         url: /example-folder
-  - title: General Public
+  - title: General Public Test
     url: /permalink
     sublinks:
       - title: Communicable Diseases

@@ -25,3 +25,5 @@ links:
     sublinks:
       - title: Communicable Diseases
         url: /communicable-diseases
+  - title: New folder
+    collection: communicable-diseases

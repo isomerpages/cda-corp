@@ -20,8 +20,8 @@ links:
     sublinks:
       - title: New submenu
         url: /example-folder
-  - title: General Public Test
-    url: /permalink
+  - title: General Public
+    url: /general-public
     sublinks:
       - title: Communicable Diseases
         url: communicable-diseases/national-hiv-sti-and-viral-hepatitis-programme/

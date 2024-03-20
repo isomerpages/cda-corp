@@ -21,9 +21,7 @@ links:
       - title: New submenu
         url: /example-folder
   - title: General Public
-    url: /general-public
+    url: /permalink
     sublinks:
       - title: Communicable Diseases
         url: communicable-diseases/national-hiv-sti-and-viral-hepatitis-programme/
-  - title: New folder
-    collection: communicable-diseases

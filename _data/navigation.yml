@@ -20,3 +20,8 @@ links:
     sublinks:
       - title: New submenu
         url: /example-folder
+  - title: General Public
+    url: /permalink
+    sublinks:
+      - title: Communicable Diseases
+        url: /communicable-diseases

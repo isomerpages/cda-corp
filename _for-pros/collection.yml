@@ -2,4 +2,5 @@ collections:
   for-pros:
     output: true
     order:
+      - Ktu/Test.md
       - Ktu/.keep

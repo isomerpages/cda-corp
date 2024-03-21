@@ -1,6 +1,4 @@
 collections:
   general-public:
     output: true
-    order:
-      - Communicable Diseases/National HIV, STI and Viral Hepatitis Programme.md
-      - Communicable Diseases/.keep
+    order: []

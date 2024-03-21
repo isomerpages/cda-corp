@@ -2,4 +2,5 @@ collections:
   tes-test-folder:
     output: true
     order:
+      - Test test subfolder/test test page.md
       - Test test subfolder/.keep

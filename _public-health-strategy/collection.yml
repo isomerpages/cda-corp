@@ -2,4 +2,5 @@ collections:
   public-health-strategy:
     output: true
     order:
+      - Ongoing Outbreaks/.keep
       - Vaccinations.md

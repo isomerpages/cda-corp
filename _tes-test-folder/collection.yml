@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Test test subfolder/.keep
-      - test test page.md

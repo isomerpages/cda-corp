@@ -1,0 +1,4 @@
+collections:
+  tes-test-folder:
+    output: true
+    order: []

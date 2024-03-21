@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Lorem Ipsum Dolor
       subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco.
-      background: /images/ncid-building.jpg
+      background: /images/grey_opacity.png
       key_highlights:
         - title: Lorem Ipsum
           description: ""

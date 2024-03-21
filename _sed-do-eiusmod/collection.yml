@@ -2,4 +2,5 @@ collections:
   sed-do-eiusmod:
     output: true
     order:
+      - Sed Do Eisumod Page 1.md
       - Sed Do Eisumod Overview.md

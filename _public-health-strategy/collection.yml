@@ -2,6 +2,7 @@ collections:
   public-health-strategy:
     output: true
     order:
+      - Risk Assesment (PHI).md
       - Vaccinations.md
       - Infectious Diseases/.keep
       - Infectious Diseases/Overview of the different types of surveillance in

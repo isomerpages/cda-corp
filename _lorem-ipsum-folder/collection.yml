@@ -2,4 +2,5 @@ collections:
   lorem-ipsum-folder:
     output: true
     order:
+      - Lorem Subfolder/.keep
       - Lorem Ipsum Menu Item 1.md

@@ -1,4 +1,5 @@
 collections:
   tes-test-folder:
     output: true
-    order: []
+    order:
+      - test test page.md

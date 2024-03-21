@@ -1,4 +1,5 @@
 collections:
   lorem-ipsum-folder:
     output: true
-    order: []
+    order:
+      - Lorem Ipsum Menu Item 1.md

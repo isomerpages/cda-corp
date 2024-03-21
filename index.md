@@ -20,7 +20,7 @@ sections:
           url: /consectetur-adipiscing
         - title: sed do eiusmod
           description: ""
-          url: /privacy/
+          url: ""
         - title: tempor incididunt
           description: ""
           url: ""

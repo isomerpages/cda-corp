@@ -17,6 +17,7 @@ veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Rem aperiam eaque</strong>
@@ -27,12 +28,13 @@ voluptas sit aspernatur aut odit aut fugit</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Laudantium totam </strong>
+<p><strong>Laudantium totam</strong>
 </p>
 <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
 sed quia consequuntur magni dolores eos</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>

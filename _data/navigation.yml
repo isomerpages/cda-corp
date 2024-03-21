@@ -16,12 +16,12 @@ links:
   - title: Example Folder
     collection: example-folder
   - title: General Public
-    url: /permalink
+    url: /
     sublinks:
       - title: General Page 1
-        url: /gppage1
+        url: /general-public/gppage1
       - title: General Page 2
-        url: /gppage2
+        url: /general-public/gppage2
       - title: Communicable Diseases
         url: communicable-diseases/national-hiv-sti-and-viral-hepatitis-programme/
       - title: Public Health Strategy

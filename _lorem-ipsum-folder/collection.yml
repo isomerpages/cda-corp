@@ -1,0 +1,4 @@
+collections:
+  lorem-ipsum-folder:
+    output: true
+    order: []

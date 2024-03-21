@@ -2,13 +2,13 @@ title: Title
 url: https://www.resonance.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6c757d"
-  secondary-color: "#adb5bd"
+  primary-color: "#343a40"
+  secondary-color: "#6c757d"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#adb5bd"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#adb5bd"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four

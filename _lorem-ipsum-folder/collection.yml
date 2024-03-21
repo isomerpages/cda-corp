@@ -4,5 +4,5 @@ collections:
     order:
       - Lorem Ipsum Menu Item 1.md
       - Lorem Subfolder/.keep
-      - Lorem Subfolder/Lorem Subfolder Item 2.md
       - Lorem Subfolder/Lorem Subfolder Item 1.md
+      - Lorem Subfolder/Lorem Subfolder Item 2.md

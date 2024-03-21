@@ -19,7 +19,7 @@ sections:
           description: ""
           url: /consectetur-adipiscing
         - title: Public Health Strategy
-          description: ","
+          description: ""
           url: /public-health-strategy/public-health-strategy/
         - title: tempor incididunt
           description: ""

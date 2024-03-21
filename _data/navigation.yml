@@ -1,10 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About CDA
-    url: /about-cda/
-  - title: News and Events
-    url: /news-and-events-page/
-  - title: For Patients and Visitors
+  - title: Lorem Ipsum Page
+    url: /lorem-ipsum-page
+  - title: Lorem Ipsum Folder
+    collection: lorem-ipsum-folder
+  - title: Lorem Ipsum
+    url: /permalink
+  - title: Lorem Ipsum
+    url: /permalink
+  - title: Lorem Ipsum
     url: /for-patients-and-visitors
     sublinks:
       - title: Visit a Specialist
@@ -13,16 +17,3 @@ links:
         url: /for-patients-and-visitors/admission
       - title: Getting to NCID
         url: /for-patients-and-visitors/getting-to-ncid
-  - title: Example Folder
-    collection: example-folder
-  - title: General Public
-    url: /
-    sublinks:
-      - title: General Page 1
-        url: /general-public/gppage1
-      - title: General Page 2
-        url: /general-public/gppage2
-      - title: Communicable Diseases
-        url: /communicable-diseases/national-hiv-sti-and-viral-hepatitis-programme/
-      - title: Public Health Strategy
-        url: /public-health-strategy/vaccinations

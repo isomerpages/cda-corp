@@ -2,6 +2,8 @@ collections:
   public-health-strategy:
     output: true
     order:
+      - Infectious Diseases/Overview of the different types of surveillance in
+        Singapore.md
       - Infectious Diseases/.keep
       - Ongoing Outbreaks/.keep
       - Vaccinations.md

@@ -57,7 +57,7 @@ sections:
             ad minim veniam.
           link_text: Excepteur Sint Occaecat
           link_url: /
-        - title: " Consectetur adipiscing elit"
+        - title: Consectetur adipiscing elit
           date: 21 March 2024
           announcement: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim

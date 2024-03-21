@@ -35,17 +35,13 @@ porro quisquam est, qui dolorem ipsum quia dolor sit amet</p>
 sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><a href="/" rel="noopener noreferrer nofollow" target="_blank">Aspernatur quia sit </a></h4>
+<h4><a href="/" rel="noopener noreferrer nofollow" target="_blank">Aspernatur quia sit</a></h4>
 <p>Sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>Neque porro quisquam</h3>
-<blockquote>
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-sed quia consequuntur .</p>
-</blockquote>
+<h3></h3>
 <h3></h3>
 <p></p>

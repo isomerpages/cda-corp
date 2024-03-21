@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Vaccinations.md
+      - Ongoing Outbreaks/.keep
       - Infectious Diseases/.keep
       - Infectious Diseases/Overview of the different types of surveillance in
         Singapore.md
-      - Ongoing Outbreaks/.keep
       - Risk Assesment (PHI).md

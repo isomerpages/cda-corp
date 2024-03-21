@@ -1,4 +1,5 @@
 collections:
   sed-do-eiusmod:
     output: true
-    order: []
+    order:
+      - Sed Do Eisumod Overview.md

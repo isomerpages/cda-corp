@@ -14,10 +14,10 @@ sections:
       key_highlights:
         - title: Lorem Ipsum
           description: ""
-          url: https://google.com
+          url: ""
         - title: consectetur adipiscing
           description: ""
-          url: https://gmail.com
+          url: /consectetur-adipiscing
         - title: sed do eiusmod
           description: ""
           url: /privacy/

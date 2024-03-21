@@ -23,12 +23,27 @@ sections:
         - title: Infectious Disease Research
           description: ""
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 06 November 2023
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infopic:
       title: Infopic
       subtitle: Add an image and text
@@ -42,20 +57,6 @@ sections:
       id: infobar
       description: Infobar description
       button: Button Text
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcement
-          date: 06 November 2023
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
   - textcards:
       title: Text Cards
       subtitle: Add informational text

@@ -61,7 +61,7 @@ sections:
       title: Resources
       subtitle: UT ENIM AD MINIM VENIAM
       id: resources
-      button: SEE ALLL
+      button: SEE ALL
   - infopic:
       title: Infopic
       subtitle: sitamet consectetur adipiscing

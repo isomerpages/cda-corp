@@ -2,14 +2,14 @@ collections:
   for-general-public:
     output: true
     order:
-      - Communicable Disease/Contact Transmissible and Other Diseases.md
-      - Communicable Disease/Vector Borne Diseases.md
-      - Communicable Disease/Foodborne Diseases.md
-      - Communicable Disease/Airborne and Droplet Borne Diseases.md
-      - Communicable Disease/National TB Programme.md
-      - Communicable Disease/National HIV, STI and Viral Hepatitis Programme.md
-      - Communicable Disease/Communicable Diseases.md
       - Communicable Disease/.keep
+      - Communicable Disease/Communicable Diseases.md
+      - Communicable Disease/National HIV, STI and Viral Hepatitis Programme.md
+      - Communicable Disease/National TB Programme.md
+      - Communicable Disease/Airborne and Droplet Borne Diseases.md
+      - Communicable Disease/Foodborne Diseases.md
+      - Communicable Disease/Vector Borne Diseases.md
+      - Communicable Disease/Contact Transmissible and Other Diseases.md
       - General Public.md
       - Collaborative Programmes/.keep
       - Collaborative Programmes/Antimicrobial Resistance.md

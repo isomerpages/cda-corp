@@ -2,4 +2,5 @@ collections:
   for-general-public:
     output: true
     order:
+      - Collaborative Programmes/.keep
       - General Public.md

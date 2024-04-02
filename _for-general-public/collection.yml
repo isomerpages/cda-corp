@@ -2,6 +2,7 @@ collections:
   for-general-public:
     output: true
     order:
+      - Communicable Disease/National HIV, STI and Viral Hepatitis Programme.md
       - Communicable Disease/Communicable Diseases.md
       - Communicable Disease/.keep
       - General Public.md

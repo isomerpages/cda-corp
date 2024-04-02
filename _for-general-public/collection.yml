@@ -2,6 +2,7 @@ collections:
   for-general-public:
     output: true
     order:
+      - Vaccinations.md
       - Travel Health.md
       - Communicable Disease/.keep
       - Communicable Disease/Communicable Diseases.md

@@ -1,6 +1,0 @@
-collections:
-  communicable-diseases:
-    output: true
-    order:
-      - National TB Programme.md
-      - National HIV, STI and Viral Hepatitis Programme.md

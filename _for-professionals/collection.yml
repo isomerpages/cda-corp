@@ -2,5 +2,6 @@ collections:
   for-professionals:
     output: true
     order:
+      - National Public Health Laboratory.md
       - Research Strategy and Coordination.md
       - Communicable Diseases/.keep

@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - For Professionals.md
-      - Communicable Diseases/Contact Transmissible and Other Diseases.md
-      - Communicable Diseases/Vector Borne Diseases.md
-      - Communicable Diseases/Foodborne Disease.md
-      - Communicable Diseases/Airborne and Droplet Borne Diseases.md
-      - Communicable Diseases/National TB Programme.md
-      - Communicable Diseases/National HIV, STI and Viral Hepatitis Programme.md
-      - Communicable Diseases/Communicable Diseases.md
       - Communicable Diseases/.keep
+      - Communicable Diseases/Communicable Diseases.md
+      - Communicable Diseases/National HIV, STI and Viral Hepatitis Programme.md
+      - Communicable Diseases/National TB Programme.md
+      - Communicable Diseases/Airborne and Droplet Borne Diseases.md
+      - Communicable Diseases/Foodborne Disease.md
+      - Communicable Diseases/Vector Borne Diseases.md
+      - Communicable Diseases/Contact Transmissible and Other Diseases.md
       - Healthcare Epidemiology Team.md
       - Collaborative Programmes/.keep
       - Collaborative Programmes/Professional Training.md

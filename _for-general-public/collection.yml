@@ -2,6 +2,7 @@ collections:
   for-general-public:
     output: true
     order:
+      - FAQ.md
       - Collaborative Programmes/Antimicrobial Resistance.md
       - Collaborative Programmes/One Health.md
       - Collaborative Programmes/Infection prevention and control.md

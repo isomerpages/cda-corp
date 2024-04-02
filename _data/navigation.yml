@@ -1,28 +1,25 @@
 logo: /images/cda_logo.png
 links:
-  - title: Lorem Ipsum Page
-    url: /lorem-ipsum-page
-  - title: Lorem Ipsum Folder
-    collection: lorem-ipsum-folder
-  - title: Lorem Ipsum
-    url: /permalink
-  - title: Lorem Ipsum
-    url: /permalink
-  - title: Lorem Ipsum
-    url: /for-patients-and-visitors
-    sublinks:
-      - title: Visit a Specialist
-        url: /for-patients-and-visitors/visit-a-specialist
-      - title: Admission
-        url: /for-patients-and-visitors/admission
-      - title: Getting to NCID
-        url: /for-patients-and-visitors/getting-to-ncid
   - title: About CDA
     url: /
     sublinks:
       - title: Who We Are
-        url: /general-public/gppage2/
+        url: /about-cda/who-we-are/
       - title: Careers
         url: https://www.careers.gov.sg/
       - title: Publications
-        url: /general-public/gppage/
+        url: /about-cda/publications/
+      - title: International Work
+        url: /about-cda/international-work
+      - title: Contact Us
+        url: /about-cda/contact-us
+  - title: For General Public
+    collection: for-general-public
+  - title: For Professionals
+    collection: for-professionals
+  - title: Public Health Laboratory
+    url: /permalink
+  - title: News & Events
+    url: /permalink
+  - title: E-Services
+    url: /permalink

@@ -2,6 +2,5 @@ collections:
   general-public:
     output: true
     order:
-      - External Test.md
       - General Public Page 2.md
       - General Public Page 1.md

@@ -2,6 +2,7 @@ collections:
   for-professionals:
     output: true
     order:
+      - Collaborative Programmes/.keep
       - National Public Health Laboratory.md
       - Research Strategy and Coordination.md
       - Communicable Diseases/.keep

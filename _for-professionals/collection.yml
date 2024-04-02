@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Professionals.md
+      - Communicable Diseases/National TB Programme.md
       - Communicable Diseases/National HIV, STI and Viral Hepatitis Programme.md
       - Communicable Diseases/Communicable Diseases.md
       - Communicable Diseases/.keep

@@ -2,4 +2,5 @@ collections:
   for-professionals:
     output: true
     order:
+      - Research Strategy and Coordination.md
       - Communicable Diseases/.keep

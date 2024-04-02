@@ -2,5 +2,6 @@ collections:
   for-general-public:
     output: true
     order:
+      - Collaborative Programmes/Infection prevention and control.md
       - Collaborative Programmes/.keep
       - General Public.md

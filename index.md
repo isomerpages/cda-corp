@@ -12,18 +12,18 @@ sections:
       subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco.
       background: /images/grey_opacity.png
       key_highlights:
-        - title: Lorem Ipsum
+        - title: Ongoing Outbreaks
           description: ""
-          url: ""
-        - title: consectetur adipiscing
-          description: ""
-          url: /consectetur-adipiscing
-        - title: Public Health Strategy
-          description: ""
-          url: /public-health-strategy/public-health-strategy/
+          url: /ongoing-outbreaks
         - title: tempor incididunt
           description: ""
           url: ""
+        - title: Research
+          description: ""
+          url: /research/cda-research
+        - title: Data
+          description: ""
+          url: /data
       variant: center
       backgroundColor: gray
       size: sm

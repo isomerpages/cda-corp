@@ -2,7 +2,6 @@ collections:
   for-professionals:
     output: true
     order:
-      - Infectious Diseases Surveillance in Singapore.md
       - For Professionals.md
       - Collaborative Programmes/.keep
       - Collaborative Programmes/Professional Training.md
@@ -15,4 +14,5 @@ collections:
       - Communicable Diseases/Vector Borne Diseases.md
       - Communicable Diseases/Contact Transmissible and Other Diseases.md
       - Healthcare Epidemiology Team.md
+      - Infectious Diseases Surveillance in Singapore.md
       - Travel Health.md

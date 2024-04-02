@@ -2,5 +2,6 @@ collections:
   about-cda:
     output: true
     order:
+      - International Work.md
       - Who We Are.md
       - Publications.md

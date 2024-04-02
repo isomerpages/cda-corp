@@ -2,8 +2,11 @@ collections:
   for-general-public:
     output: true
     order:
-      - Vaccinations.md
-      - Travel Health.md
+      - General Public.md
+      - Collaborative Programmes/.keep
+      - Collaborative Programmes/Antimicrobial Resistance.md
+      - Collaborative Programmes/One Health.md
+      - Collaborative Programmes/Infection prevention and control.md
       - Communicable Disease/.keep
       - Communicable Disease/Communicable Diseases.md
       - Communicable Disease/National HIV, STI and Viral Hepatitis Programme.md
@@ -12,9 +15,6 @@ collections:
       - Communicable Disease/Foodborne Diseases.md
       - Communicable Disease/Vector Borne Diseases.md
       - Communicable Disease/Contact Transmissible and Other Diseases.md
-      - General Public.md
-      - Collaborative Programmes/.keep
-      - Collaborative Programmes/Antimicrobial Resistance.md
-      - Collaborative Programmes/One Health.md
-      - Collaborative Programmes/Infection prevention and control.md
+      - Travel Health.md
+      - Vaccinations.md
       - FAQ.md

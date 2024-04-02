@@ -17,3 +17,10 @@ links:
         url: /for-patients-and-visitors/admission
       - title: Getting to NCID
         url: /for-patients-and-visitors/getting-to-ncid
+  - title: New menu group test
+    url: /
+    sublinks:
+      - title: Test 1
+        url: https://www.careers.gov.sg/
+      - title: General Public
+        url: /general-public/gppage2/

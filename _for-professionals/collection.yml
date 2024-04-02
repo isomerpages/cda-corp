@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - For Professionals.md
-      - Healthcare Epidemiology Team.md
-      - Travel Health.md
-      - Collaborative Programmes/Professional Training.md
-      - Collaborative Programmes/.keep
-      - Research Strategy and Coordination.md
       - Communicable Diseases/.keep
+      - Healthcare Epidemiology Team.md
+      - Collaborative Programmes/.keep
+      - Collaborative Programmes/Professional Training.md
+      - Travel Health.md
+      - Research Strategy and Coordination.md

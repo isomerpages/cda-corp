@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Professionals.md
+      - Communicable Diseases/Overview.md
       - Communicable Diseases/.keep
       - Healthcare Epidemiology Team.md
       - Collaborative Programmes/.keep

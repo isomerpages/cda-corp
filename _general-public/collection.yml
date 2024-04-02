@@ -2,5 +2,5 @@ collections:
   general-public:
     output: true
     order:
-      - General Public Page 2.md
+      - Who We Are.md
       - General Public Page 1.md

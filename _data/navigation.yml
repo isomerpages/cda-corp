@@ -17,12 +17,12 @@ links:
         url: /for-patients-and-visitors/admission
       - title: Getting to NCID
         url: /for-patients-and-visitors/getting-to-ncid
-  - title: New menu group test
+  - title: About CDA
     url: /
     sublinks:
-      - title: Test 1
-        url: https://www.careers.gov.sg/
-      - title: General Public
+      - title: Who We Are
         url: /general-public/gppage2/
-      - title: GP Page
+      - title: Careers
+        url: https://www.careers.gov.sg/
+      - title: Publications
         url: /general-public/gppage/

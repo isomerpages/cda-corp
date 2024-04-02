@@ -1,5 +1,5 @@
 collections:
-  general-public:
+  about-cda:
     output: true
     order:
       - Who We Are.md

@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Professionals.md
+      - Communicable Diseases/Foodborne Disease.md
       - Communicable Diseases/Airborne and Droplet Borne Diseases.md
       - Communicable Diseases/National TB Programme.md
       - Communicable Diseases/National HIV, STI and Viral Hepatitis Programme.md

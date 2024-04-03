@@ -20,7 +20,7 @@ sections:
           url: ""
         - title: Data
           description: ""
-          url: /data
+          url: /data-1
       variant: center
       backgroundColor: gray
       size: sm

@@ -19,7 +19,9 @@ links:
     collection: for-general-public
   - title: For Professionals
     collection: for-professionals
+  - title: Research
+    collection: research
   - title: News & Events
-    url: /permalink
-  - title: E-Services
-    url: /permalink
+    collection: news-and-events
+  - title: I Want To
+    collection: e-service

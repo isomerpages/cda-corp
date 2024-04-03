@@ -2,7 +2,7 @@ collections:
   for-professionals:
     output: true
     order:
-      - For Professionals.md
+      - Overview.md
       - Collaborative Programmes/.keep
       - Collaborative Programmes/Professional Training.md
       - Communicable Diseases/.keep

@@ -2,10 +2,10 @@ collections:
   for-general-public:
     output: true
     order:
-      - Antimicrobial Resistance.md
-      - One Health.md
-      - Infection prevention and control.md
       - Overview.md
+      - Infection prevention and control.md
+      - One Health.md
+      - Antimicrobial Resistance.md
       - Vaccinations.md
       - Collaborative Programmes/.keep
       - Collaborative Programmes/Antimicrobial Resistance.md

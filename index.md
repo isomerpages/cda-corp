@@ -18,9 +18,6 @@ sections:
         - title: National Public Health Laboratory
           description: ""
           url: ""
-        - title: Research
-          description: ""
-          url: /research/cda-research
         - title: Data
           description: ""
           url: /data

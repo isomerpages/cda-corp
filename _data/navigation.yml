@@ -1,9 +1,9 @@
 logo: /images/cda_logo.png
 links:
-  - title: About CDA
+  - title: Who We Are
     url: /
     sublinks:
-      - title: Who We Are
+      - title: Overview
         url: /about-cda/who-we-are/
       - title: Careers
         url: https://www.careers.gov.sg/

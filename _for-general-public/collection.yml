@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - General Public.md
+      - Vaccinations.md
       - Collaborative Programmes/.keep
       - Collaborative Programmes/Antimicrobial Resistance.md
       - Collaborative Programmes/One Health.md
@@ -16,5 +17,4 @@ collections:
       - Communicable Disease/Vector Borne Diseases.md
       - Communicable Disease/Contact Transmissible and Other Diseases.md
       - Travel Health.md
-      - Vaccinations.md
       - FAQ.md

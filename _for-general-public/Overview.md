@@ -6,8 +6,8 @@ description: ""
 ---
 <h2>Lorem ipsum dolor</h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/16_9.png">
+<div class="iframe-wrapper">
+<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Cf2T3YgyaHA"></iframe>
 </div>
 <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
 doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore

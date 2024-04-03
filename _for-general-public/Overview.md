@@ -5,17 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2>Lorem ipsum dolor</h2>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Cf2T3YgyaHA"></iframe>
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Cf2T3YgyaHA"></iframe>
 </div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
 doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
 veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim

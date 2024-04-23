@@ -1,6 +1,14 @@
 logo: /images/cda_logo.png
 links:
-  - title: Who We Are
+  - title: For General Public
+    collection: for-general-public
+  - title: For Professionals
+    collection: for-professionals
+  - title: Research & Lab Programmes
+    collection: research-and-lab-programmes
+  - title: News & Events
+    collection: news-and-events
+  - title: About CDA
     url: /about-cda/who-we-are/
     sublinks:
       - title: Overview
@@ -15,13 +23,5 @@ links:
         url: /
       - title: Contact Us
         url: /about-cda/contact-us
-  - title: For General Public
-    collection: for-general-public
-  - title: For Professionals
-    collection: for-professionals
-  - title: Research & Lab Programmes
-    collection: research-and-lab-programmes
-  - title: News & Events
-    collection: news-and-events
   - title: I Want To
     collection: e-service

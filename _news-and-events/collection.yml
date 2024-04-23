@@ -2,11 +2,11 @@ collections:
   news-and-events:
     output: true
     order:
-      - Newsroom/Archives.md
-      - Newsroom/Press Releases.md
+      - Newsroom/.keep
       - Newsroom/Media Coverage CDA in the News.md
       - Newsroom/Media Coverage TB.md
-      - Newsroom/.keep
+      - Newsroom/Press Releases.md
+      - Newsroom/Archives.md
       - News.md
       - Press Releases.md
       - Events.md

@@ -2,9 +2,9 @@ collections:
   national-tb-programme:
     output: true
     order:
-      - Educational Materials.md
-      - Media Spotlight.md
-      - Info Sheet.md
-      - For Relatives.md
-      - For Patients.md
       - About NTBP.md
+      - For Patients.md
+      - For Relatives.md
+      - Info Sheet.md
+      - Media Spotlight.md
+      - Educational Materials.md

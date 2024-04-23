@@ -2,7 +2,6 @@ collections:
   for-general-public:
     output: true
     order:
-      - FAQ.md
       - Overview.md
       - Vaccinations.md
       - Infection prevention and control.md
@@ -21,3 +20,4 @@ collections:
       - Vector Borne Diseases.md
       - Contact Transmissible and Other Diseases.md
       - Travel Health.md
+      - FAQ.md

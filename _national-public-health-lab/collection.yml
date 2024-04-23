@@ -2,6 +2,7 @@ collections:
   national-public-health-lab:
     output: true
     order:
+      - About NPHL.md
       - Laboratory Programmes/.keep
       - Laboratory Programmes/Bacteriology.md
       - Laboratory Programmes/Virology.md
@@ -9,4 +10,3 @@ collections:
       - Laboratory Programmes/Human Immunodeficiency Virus, supporting National
         HIV Programme.md
       - Laboratory Programmes/Tuberculosis, supporting National TB Programme.md
-      - About NPHL.md

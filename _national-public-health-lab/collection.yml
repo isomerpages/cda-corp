@@ -1,0 +1,4 @@
+collections:
+  national-public-health-lab:
+    output: true
+    order: []

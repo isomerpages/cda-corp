@@ -2,6 +2,7 @@ collections:
   national-tb-programme:
     output: true
     order:
+      - Media Spotlight.md
       - Info Sheet.md
       - For Relatives.md
       - For Patients.md

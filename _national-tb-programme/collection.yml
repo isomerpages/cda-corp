@@ -2,5 +2,4 @@ collections:
   national-tb-programme:
     output: true
     order:
-      - Media Spotlight.md
       - Educational Materials.md

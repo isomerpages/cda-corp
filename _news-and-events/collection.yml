@@ -2,7 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
-      - Data and Statistics.md
       - Newsroom/.keep
       - Newsroom/Media Coverage CDA in the News.md
       - Newsroom/Media Coverage TB.md
@@ -17,3 +16,4 @@ collections:
       - Press Releases.md
       - Publications.md
       - Weekly Bulletin on CD.md
+      - Data and Statistics.md

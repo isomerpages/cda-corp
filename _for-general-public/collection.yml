@@ -2,6 +2,7 @@ collections:
   for-general-public:
     output: true
     order:
+      - National TB Programme/For Patients.md
       - National TB Programme/About NTBP.md
       - National TB Programme/.keep
       - FAQ.md

@@ -2,6 +2,8 @@ collections:
   national-public-health-lab:
     output: true
     order:
+      - Laboratory Programmes/Human Immunodeficiency Virus, supporting National
+        HIV Programme.md
       - Laboratory Programmes/Malaria and other parasites.md
       - Laboratory Programmes/Virology.md
       - Laboratory Programmes/Bacteriology.md

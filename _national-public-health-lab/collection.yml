@@ -2,7 +2,6 @@ collections:
   national-public-health-lab:
     output: true
     order:
-      - About NPHL.md
       - Laboratory Programmes/.keep
       - Laboratory Programmes/Bacteriology.md
       - Laboratory Programmes/Virology.md

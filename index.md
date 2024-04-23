@@ -15,10 +15,10 @@ sections:
         - title: Ongoing Outbreaks
           description: ""
           url: /ongoing-outbreaks
-        - title: National Public Health Laboratory
+        - title: Emergency Response Plan
           description: ""
           url: ""
-        - title: Data
+        - title: Data & Statistics
           description: ""
           url: /data-1
       variant: center

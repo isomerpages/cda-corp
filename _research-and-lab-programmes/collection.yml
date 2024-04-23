@@ -1,5 +1,5 @@
 collections:
-  research:
+  research-and-lab-programmes:
     output: true
     order:
       - CDA Research.md

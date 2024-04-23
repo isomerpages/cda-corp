@@ -2,7 +2,6 @@ collections:
   national-tb-programme:
     output: true
     order:
-      - About NTBP.md
       - For Patients.md
       - For Relatives.md
       - Info Sheet.md

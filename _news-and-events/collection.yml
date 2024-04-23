@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Newsroom/.keep
-      - Newsroom/Media Coverage CDA in the News.md
+      - Newsroom/CDA in the News.md
       - Newsroom/Media Coverage TB.md
       - Newsroom/Press Releases.md
       - Newsroom/Archives.md

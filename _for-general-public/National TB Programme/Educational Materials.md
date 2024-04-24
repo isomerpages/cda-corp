@@ -67,4 +67,10 @@ third_nav_title: National TB Programme
 </tr>
 </tbody>
 </table>
+<hr>
+<h2>Quiz</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_091052.png">
+</div>
 <p></p>

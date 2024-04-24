@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: National Public Health Lab
 ---
+<h2>Who We Are</h2>
 <p>At the National Public Health Laboratory, we use our range of scientific
 expertise and techniques for the surveillance and outbreak investigation
 of communicable diseases, and to identify emerging pathogens. We track

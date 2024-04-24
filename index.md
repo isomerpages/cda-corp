@@ -28,7 +28,7 @@ sections:
       button: Lorem Ipsum
       url: /
   - announcements:
-      title: Announcements
+      title: Latest News
       id: announcements
       subtitle: Ut enim ad minim veniam quiSET
       announcement_items:

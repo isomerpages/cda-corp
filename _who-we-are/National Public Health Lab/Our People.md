@@ -78,24 +78,9 @@ third_nav_title: National Public Health Lab
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="7">
 <p></p>
 <h2>Scientific Officers</h2>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -104,26 +89,11 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Cui Lin (Senior Principal Scientific Officer)</strong>
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -131,26 +101,11 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Michelle Ang Lay Teng (Senior Scientific Officer)</strong>
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -158,26 +113,11 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Carmen Low (Senior Scientific Officer)</strong>
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -185,25 +125,10 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Chavatte Jean-Marc Gilbert (Senior Scientific Officer)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -211,25 +136,10 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Ngan Jie Yin (Scientific Officer)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -237,25 +147,10 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Benny Yeo Ken Yee (Scientific Officer)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -263,25 +158,10 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Daniel Lim Rui Xiang (Scientific Officer)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -289,25 +169,10 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Cho Su Lei Sharol (Scientific Officer)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -315,25 +180,10 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Ding Yichen (Scientific Officer)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -341,46 +191,16 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Chu Hon Weng Wilson (Scientific Officer)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="7">
 <p></p>
 <h2>Laboratory Operations</h2>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -388,25 +208,10 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Head, Laboratory Ops (Roger)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -414,26 +219,11 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Biosafety Specialist</strong>
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -441,26 +231,11 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Laboratory Information System Specialist</strong>
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -468,45 +243,15 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Quality Officer</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="7">
 <p></p>
 <h2>Laboratory Network Strategy and Coordination</h2>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

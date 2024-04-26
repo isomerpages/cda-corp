@@ -2,13 +2,13 @@ collections:
   for-general-public:
     output: true
     order:
-      - Tuberculosis.md
-      - HIV, STI and Viral Hepatitis.md
       - Overview.md
       - Vaccinations.md
       - Infection prevention and control.md
       - One Health.md
       - Antimicrobial Resistance.md
+      - HIV, STI and Viral Hepatitis.md
+      - Tuberculosis.md
       - Airborne and Droplet Borne Diseases.md
       - Foodborne Diseases.md
       - Vector Borne Diseases.md

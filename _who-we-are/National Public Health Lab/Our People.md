@@ -10,20 +10,8 @@ third_nav_title: National Public Health Lab
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="7">
 <h2>Medical specialists</h2>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -32,65 +20,28 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Raymond_Lin.jpg">
 </div>
 </td>
-<td rowspan="2" colspan="2">
+<td rowspan="2" colspan="6">
 <p><strong>Raymond Lin Tzer Pin (Director)</strong>
 </p>
 <p></p>
 <p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="6">
 <p><strong>Nancy Tee Wen Sim</strong>
 </p>
 <p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -98,26 +49,11 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Gabriel Yan</strong>
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -125,25 +61,10 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Douglas Chan</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -151,24 +72,9 @@ third_nav_title: National Public Health Lab
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="6">
 <p><strong>Yang Huina</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

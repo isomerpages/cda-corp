@@ -2,17 +2,17 @@ collections:
   who-we-are:
     output: true
     order:
+      - Who We Are.md
+      - CDA Research.md
+      - National Public Health Lab/.keep
+      - National HIV, STI and Viral Hepatitis Programme.md
       - National TB Programme/.keep
       - National TB Programme/About NTBP.md
       - National TB Programme/Patients.md
       - National TB Programme/Patients Contact.md
       - National TB Programme/Employer.md
       - National TB Programme/Educational Materials.md
-      - National Public Health Lab/.keep
-      - Who We Are.md
-      - CDA Research.md
-      - National HIV, STI and Viral Hepatitis Programme.md
       - National Infectious Diseases Research.md
-      - Publications.md
       - International Work.md
+      - Publications.md
       - Contact Us.md

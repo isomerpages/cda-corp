@@ -5,14 +5,19 @@ variant: tiptap
 description: ""
 third_nav_title: National Public Health Lab
 ---
-<h2>Medical specialists</h2>
+<h2></h2>
 <p></p>
 <table>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<h2>Medical specialists</h2>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -24,7 +29,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +43,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,7 +55,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,7 +66,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,18 +74,16 @@ third_nav_title: National Public Health Lab
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h2>Scientific Officers</h2>
-<p></p>
-<p></p>
-<table>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,7 +95,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +107,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,7 +119,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,7 +130,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,7 +141,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,7 +152,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,7 +163,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,7 +174,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,7 +185,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,18 +193,16 @@ third_nav_title: National Public Health Lab
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <h2>Laboratory Operations</h2>
-<p></p>
-<p></p>
-<table>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -212,7 +213,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,7 +225,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,7 +237,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,8 +245,12 @@ third_nav_title: National Public Health Lab
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<h2>Laboratory Network Strategy and Coordination</h2>
+</td>
+</tr>
 </tbody>
 </table>
-<hr>
-<h2>Laboratory Network Strategy and Coordination</h2>
 <p></p>

@@ -15,7 +15,7 @@ third_nav_title: National Public Health Lab
 </td>
 </tr>
 <tr>
-<td style="width:20%;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Raymond_Lin.jpg">
 </div>
@@ -23,7 +23,6 @@ third_nav_title: National Public Health Lab
 <td rowspan="1" colspan="1">
 <p><strong>Raymond Lin Tzer Pin (Director)</strong>
 </p>
-<p></p>
 <p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
@@ -36,8 +35,6 @@ third_nav_title: National Public Health Lab
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Nancy Tee Wen Sim</strong>
-</p>
-<p>
 <br><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>

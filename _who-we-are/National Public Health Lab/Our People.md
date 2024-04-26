@@ -15,7 +15,7 @@ third_nav_title: National Public Health Lab
 </td>
 </tr>
 <tr>
-<td style="width:20%;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Raymond_Lin.jpg">
 </div>
@@ -38,7 +38,7 @@ third_nav_title: National Public Health Lab
 <p><strong>Nancy Tee Wen Sim</strong>
 </p>
 <p>
-<br>
+<br><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -51,7 +51,8 @@ third_nav_title: National Public Health Lab
 <td rowspan="1" colspan="1">
 <p><strong>Gabriel Yan</strong>
 </p>
-<p></p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -63,6 +64,8 @@ third_nav_title: National Public Health Lab
 <td rowspan="1" colspan="1">
 <p><strong>Douglas Chan</strong>
 </p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -73,6 +76,8 @@ third_nav_title: National Public Health Lab
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Yang Huina</strong>
+</p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -91,6 +96,8 @@ third_nav_title: National Public Health Lab
 <td rowspan="1" colspan="1">
 <p><strong>Cui Lin (Senior Principal Scientific Officer)</strong>
 </p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -104,6 +111,8 @@ third_nav_title: National Public Health Lab
 <td rowspan="1" colspan="1">
 <p><strong>Michelle Ang Lay Teng (Senior Scientific Officer)</strong>
 </p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -116,7 +125,8 @@ third_nav_title: National Public Health Lab
 <td rowspan="1" colspan="1">
 <p><strong>Carmen Low (Senior Scientific Officer)</strong>
 </p>
-<p></p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -127,6 +137,8 @@ third_nav_title: National Public Health Lab
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Chavatte Jean-Marc Gilbert (Senior Scientific Officer)</strong>
+</p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -140,6 +152,8 @@ third_nav_title: National Public Health Lab
 <td rowspan="1" colspan="1">
 <p><strong>Ngan Jie Yin (Scientific Officer)</strong>
 </p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -150,6 +164,8 @@ third_nav_title: National Public Health Lab
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Benny Yeo Ken Yee (Scientific Officer)</strong>
+</p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -162,6 +178,8 @@ third_nav_title: National Public Health Lab
 <td rowspan="1" colspan="1">
 <p><strong>Daniel Lim Rui Xiang (Scientific Officer)</strong>
 </p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -172,6 +190,8 @@ third_nav_title: National Public Health Lab
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Cho Su Lei Sharol (Scientific Officer)</strong>
+</p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -184,6 +204,8 @@ third_nav_title: National Public Health Lab
 <td rowspan="1" colspan="1">
 <p><strong>Ding Yichen (Scientific Officer)</strong>
 </p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -194,6 +216,8 @@ third_nav_title: National Public Health Lab
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Chu Hon Weng Wilson (Scientific Officer)</strong>
+</p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -212,6 +236,8 @@ third_nav_title: National Public Health Lab
 <td rowspan="1" colspan="1">
 <p><strong>Head, Laboratory Ops (Roger)</strong>
 </p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -222,6 +248,8 @@ third_nav_title: National Public Health Lab
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Biosafety Specialist</strong>
+</p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 <p></p>
 </td>
@@ -235,7 +263,8 @@ third_nav_title: National Public Health Lab
 <td rowspan="1" colspan="1">
 <p><strong>Laboratory Information System Specialist</strong>
 </p>
-<p></p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -246,6 +275,8 @@ third_nav_title: National Public Health Lab
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Quality Officer</strong>
+</p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>

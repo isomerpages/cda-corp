@@ -7,9 +7,6 @@ third_nav_title: National TB Programme
 ---
 <h2><strong>National Tuberculosis Programme</strong></h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="vision" src="/images/Screenshot_2024_04_24_023528.png">
-</div>
 <table>
 <tbody>
 <tr>

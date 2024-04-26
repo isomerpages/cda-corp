@@ -229,7 +229,7 @@ third_nav_title: National Public Health Lab
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Laboratory Information System Specialis</strong>
+<p><strong>Laboratory Information System Specialist</strong>
 </p>
 <p></p>
 </td>

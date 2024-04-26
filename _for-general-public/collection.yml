@@ -2,6 +2,7 @@ collections:
   for-general-public:
     output: true
     order:
+      - HIV, STI and Viral Hepatitis.md
       - Overview.md
       - Vaccinations.md
       - Infection prevention and control.md

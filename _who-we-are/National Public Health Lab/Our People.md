@@ -15,7 +15,7 @@ third_nav_title: National Public Health Lab
 </td>
 </tr>
 <tr>
-<td style="width:25%;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Raymond_Lin.jpg">
 </div>
@@ -96,8 +96,9 @@ third_nav_title: National Public Health Lab
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Michelle_Ang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,7 +110,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Carmen_Low.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +122,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Jean_Marc_Chavatte.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -131,8 +132,9 @@ third_nav_title: National Public Health Lab
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Grace_Ngan_Jie_Yin.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,7 +145,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Benny_Yeo_Ken_Yee.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,7 +156,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Daniel_Lim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -165,7 +167,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Sharol_Cho.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,7 +178,7 @@ third_nav_title: National Public Health Lab
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Ding_Yichen.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

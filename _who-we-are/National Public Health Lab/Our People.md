@@ -15,7 +15,7 @@ third_nav_title: National Public Health Lab
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="width:20%;" rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Raymond_Lin.jpg">
 </div>

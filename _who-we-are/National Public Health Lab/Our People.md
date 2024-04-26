@@ -35,7 +35,8 @@ third_nav_title: National Public Health Lab
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Nancy Tee Wen Sim</strong>
-<br><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+</p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -95,7 +96,6 @@ third_nav_title: National Public Health Lab
 </p>
 <p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,6 @@ third_nav_title: National Public Health Lab
 </p>
 <p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -248,7 +247,6 @@ third_nav_title: National Public Health Lab
 </p>
 <p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>

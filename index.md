@@ -12,12 +12,12 @@ sections:
       subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco.
       background: /images/grey_opacity.png
       key_highlights:
-        - title: Ongoing Outbreaks
+        - title: Events
           description: ""
-          url: /ongoing-outbreaks
-        - title: Emergency Response Plan
+          url: /
+        - title: Programmes Highlights
           description: ""
-          url: ""
+          url: /
         - title: Data & Statistics
           description: ""
           url: /data-1

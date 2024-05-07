@@ -1,5 +1,5 @@
 collections:
-  for-general-public-sub:
+  for-general-public:
     output: true
     order:
       - Diseases/Contact Transmissible and Other Diseases.md

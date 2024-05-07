@@ -1,7 +1,7 @@
 logo: /images/cda_logo.png
 links:
-  - title: For General Public
-    collection: for-general-public
+  - title: For General Public Sub
+    collection: for-general-public-sub
   - title: For Professionals
     collection: for-professionals
   - title: News & Events

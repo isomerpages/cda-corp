@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Who We Are.md
-      - International Work.md
-      - Collaboration Opportunities.md
       - Careers.md
+      - International Work.md
       - Contact Us.md
+      - Collaboration Opportunities.md
       - Useful Links.md

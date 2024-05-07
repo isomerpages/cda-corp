@@ -2,11 +2,10 @@ collections:
   for-professionals:
     output: true
     order:
-      - Vaccinations.md
       - Overview.md
       - Professional Training.md
+      - Vaccinations.md
       - One Health.md
-      - Infectious Diseases Surveillance in Singapore.md
       - Diseases/.keep
       - Diseases/HIV, STI and Viral Hepatitis.md
       - Diseases/Tuberculosis.md
@@ -16,3 +15,4 @@ collections:
       - Diseases/Contact Transmissible and Other Diseases.md
       - Healthcare Epidemiology.md
       - Travel Health.md
+      - Infectious Diseases Surveillance in Singapore.md

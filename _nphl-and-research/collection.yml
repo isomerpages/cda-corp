@@ -2,4 +2,5 @@ collections:
   nphl-and-research:
     output: true
     order:
+      - Research Strategy & Coordination.md
       - National Public Health Laboratory.md

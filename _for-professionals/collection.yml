@@ -2,9 +2,9 @@ collections:
   for-professionals:
     output: true
     order:
-      - One Health.md
       - Overview.md
       - Professional Training.md
+      - One Health.md
       - Infectious Diseases Surveillance in Singapore.md
       - Diseases/.keep
       - Diseases/HIV, STI and Viral Hepatitis.md

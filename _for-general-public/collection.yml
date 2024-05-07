@@ -2,6 +2,8 @@ collections:
   for-general-public:
     output: true
     order:
+      - Overview.md
+      - Vaccinations.md
       - Diseases/.keep
       - Diseases/HIV, STI and Viral Hepatitis.md
       - Diseases/Tuberculosis.md
@@ -9,8 +11,6 @@ collections:
       - Diseases/Foodborne Diseases.md
       - Diseases/Vector Borne Diseases.md
       - Diseases/Contact Transmissible and Other Diseases.md
-      - Overview.md
-      - Vaccinations.md
       - Tuberculosis/.keep
       - Tuberculosis/Patients.md
       - Tuberculosis/Patients Contact.md

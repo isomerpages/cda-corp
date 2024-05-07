@@ -2,15 +2,15 @@ collections:
   for-professionals:
     output: true
     order:
+      - Overview.md
+      - Professional Training.md
+      - Infectious Diseases Surveillance in Singapore.md
+      - Diseases/.keep
       - Diseases/HIV, STI and Viral Hepatitis.md
       - Diseases/Tuberculosis.md
       - Diseases/Airborne and Droplet Borne Diseases.md
       - Diseases/Foodborne Diseases.md
       - Diseases/Vector Borne Diseases.md
       - Diseases/Contact Transmissible and Other Diseases.md
-      - Diseases/.keep
-      - Overview.md
-      - Professional Training.md
-      - Infectious Diseases Surveillance in Singapore.md
       - Healthcare Epidemiology Team.md
       - Travel Health.md

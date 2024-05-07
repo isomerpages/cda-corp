@@ -2,5 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
+      - National HIV, STI and Viral Hepatitis Programme.md
       - National TB Programme.md
       - AMRO.md

@@ -2,7 +2,6 @@ collections:
   for-professionals:
     output: true
     order:
-      - Diseases.md
       - Overview.md
       - Professional Training.md
       - Infectious Diseases Surveillance in Singapore.md

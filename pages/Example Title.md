@@ -21,4 +21,12 @@ description: ""
 </div>
 <p>Expert 2</p>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Testing Accordion</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This is testing text</p>
+</div>
+</details>
+</div>
 <p></p>

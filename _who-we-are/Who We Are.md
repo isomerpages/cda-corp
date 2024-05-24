@@ -19,6 +19,7 @@ Board (HPB). It will also oversee the National Public Health Laboratory.
 Beyond domestic activities, the CDA aims to expand the Singapore’s global
 outreach and collaboration with international partners who share similar
 public health goals.</p>
+<hr>
 <p><strong>Vision:</strong>
 </p>
 <p><em>A Singapore that is resilient against communicable disease challenges.</em>
@@ -27,7 +28,8 @@ public health goals.</p>
 </p>
 <p><em>To protect Singapore from communicable diseases through excellence in public health expertise and capabilities.</em>
 </p>
-<p></p>
+<hr>
+<p>Leadership</p>
 <p></p>
 <h3></h3>
 <p></p>

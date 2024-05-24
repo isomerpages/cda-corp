@@ -4,6 +4,7 @@ collections:
     order:
       - Overview.md
       - Vaccinations.md
+      - Diseases/Diseases (Test Page).md
       - Diseases/.keep
       - Diseases/HIV, STI and Viral Hepatitis.md
       - Diseases/Tuberculosis.md

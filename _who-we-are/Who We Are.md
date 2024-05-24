@@ -35,6 +35,7 @@ public health goals.</p>
 <hr>
 <p><strong>Leadership</strong>
 </p>
+<p>[Insert org chart details]</p>
 <p></p>
 <h3></h3>
 <p></p>

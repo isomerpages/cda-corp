@@ -29,7 +29,12 @@ public health goals.</p>
 <p><em>To protect Singapore from communicable diseases through excellence in public health expertise and capabilities.</em>
 </p>
 <hr>
-<p>Leadership</p>
+<p><strong>Values</strong>
+</p>
+<p>Integrity | Excellence | Respect</p>
+<hr>
+<p><strong>Leadership</strong>
+</p>
 <p></p>
 <h3></h3>
 <p></p>

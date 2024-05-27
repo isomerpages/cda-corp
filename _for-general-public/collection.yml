@@ -2,12 +2,10 @@ collections:
   for-general-public:
     output: true
     order:
-      - Training and Education.md
-      - Preparedness.md
       - Overview.md
       - Vaccinations.md
-      - Diseases/Diseases (Test Page).md
       - Diseases/.keep
+      - Diseases/Diseases (Test Page).md
       - Diseases/HIV, STI and Viral Hepatitis.md
       - Diseases/Tuberculosis.md
       - Diseases/Airborne and Droplet Borne Diseases.md
@@ -15,3 +13,5 @@ collections:
       - Diseases/Vector Borne Diseases.md
       - Diseases/Contact Transmissible and Other Diseases.md
       - Travel Health.md
+      - Preparedness.md
+      - Training and Education.md

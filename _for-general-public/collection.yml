@@ -4,6 +4,7 @@ collections:
     order:
       - Overview.md
       - Vaccinations.md
+      - Diseases/Travel Health.md
       - Diseases/.keep
       - Diseases/Airborne and Droplet Borne Diseases.md
       - Diseases/Contact Transmissible and Other Diseases.md

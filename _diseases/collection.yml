@@ -2,6 +2,7 @@ collections:
   diseases:
     output: true
     order:
+      - T to Z/.keep
       - M to S/.keep
       - G to L/.keep
       - A to F/.keep

@@ -1,4 +1,5 @@
 collections:
   diseases:
     output: true
-    order: []
+    order:
+      - A to F/.keep

@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: T to Z
 ---
-<h2>Understanding tuberculosis (TB): symptoms, causes &amp; treatments </h2>
+<h2>Understanding tuberculosis (TB): symptoms, causes &amp; treatments</h2>
 <p>Learn what is tuberculosis, how it is spread, its symptoms, treatments,
 and prevention measures.</p>
 <p></p>
@@ -182,9 +182,18 @@ symptoms and seek prompt medical evaluation if any concerns arise.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>About the National Tuberculosis Programme</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>The National Tuberculosis Programme (NTBP) is a TB prevention and care
+programme aimed at protecting the people of Singapore from the disease.
+It was launched by the Ministry of Health in 1997 to further its vision
+of a TB-free Singapore with people-centred care.</p>
 <p></p>
+<p>To spearhead NTBP and combat tuberculosis, the National Centres of Infectious
+Diseases (NCID) was appointed. It uses a multi-pronged approach to control
+tuberculosis; including prompt diagnosis and management of the disease;
+effective contact tracing and screening; providing education and strengthening
+partnerships; and implementing sustainable strategies.</p>
 </div>
 </details>
 </div>

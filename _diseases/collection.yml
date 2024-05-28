@@ -2,16 +2,6 @@ collections:
   diseases:
     output: true
     order:
-      - T to Z/.keep
-      - T to Z/Tetanus.md
-      - T to Z/Travel Health.md
-      - T to Z/Tuberculosis.md
-      - T to Z/Viral Gastroenteritis (Norovirus).md
-      - T to Z/Viral hepatitis (bloodborne).md
-      - T to Z/Yellow Fever.md
-      - T to Z/Zika Virus Infection.md
-      - M to S/.keep
-      - G to L/.keep
       - A to F/.keep
       - A to F/Acute respiratory infections.md
       - A to F/Avian Influenza.md
@@ -25,3 +15,13 @@ collections:
       - A to F/Food poisoning (Foodborne illness).md
       - A to F/Foodborne intoxication (Bacillus cereus, Clostridium perfringens
         and Staphylococcus aureus).md
+      - G to L/.keep
+      - M to S/.keep
+      - T to Z/.keep
+      - T to Z/Tetanus.md
+      - T to Z/Travel Health.md
+      - T to Z/Tuberculosis.md
+      - T to Z/Viral Gastroenteritis (Norovirus).md
+      - T to Z/Viral hepatitis (bloodborne).md
+      - T to Z/Yellow Fever.md
+      - T to Z/Zika Virus Infection.md

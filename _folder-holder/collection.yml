@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Educational Materials.md
-      - Employer.md
       - Infection prevention and control.md

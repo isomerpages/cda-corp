@@ -7,7 +7,12 @@ third_nav_title: National TB Programme
 ---
 <h2><strong>National Tuberculosis Programme</strong></h2>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/patients/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_023938.png"></a>
@@ -45,7 +50,7 @@ third_nav_title: National TB Programme
 </td>
 <td rowspan="1" colspan="1">
 <p>I AM POINT OF CONTACT (POC) FOR CONTACT TRACING</p>
-<p><a href="/employee/" rel="noopener noreferrer nofollow" target="_blank">LEARN MORE</a>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">LEARN MORE</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,8 +72,24 @@ third_nav_title: National TB Programme
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_05_29_182402.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>I AM A HEALTHCARE PROFESSIONAL AND WANT TO LEARN MORE</p>
+<p><a href="/professionals" rel="noopener noreferrer nofollow" target="_blank">LEARN MORE</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<hr>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Info Sheet</div><div class="isomer-card-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab</div><div class="isomer-card-link">SEE ALL</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://staging-lite.d1j7qe69dakcfb.amplifyapp.com/tb-in-the-news/" class="isomer-card">
@@ -85,4 +106,5 @@ doloremque laudantium, totam rem aperiam, eaque ipsa quae ab</div>
 </div>
 </a>
 </div>
+<p></p>
 <p></p>

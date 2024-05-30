@@ -2,6 +2,7 @@ collections:
   for-professionals:
     output: true
     order:
+      - Antimicrobial Resistance.md
       - Programmes Highlights.md
       - About NTBP.md
       - National TB Programme/Patients.md

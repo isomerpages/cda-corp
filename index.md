@@ -12,15 +12,18 @@ sections:
       subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco.
       background: /images/grey_opacity.png
       key_highlights:
-        - title: Events
+        - title: National HIV Programme
           description: ""
           url: /
-        - title: Programmes Highlights
+        - title: National Tuberculosis Programme
           description: ""
           url: /
-        - title: Data & Statistics
+        - title: Antimicrobial Resistance
           description: ""
           url: /data-1
+        - title: National Public Health Laboratory
+          description: ""
+          url: ""
       variant: center
       backgroundColor: gray
       size: sm

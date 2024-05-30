@@ -14,16 +14,16 @@ sections:
       key_highlights:
         - title: National HIV Programme
           description: ""
-          url: /
+          url: national-hiv-programme
         - title: National Tuberculosis Programme
           description: ""
-          url: /
+          url: /ntbp/about-ntbp/
         - title: Antimicrobial Resistance
           description: ""
-          url: /data-1
+          url: /antimicrobial-resistance/
         - title: National Public Health Laboratory
           description: ""
-          url: ""
+          url: national-public-health-laboratory/
       variant: center
       backgroundColor: gray
       size: sm

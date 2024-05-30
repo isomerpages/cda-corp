@@ -2,7 +2,6 @@ collections:
   for-professionals:
     output: true
     order:
-      - Overview.md
       - Professional Training.md
       - Vaccinations.md
       - Diseases/.keep

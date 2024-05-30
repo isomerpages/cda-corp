@@ -2,13 +2,13 @@ collections:
   for-general-public:
     output: true
     order:
-      - Overview.md
-      - Vaccinations.md
       - Diseases/.keep
       - Diseases/A to F.md
       - Diseases/G to L.md
       - Diseases/M to S.md
       - Diseases/T to Z.md
+      - Vaccinations.md
       - Travel Health.md
+      - Overview.md
       - Preparedness.md
       - Training and Education.md

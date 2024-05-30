@@ -33,7 +33,7 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Ut enim ad minim veniam quiSET
+      subtitle: STAY INFORMED!
       announcement_items:
         - title: Lorem ipsum dolor sit amet
           date: 21 March 2024

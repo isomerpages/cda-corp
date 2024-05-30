@@ -6,9 +6,9 @@ links:
     collection: for-professionals
   - title: Our Programmes
     collection: our-programmes
-  - title: News & Events
-    collection: news-and-events
   - title: About CDA
     collection: who-we-are
   - title: I Want To
     collection: e-service
+  - title: News & Events
+    resource_room: true

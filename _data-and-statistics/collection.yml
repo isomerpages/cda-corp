@@ -1,5 +1,4 @@
 collections:
   data-and-statistics:
     output: true
-    order:
-      - Data 2.md
+    order: []

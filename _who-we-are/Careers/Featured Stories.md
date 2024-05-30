@@ -27,6 +27,8 @@ third_nav_title: Careers
 <td rowspan="1" colspan="1">
 <p>Soloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
 veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -45,6 +47,8 @@ veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
 <td rowspan="1" colspan="1">
 <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
 doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -55,6 +59,8 @@ doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sed ut perspiciatis unde omnis iste natus eem aperia</p>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
 </td>
 </tr>
 </tbody>

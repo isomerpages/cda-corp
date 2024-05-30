@@ -59,7 +59,7 @@ sections:
           link_url: /
   - resources:
       title: Latest News & Events
-      subtitle: UT ENIM AD MINIM VENIAM
+      subtitle: BE IN THE KNOW
       id: resources
       button: SEE ALL
   - infopic:

@@ -2,5 +2,4 @@ collections:
   data-and-statistics:
     output: true
     order:
-      - Data 1.md
       - Data 2.md

@@ -2,7 +2,7 @@
 layout: homepage
 title: CDA Staging 1
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/CDA_RGBLogo_ICON_COLOUR.png
 permalink: /
 notification: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua.

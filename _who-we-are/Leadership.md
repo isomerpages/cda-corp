@@ -4,6 +4,12 @@ permalink: /leadership/
 variant: tiptap
 description: ""
 ---
+<h2>Organisation Chart</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_3.png">
+</div>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -17,6 +23,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Empty_Profile_Image.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="3">
 <p><strong>Executive Director</strong>

@@ -28,7 +28,7 @@ sections:
       button: Lorem Ipsum
       url: /
   - announcements:
-      title: Latest News
+      title: Announcements
       id: announcements
       subtitle: Ut enim ad minim veniam quiSET
       announcement_items:
@@ -55,7 +55,7 @@ sections:
           link_text: Excepteur Sint Occaecat
           link_url: /
   - resources:
-      title: Resources
+      title: News & Events
       subtitle: UT ENIM AD MINIM VENIAM
       id: resources
       button: SEE ALL

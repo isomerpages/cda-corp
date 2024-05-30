@@ -2,6 +2,7 @@ collections:
   for-professionals:
     output: true
     order:
+      - Programmes Highlights.md
       - About NTBP.md
       - National TB Programme/Patients.md
       - National TB Programme/Patients Contact.md

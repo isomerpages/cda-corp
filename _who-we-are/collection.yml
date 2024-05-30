@@ -2,7 +2,6 @@ collections:
   who-we-are:
     output: true
     order:
-      - International Collaborations.md
       - Who We Are.md
       - Leadership.md
       - Careers/.keep
@@ -10,4 +9,5 @@ collections:
       - Careers/Healthcare Scholarship, Grants, Fellowship and Internship.md
       - Careers/Featured Stories.md
       - Careers/Recruitment Journey.md
+      - International Collaborations.md
       - Contact Us.md

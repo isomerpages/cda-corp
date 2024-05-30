@@ -55,7 +55,7 @@ sections:
           link_text: Excepteur Sint Occaecat
           link_url: /
   - resources:
-      title: News & Events
+      title: Latest News & Events
       subtitle: UT ENIM AD MINIM VENIAM
       id: resources
       button: SEE ALL

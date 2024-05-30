@@ -94,25 +94,25 @@ sections:
       button: LOREM IPSUM
       url: /
   - textcards:
-      title: Text Cards
+      title: Data & Statistics
       subtitle: SITAMET CONSECTETUR ADIPIS
       id: textcards
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
         minim veniam, quis nosterLorem ipsum dolor sit amet.
       cards:
-        - title: Lorem Ipsum Dolor
+        - title: Weekly Infectious Diseases Bulletin
           description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
           linktext: Learn more
-          url: ""
-        - title: Lorem Ipsum Dolor
+          url: /weekly-infectious-diseases-bulletin/
+        - title: National Research Foundation Grants
           description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
           linktext: Learn more
-          url: ""
-        - title: Lorem Ipsum Dolor
+          url: https://www.ncid.sg/Research/grant-analysis/Pages/National-Research-Foundation-grants.aspx
+        - title: Antimicrobial Resistance
           description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
           linktext: Learn more
-          url: ""
+          url: https://www.ncid.sg/Research/research-output-analysis/Pages/Amr-Coauthorship-Analysis.aspx
         - title: Lorem Ipsum Dolor
           description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
           linktext: Learn more

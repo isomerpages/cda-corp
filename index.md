@@ -94,8 +94,8 @@ sections:
       button: LOREM IPSUM
       url: /
   - textcards:
-      title: Data & Statistics
-      subtitle: SITAMET CONSECTETUR ADIPIS
+      title: Insightful Analytics
+      subtitle: DATA & STATISTICS
       id: textcards
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad

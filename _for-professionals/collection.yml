@@ -2,15 +2,6 @@ collections:
   for-professionals:
     output: true
     order:
-      - National HIV, STI and Viral Hepatitis Programme.md
-      - Antimicrobial Resistance.md
-      - Programmes Highlights.md
-      - National TB Programme/.keep
-      - National TB Programme/About NTBP.md
-      - National TB Programme/Patients.md
-      - National TB Programme/Patients Contact.md
-      - National TB Programme/Employer.md
-      - National TB Programme/Educational Materials.md
       - Diseases/.keep
       - Diseases/HIV, STI and Viral Hepatitis.md
       - Diseases/Tuberculosis.md
@@ -18,11 +9,20 @@ collections:
       - Diseases/Foodborne Diseases.md
       - Diseases/Vector Borne Diseases.md
       - Diseases/Contact Transmissible and Other Diseases.md
+      - Programmes Highlights.md
       - Vaccinations.md
       - Travel Health.md
       - One Health.md
+      - Antimicrobial Resistance.md
       - Healthcare Epidemiology.md
       - Preparedness.md
       - Professional Training.md
+      - National HIV, STI and Viral Hepatitis Programme.md
+      - National TB Programme/.keep
+      - National TB Programme/About NTBP.md
+      - National TB Programme/Patients.md
+      - National TB Programme/Patients Contact.md
+      - National TB Programme/Employer.md
+      - National TB Programme/Educational Materials.md
       - Research.md
       - National Public Health Laboratory.md

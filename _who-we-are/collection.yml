@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - International Collaborations.md
       - Who We Are.md
       - Leadership.md
       - Careers/.keep

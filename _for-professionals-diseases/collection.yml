@@ -2,6 +2,7 @@ collections:
   for-professionals-diseases:
     output: true
     order:
+      - A to F/Chikungunya Fever.md
       - A to F/Chlamydia Genital Infection.md
       - A to F/Cholera and other Vibrioses.md
       - A to F/Clostridium perfringens.md

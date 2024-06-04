@@ -193,35 +193,116 @@ third trimester</p>
 <summary><strong>Treatment and Management</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>For general treatment measures, patients are advised to clean the affected
+areas with normal saline, take analgesic and/or receive treatment for any
+secondary bacterial infection. &nbsp;</p>
+<p>&nbsp;</p>
+<p>Systemic antiviral drugs can partially control the signs and symptoms
+of genital herpes when used to treat first clinical and recurrent episodes,
+or when used as daily suppressive therapy. However, these drugs neither
+eradicate latent virus nor affect the risk, frequency, or severity of recurrences
+after the drug is discontinued.&nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Recommended regimens for first episode of genital herpes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Acyclovir&nbsp;</strong>400 mg orally 3 times/day for 7–10 days
+or</p>
+</li>
+<li>
+<p><strong>Valacyclovir&nbsp;</strong>1g orally 2 times/day for 7–10 days
+or</p>
+</li>
+<li>
+<p><strong>Famciclovir&nbsp;</strong>250 mg orally 3 times/day for 7–10 days</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>For optimal benefit, the treatment should be started within 48 to 72 hours
+of onset of lesions, when new lesions continue to form or when symptoms
+and signs are severe. Treatment can be extended if healing is incomplete
+after 10 days of therapy.</p>
+<p>&nbsp;</p>
+<p>Recurrent genital herpes:</p>
+<p>Most recurrent attacks are mild and can be managed with general measures.
+Routine use of specific treatment is not necessary. Management should be
+decided together with the patient.</p>
+<p>&nbsp;</p>
+<p>Follow-up:</p>
+<p>Counselling of infected persons and their sex partners is crucial for
+management. The goals of counselling are to help patients cope with the
+infection and prevent sexual and perinatal transmission.</p>
+<p>&nbsp;</p>
+<p>Please refer to <a href="https://www.nsc.com.sg/dsc/healthcare-professionals/publications/Pages/STI-Management-Guidelines.aspx" rel="noopener noreferrer nofollow" target="_blank">DSC’s website</a> for
+more information on the treatment options for genital herpes.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Precaution, Prevention and Control</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Prevention of genital herpes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Abstain from sexual activity during symptomatic periods</p>
+</li>
+<li>
+<p>Consistent and correct use of condoms when engaging in sexual activity
+&nbsp;</p>
+</li>
+<li>
+<p>Limit the number of sex partners</p>
+</li>
+<li>
+<p>Get tested for STIs regularly</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Management of sexual contacts:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sexual partners of patients with genital herpes are likely to benefit
+from evaluation and counselling. They should be questions on a history
+of typical and atypical genital lesions, encouraged to examine themselves
+for lesions and seek medical attention early if lesions appear. TSSTs may
+be useful in counselling couples.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Notification</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Genital herpes is not a notifiable disease.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Resources</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Please refer to <a href="https://www.nsc.com.sg/dsc/healthcare-professionals/publications/Pages/STI-Management-Guidelines.aspx" rel="noopener noreferrer nofollow" target="_blank">DSC’s website</a> for
+more information on the treatment options for genital herpes.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>References</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Centers for Disease Control and Prevention. STI treatment guidelines:
+Genital herpes. 2021.</p>
+</li>
+<li>
+<p>Department of Sexually Transmitted Infections Control (DSC). STI management
+guidelines 7<sup>th</sup> edition. 2021.</p>
+</li>
+<li>
+<p>World Health Organization. Herpes simplex virus. 2023.</p>
+</li>
+</ul>
 </div>
 </details>
 </div>

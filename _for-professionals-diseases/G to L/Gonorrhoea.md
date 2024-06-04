@@ -237,49 +237,118 @@ more information on alternative regimens and other treatment options.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Annual screening for <em>N. gonorrhoeae</em> infection is recommended for
 all individuals who are sexually active.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Individuals with multiple sex partners,
-change in sex partner, or engaging in unprotected sex should consider regular
-screening</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More frequent screening than annual
-might be indicated for certain individuals on the basis of their risk behaviors</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Individuals with multiple sex partners, change in sex partner, or engaging
+in unprotected sex should consider regular screening</p>
+</li>
+<li>
+<p>More frequent screening than annual might be indicated for certain individuals
+on the basis of their risk behaviors</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>Prevention of gonorrhoea:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inform current or recent sexual
-partners if a diagnosis of gonorrhoea has been confirmed</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Avoid sexual intercourse until at
-least 7 days after treatment is completed</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not having sex</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consistent and correct use of condoms
-when engaging in sexual activity&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Limit the number of sex partners</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Get tested for STIs regularly</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Inform current or recent sexual partners if a diagnosis of gonorrhoea
+has been confirmed</p>
+</li>
+<li>
+<p>Avoid sexual intercourse until at least 7 days after treatment is completed</p>
+</li>
+<li>
+<p>Not having sex</p>
+</li>
+<li>
+<p>Consistent and correct use of condoms when engaging in sexual activity&nbsp;</p>
+</li>
+<li>
+<p>Limit the number of sex partners</p>
+</li>
+<li>
+<p>Get tested for STIs regularly</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>Management of sexual contacts:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual contacts of the patients
-in the preceding 60 days should be traced, screened and treated on epidemiologic
-grounds. If the last sexual exposure was &gt;60 days, the patient’s most
-recent partner should be treated.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sexual contacts of the patients in the preceding 60 days should be traced,
+screened and treated on epidemiologic grounds. If the last sexual exposure
+was &gt;60 days, the patient’s most recent partner should be treated.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Notification</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Gonorrhoea is a notifiable disease.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Who should notify: medical practitioners and laboratories</p>
+</li>
+<li>
+<p>When to notify:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Medical practitioners – on clinical suspicion</p>
+</li>
+<li>
+<p>Laboratories – on laboratory confirmation</p>
+</li>
+</ul>
+</li>
+<li>
+<p>How to notify:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Submit MD131 Notification of Infectious Diseases Form via CDLENS (<a rel="noopener noreferrer nofollow" target="_blank">http://www.cdlens.moh.gov.sg</a>)
+or fax (6221-5528/38/67)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Timeline on notification:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Within 72 hours from time of diagnosis</p>
+</li>
+</ul>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Resources</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Please refer to <a href="https://www.moh.gov.sg/resources-statistics/reports/communicable-diseases-surveillance-in-singapore-2019-2020" rel="noopener noreferrer nofollow" target="_blank">MOH’s website</a> for
+the communicable disease surveillance in Singapore.</p>
+<p>Please refer to <a href="https://www.nsc.com.sg/dsc/healthcare-professionals/publications/Pages/STI-Management-Guidelines.aspx" rel="noopener noreferrer nofollow" target="_blank">DSC’s website</a> for
+more information on gonorrhoea.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>References</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Centers for Disease Control and Prevention. STI treatment guidelines:
+Gonococcal infections. 2021.</p>
+</li>
+<li>
+<p>Department of Sexually Transmitted Infections Control (DSC). STI management
+guidelines 7<sup>th</sup> edition. 2021.</p>
+</li>
+<li>
+<p>World Health Organization. Gonorrhoea (Neisseria gonorrhoeae infection).
+2023.</p>
+</li>
+</ul>
 </div>
 </details>
 </div>

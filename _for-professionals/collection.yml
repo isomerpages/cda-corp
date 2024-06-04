@@ -2,7 +2,6 @@ collections:
   for-professionals:
     output: true
     order:
-      - Diseases.md
       - Vaccinations.md
       - Travel Health.md
       - One Health.md

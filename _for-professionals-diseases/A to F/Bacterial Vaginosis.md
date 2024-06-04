@@ -41,42 +41,81 @@ access to healthcare.</p>
 </p>
 </div>
 </details>
-</div>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>Transmission</strong>
-</p>
+<details class="isomer-details">
+<summary><strong>Transmission</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><em>BV is not considered a sexually transmitted infection, but it does occur more commonly in sexually active women. </em>The
 exact role of sexual transmission in the pathogenesis of BV vaginal dysbiosis
 is unclear.</p>
-<p>&nbsp;</p>
 <p><strong>Incubation period</strong>: 4 days</p>
 <p><strong>Infectious period: </strong>NA</p>
-<p></p>
-<p><strong>Clinical features</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Clinical features</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>BV may be asymptomatic. Common symptoms include:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; unusual vaginal discharge
-that is thin and grayish-white</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a fishy odour from the
-vagina, especially after sex</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; itching or irritation
-around the vagina</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; burning during urination</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>unusual vaginal discharge that is thin and grayish-white</p>
+</li>
+<li>
+<p>a fishy odour from the vagina, especially after sex</p>
+</li>
+<li>
+<p>itching or irritation around the vagina</p>
+</li>
+<li>
+<p>burning during urination</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>At times, BV will go away without treatment. However, if untreated it
 can lead to:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; problems in pregnancy
-(for example, spontaneous abortion and preterm delivery for pregnant women
-with BV)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; higher risk of STIs
-and HIV</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>problems in pregnancy (for example, spontaneous abortion and preterm delivery
+for pregnant women with BV)</p>
+</li>
+<li>
+<p>higher risk of STIs and HIV</p>
+</li>
+<li>
 <p>pelvic inflammatory disease</p>
-<p></p>
-<p>
-<br>
-</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Risk factors</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Risk factors include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>vaginal douching</p>
+</li>
+<li>
+<p>receptive cunnilingus</p>
+</li>
+<li>
+<p>recent change of sex partner</p>
+</li>
+<li>
+<p>smoking</p>
+</li>
+<li>
+<p>presence of an STI</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Diagnosis</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -84,22 +123,7 @@ and HIV</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Risk factors</strong>
-</p>
-<p>Risk factors include:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vaginal douching</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; receptive cunnilingus</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recent change of sex
-partner</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; smoking</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; presence of an STI</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Diagnosis</strong>
-</p>
+<p></p>
 <p>BV is often diagnosed by the Amsel criteria, with at least three of the
 four criteria should be present:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thin homogenous vaginal
@@ -112,10 +136,45 @@ odour test (“whiff test”) before or after addition of 10% KOH</p>
 on microscopy of vaginal discharge.</p>
 </td>
 </tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Treatment and Management</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p>&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Treatment and Management</strong>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <p>Patients should be asked to avoid vaginal douching, use of shower gels,
 antiseptic agents or shampoos in the bath.</p>
 <p>&nbsp;</p>

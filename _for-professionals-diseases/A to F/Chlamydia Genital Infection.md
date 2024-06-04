@@ -146,136 +146,185 @@ delivery may lead to neonatal conjunctivitis and pneumonia</p>
 <summary><strong>Diagnosis</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Tests for diagnosis include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nucleic acid-based amplification testing (NAAT), a gold standard</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Females: cervical or vulvo-vaginal swabs are specimens of choice, followed
+by first void urine (FVU)</p>
+</li>
+<li>
+<p>Males: urine is the specimen of choice; FVU is as sensitive as urethral
+swabs</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Polymerase chain reaction (PCR) can be used to test a range of specimens
+(urine, urethral, cervical, rectal, pharyngeal)</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Treatment and Management</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Recommended regimens for uncomplicated chlamydia infections in adults:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Doxycycline</strong>&nbsp;100 mg orally 2 times/day for 7 days</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Recommended regimens for chlamydia infections in pregnancy:</p>
+<p><strong>Azithromycin 1g orally single dose</strong>
+</p>
 <p></p>
+<p>Follow-up:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A test-of-cure is not necessary with compliance to treatment with a tetracycline
+or azithromycin has been completed, unless symptoms persist or reinfection
+is suspected</p>
+</li>
+<li>
+<p>Test-of-cure is however recommended after 4 weeks for infection in infants,
+children and pregnant women, or when erythromycin was used</p>
+</li>
+<li>
+<p>Non-culture tests (e.g., NAATs) performed within 4 weeks of completing
+treatment may yield false positive tests due to persistence of chlamydia
+antigens</p>
+</li>
+<li>
+<p>Owing to the increased risk of complications following repeat infection
+in females, rescreening for reinfection may be indicated especially for
+high-risk females after 3 to 4 months</p>
+</li>
+<li>
+<p>Serologic tests for syphilis and HIV should be performed; if negative
+they should be repeated at 3 months for syphilis and HIV, after the last
+high risk exposure</p>
+</li>
+</ul>
+<p></p>
+<p>Please refer to <a href="https://www.nsc.com.sg/dsc/healthcare-professionals/publications/Pages/STI-Management-Guidelines.aspx" rel="noopener noreferrer nofollow" target="_blank">DSC’s website</a> for
+more information on alternative regimens.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Precaution, Prevention and Control</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Annual screening for chlamydia symptoms and other STIs is recommended
+for all individuals who are sexually active.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Individuals with multiple sex partners, change in sex partner, or engaging
+in unprotected sex should consider regular screening</p>
+</li>
+<li>
+<p>More frequent screening than annual might be indicated for certain individuals
+on the basis of their risk behaviors</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Prevention of chlamydia:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Consistent and correct use of condoms when engaging in sexual activity&nbsp;</p>
+</li>
+<li>
+<p>Limit the number of sex partners</p>
+</li>
+<li>
+<p>Get tested for STIs regularly</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Management of sexual contacts:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sex partners of symptomatic male patients within the last 60 days from
+symptom onset (or the most recent sex partner if the last contact was &gt;60
+days) should be screened and treated for chlamydial infection epidemiologically.
+The look-back period for contacts of female patients and asymptomatic males
+is longer, e.g., 3 months.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Notification</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Chlamydial genital infection is a notifiable disease.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Who should notify: medical practitioners and laboratories</p>
+</li>
+<li>
+<p>When to notify:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Medical practitioners – on clinical suspicion</p>
+</li>
+<li>
+<p>Laboratories – on laboratory confirmation</p>
+</li>
+</ul>
+</li>
+<li>
+<p>How to notify:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Submit MD131 Notification of Infectious Diseases Form via CDLENS (<a rel="noopener noreferrer nofollow" target="_blank">http://www.cdlens.moh.gov.sg</a>)
+or fax (6221-5528/38/67)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Timeline on notification:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Within 72 hours from time of diagnosis</p>
+</li>
+</ul>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Resources</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Please refer to <a href="https://www.moh.gov.sg/resources-statistics/reports/communicable-diseases-surveillance-in-singapore-2019-2020" rel="noopener noreferrer nofollow" target="_blank">MOH’s website</a> for
+the communicable disease surveillance in Singapore.</p>
+<p>Please refer to <a href="https://www.nsc.com.sg/dsc/healthcare-professionals/publications/Pages/STI-Management-Guidelines.aspx" rel="noopener noreferrer nofollow" target="_blank">DSC’s website</a> for
+more information on alternative regimens.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>References</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Centers for Disease Control and Prevention. STI treatment guidelines:
+Chlamydial infections. 2021.</p>
+</li>
+<li>
+<p>Department of Sexually Transmitted Infections Control (DSC). STI management
+guidelines 7<sup>th</sup> edition. 2021.</p>
+</li>
+<li>
+<p>World Health Organization. Chlamydia. 2023.</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
 <p></p>
-<p>
-<br>
-</p>
-<details class="isomer-details">
-<summary><strong>Overview/Background</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Disease Epidemiology</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Pathogen(s)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Transmission</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Clinical Features</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Risk Factors</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Diagnosis</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Treatment and Management</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Precaution, Prevention and Control</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Notification</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Resources</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>References</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<p></p>
-<p></p>
-<p><strong>References</strong>
-</p>
-<p><strong>References</strong>
-</p>

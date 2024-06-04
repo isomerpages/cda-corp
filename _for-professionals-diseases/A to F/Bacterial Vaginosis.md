@@ -15,8 +15,7 @@ by an imbalance of microorganisms in the vagina. In cases of BV, there
 is a decrease in the number of normal hydrogen peroxide-producing <em>Lactobacillus </em>species
 and an excessive growth of anaerobic bacteria, such as <em>Gardnerella spp.</em>,&nbsp;<em>Prevotella spp., Mobilincus spp., Ureaplasma urealyticum and Mycoplasma hominis, leading to an increase in pH from less than 4.5 to as high as 7.0.</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
+<p></p>
 <p><em>BV is not considered a sexually transmitted infection, but it does occur more commonly in sexually active women. </em>The
 exact role of sexual transmission in the pathogenesis of BV vaginal dysbiosis
 is unclear.</p>

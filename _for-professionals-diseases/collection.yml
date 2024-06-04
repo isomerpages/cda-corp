@@ -2,6 +2,7 @@ collections:
   for-professionals-diseases:
     output: true
     order:
+      - T To Z/Viral hepatitis (Bloodborne).md
       - T To Z/Yellow Fever.md
       - T To Z/Zika Virus Infection.md
       - T To Z/.keep

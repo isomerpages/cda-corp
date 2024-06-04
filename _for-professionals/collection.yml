@@ -2,13 +2,6 @@ collections:
   for-professionals:
     output: true
     order:
-      - Diseases/.keep
-      - Diseases/HIV, STI and Viral Hepatitis.md
-      - Diseases/Tuberculosis.md
-      - Diseases/Airborne and Droplet Borne Diseases.md
-      - Diseases/Foodborne Diseases.md
-      - Diseases/Vector Borne Diseases.md
-      - Diseases/Contact Transmissible and Other Diseases.md
       - Vaccinations.md
       - Travel Health.md
       - One Health.md

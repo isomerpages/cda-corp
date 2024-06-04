@@ -2,6 +2,7 @@ collections:
   for-professionals-diseases:
     output: true
     order:
+      - G to L/HIV (AIDS).md
       - G to L/Influenza.md
       - G to L/Invasive Group B Streptococcal Infection.md
       - G to L/Invasive Pneumococcal Disease.md

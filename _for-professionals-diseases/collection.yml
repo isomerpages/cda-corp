@@ -2,6 +2,7 @@ collections:
   for-professionals-diseases:
     output: true
     order:
+      - M to S/Staphylococcus aureus.md
       - M to S/Syphilis.md
       - M to S/.keep
       - T To Z/Tetanus.md

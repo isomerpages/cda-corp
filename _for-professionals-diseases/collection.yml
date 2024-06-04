@@ -2,6 +2,7 @@ collections:
   for-professionals-diseases:
     output: true
     order:
+      - M to S/Salmonellosis (non typhoidal).md
       - M to S/Severe Acute Respiratory Syndrome (SARS).md
       - M to S/Staphylococcus aureus.md
       - M to S/Syphilis.md

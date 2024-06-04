@@ -2,6 +2,7 @@ collections:
   for-professionals-diseases:
     output: true
     order:
+      - G to L/Invasive Pneumococcal Disease.md
       - G to L/Japanese Encephalitis.md
       - G to L/Lassa Fever.md
       - G to L/Legionellosis.md

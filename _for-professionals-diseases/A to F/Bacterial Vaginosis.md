@@ -5,8 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: A to F
 ---
-<p><strong>Overview/Background</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Overview/Background</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Bacterial vaginosis (BV) is a common condition in women characterized
 by an imbalance of microorganisms in the vagina. In cases of BV, there
 is a decrease in the number of normal hydrogen peroxide-producing <em>Lactobacillus </em>species
@@ -18,17 +21,29 @@ and an excessive growth of anaerobic bacteria, such as <em>Gardnerella spp.</em>
 exact role of sexual transmission in the pathogenesis of BV vaginal dysbiosis
 is unclear.</p>
 <p></p>
-<p><strong>Disease Epidemiology</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Disease Epidemiology</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>BV is the most common vaginal infection found in women of reproductive
 age and is estimated to occur in anywhere from 5 to 70% of women. Globally,
 it is more commonly reported in low-resource settings and areas with limited
 access to healthcare.</p>
-<p></p>
-<p><strong>Pathogen(s)</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Pathogen(s)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The organisms most commonly associated with BV are&nbsp;<em>G. vaginalis, Bacteroides spp, Prevotella</em> spp.,&nbsp;<em>Mobiluncus</em>&nbsp;spp<em>.,</em>  <em>Ureaplasma </em>urealyticum<em> </em>and&nbsp;<em>Mycoplasma hominis.</em>
 </p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p><strong>Transmission</strong>
 </p>

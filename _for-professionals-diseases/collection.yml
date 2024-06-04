@@ -2,6 +2,7 @@ collections:
   for-professionals-diseases:
     output: true
     order:
+      - G to L/Hepatitis C, acute.md
       - G to L/Hepatitis E, acute.md
       - G to L/HIV (AIDS).md
       - G to L/Influenza.md

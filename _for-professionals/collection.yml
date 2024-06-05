@@ -2,16 +2,11 @@ collections:
   for-professionals:
     output: true
     order:
-      - NPHL/.keep
-      - NPHL/Introduction to NPHL.md
-      - NPHL/Laboratory Programmes.md
-      - NPHL/Laboratory Analytical Methods.md
-      - NPHL/Our People.md
+      - Diseases/.keep
       - Diseases/A to F.md
       - Diseases/G to L.md
       - Diseases/M to S.md
       - Diseases/T to Z.md
-      - Diseases/.keep
       - Vaccinations.md
       - Travel Health.md
       - One Health.md
@@ -28,3 +23,8 @@ collections:
       - National TB Programme/Media Spotlight.md
       - National TB Programme/Contact Us.md
       - Research.md
+      - NPHL/.keep
+      - NPHL/Introduction to NPHL.md
+      - NPHL/Laboratory Programmes.md
+      - NPHL/Laboratory Analytical Methods.md
+      - NPHL/Our People.md

@@ -2,7 +2,7 @@ collections:
   for-professionals:
     output: true
     order:
-      - NPHL/Introduction to National Public Health Laboratory.md
+      - NPHL/Introduction to NPHL.md
       - NPHL/.keep
       - Diseases/A to F.md
       - Diseases/G to L.md

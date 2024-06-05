@@ -2,4 +2,5 @@ collections:
   e-service:
     output: true
     order:
+      - E Service 2.md
       - Register vaccination records.md

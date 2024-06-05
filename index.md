@@ -8,22 +8,19 @@ notification: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua.
 sections:
   - hero:
-      title: Lorem Ipsum Dolor
+      title: Protecting Health, Saving Lives, Preserving Livelihoods
       subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco.
       background: /images/grey_opacity.png
       key_highlights:
-        - title: National HIV Programme
+        - title: Weekly Infectious Diseases Bulletin
           description: ""
-          url: national-hiv-programme
-        - title: National Tuberculosis Programme
+          url: /weekly-infectious-diseases-bulletin/
+        - title: Diseases
           description: ""
-          url: /ntbp/about-ntbp/
-        - title: Antimicrobial Resistance
+          url: /a-to-f/
+        - title: Pandemic Preparedness
           description: ""
-          url: /antimicrobial-resistance/
-        - title: National Public Health Laboratory
-          description: ""
-          url: national-public-health-laboratory/
+          url: /
       variant: center
       backgroundColor: gray
       size: sm

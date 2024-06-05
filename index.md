@@ -60,6 +60,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/4_3.png
   - infopic:
       title: Infopic
       subtitle: National Public Health Lab
@@ -112,15 +113,18 @@ sections:
         minim veniam, quis nosterLorem ipsum dolor sit amet.
       cards:
         - title: Antimicrobial Resistance (AMR)
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          description: Learn more about AMR efforts in education, surveillance and risk
+            assessment...
           linktext: Learn more
           url: ""
         - title: OneHealth
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          description: Learn about Singapore's OneHealth Framework which is an integration
+            of...
           linktext: Learn more
           url: ""
         - title: Healthcare Epidemiology
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          description: Explore infection prevention and control guidelines that have been
+            prepared...
           linktext: Learn more
           url: ""
   - textcards:

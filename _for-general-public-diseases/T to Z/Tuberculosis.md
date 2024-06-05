@@ -6,8 +6,8 @@ description: ""
 third_nav_title: T to Z
 ---
 <h2>Understanding Tuberculosis (TB): Causes, Symptoms, and Treatments</h2>
-<p>Learn what is tuberculosis, how it is spread, its symptoms, treatments,
-and prevention measures.</p>
+<p>Learn what is tuberculosis, its causes, symptoms, treatments, and prevention
+measures.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

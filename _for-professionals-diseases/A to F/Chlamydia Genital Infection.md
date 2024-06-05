@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: A to F
 ---
-<h2>Overview/Background</h2>
+<h2>Overview</h2>
 <p>Chlamydia is a common sexually transmitted infection (STI) caused by the
 bacterium <em>Chlamydia trachomatis </em>that can occur in both men and
 women. It is easily treated and cured with antibiotics.</p>

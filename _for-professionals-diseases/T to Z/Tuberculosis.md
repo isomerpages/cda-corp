@@ -69,7 +69,7 @@ will get TB.</p>
 <p></p>
 <p><strong>Incubation period</strong>: 2 - 8 weeks, but can be much longer
 (years)</p>
-<p><strong>Infectious period: </strong> Individuals with active TB disease
+<p><strong>Infectious period: </strong>Individuals with active TB disease
 are infectious until they have completed effective treatment.</p>
 </div>
 </details>

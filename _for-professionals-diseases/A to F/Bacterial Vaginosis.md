@@ -206,25 +206,19 @@ measures may help lower the risk of getting BV:</p>
 </ul>
 </div>
 </details>
-<details class="isomer-details">
-<summary><strong>Notification</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>BV is not a notifiable condition.</p>
 </div>
-</details>
-<details class="isomer-details">
-<summary><strong>Resources</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<hr>
+<p><strong>Notification</strong>
+</p>
+<p>BV is not a notifiable condition.</p>
+<p><strong>Resources</strong>
+</p>
 <p>Please refer to <a href="https://www.nsc.com.sg/dsc/healthcare-professionals/publications/Pages/STI-Management-Guidelines.aspx" rel="noopener noreferrer nofollow" target="_blank">DSC’s website</a> for
 more information on alternative regimens.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>References</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>References</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Department of Sexually Transmitted Infections Control (DSC). STI management
@@ -236,11 +230,9 @@ into the prevalence, alternative treatments regimen and its associated
 resistance patterns.&nbsp;Microb Pathog.&nbsp;2019 Feb;127:21-30.</p>
 </li>
 <li>
-<p>World Health Organization. Bacterial vaginosis. 2023.</p>
+<p>World Health Organization. Bacterial vaginosis. 2023</p>
 </li>
 </ul>
-</div>
-</details>
-</div>
+<hr>
 <p></p>
-<p>&nbsp;</p>
+<p></p>

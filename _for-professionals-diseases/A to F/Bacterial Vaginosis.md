@@ -5,11 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: A to F
 ---
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Overview/Background</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h2>Overview/Background</h2>
 <p>Bacterial vaginosis (BV) is a common condition in women characterized
 by an imbalance of microorganisms in the vagina. In cases of BV, there
 is a decrease in the number of normal hydrogen peroxide-producing <em>Lactobacillus </em>species
@@ -20,8 +16,7 @@ and an excessive growth of anaerobic bacteria, such as <em>Gardnerella spp.</em>
 exact role of sexual transmission in the pathogenesis of BV vaginal dysbiosis
 is unclear.</p>
 <p></p>
-</div>
-</details>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Disease Epidemiology</strong>
 </summary>
@@ -210,15 +205,12 @@ measures may help lower the risk of getting BV:</p>
 <p></p>
 <p></p>
 <hr>
-<p><strong>Notification</strong>
-</p>
+<h3>Notification</h3>
 <p>BV is not a notifiable condition.</p>
-<p><strong>Resources</strong>
-</p>
+<h3>Resources</h3>
 <p>Please refer to <a href="https://www.nsc.com.sg/dsc/healthcare-professionals/publications/Pages/STI-Management-Guidelines.aspx" rel="noopener noreferrer nofollow" target="_blank">DSC’s website</a> for
 more information on alternative regimens.</p>
-<p><strong>References</strong>
-</p>
+<h3>References</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Department of Sexually Transmitted Infections Control (DSC). STI management

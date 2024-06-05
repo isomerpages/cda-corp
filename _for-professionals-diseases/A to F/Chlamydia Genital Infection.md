@@ -5,16 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: A to F
 ---
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Overview/Background</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h2>Overview/Background</h2>
 <p>Chlamydia is a common sexually transmitted infection (STI) caused by the
 bacterium <em>Chlamydia trachomatis </em>that can occur in both men and
 women. It is easily treated and cured with antibiotics.</p>
-</div>
-</details>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Disease Epidemiology</strong>
 </summary>
@@ -258,8 +253,6 @@ is longer, e.g., 3 months.</p>
 </div>
 </details>
 </div>
-<p></p>
-<hr>
 <h3>Notification</h3>
 <p>Chlamydial genital infection is a notifiable disease.</p>
 <ul data-tight="true" class="tight">
@@ -314,6 +307,5 @@ guidelines 7<sup>th</sup> edition. 2021.</p>
 <p>World Health Organization. Chlamydia. 2023.</p>
 </li>
 </ul>
-<hr>
 <p></p>
 <p></p>

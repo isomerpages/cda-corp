@@ -2,11 +2,11 @@ collections:
   for-professionals:
     output: true
     order:
-      - NPHL/Our People.md
-      - NPHL/Laboratory Analytical Methods.md
-      - NPHL/Laboratory Programmes.md
-      - NPHL/Introduction to NPHL.md
       - NPHL/.keep
+      - NPHL/Introduction to NPHL.md
+      - NPHL/Laboratory Programmes.md
+      - NPHL/Laboratory Analytical Methods.md
+      - NPHL/Our People.md
       - Diseases/A to F.md
       - Diseases/G to L.md
       - Diseases/M to S.md

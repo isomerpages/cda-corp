@@ -257,10 +257,10 @@ is longer, e.g., 3 months.</p>
 </ul>
 </div>
 </details>
-<details class="isomer-details">
-<summary><strong>Notification</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+</div>
+<hr>
+<p><strong>Notification</strong>
+</p>
 <p>Chlamydial genital infection is a notifiable disease.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -281,8 +281,8 @@ is longer, e.g., 3 months.</p>
 <p>How to notify:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submit MD131 Notification of Infectious Diseases Form via CDLENS (<a rel="noopener noreferrer nofollow" target="_blank">http://www.cdlens.moh.gov.sg</a>)
-or fax (6221-5528/38/67)</p>
+<p>Submit MD131 Notification of Infectious Diseases Form via CDLENS (<a rel="noopener noreferrer nofollow" target="_blank">http://www.cdlens.moh.gov.sg</a>) or
+fax (6221-5528/38/67)</p>
 </li>
 </ul>
 </li>
@@ -295,22 +295,14 @@ or fax (6221-5528/38/67)</p>
 </ul>
 </li>
 </ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Resources</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Resources</strong>
+</p>
 <p>Please refer to <a href="https://www.moh.gov.sg/resources-statistics/reports/communicable-diseases-surveillance-in-singapore-2019-2020" rel="noopener noreferrer nofollow" target="_blank">MOH’s website</a> for
 the communicable disease surveillance in Singapore.</p>
 <p>Please refer to <a href="https://www.nsc.com.sg/dsc/healthcare-professionals/publications/Pages/STI-Management-Guidelines.aspx" rel="noopener noreferrer nofollow" target="_blank">DSC’s website</a> for
 more information on alternative regimens.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>References</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>References</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Centers for Disease Control and Prevention. STI treatment guidelines:
@@ -324,7 +316,6 @@ guidelines 7<sup>th</sup> edition. 2021.</p>
 <p>World Health Organization. Chlamydia. 2023.</p>
 </li>
 </ul>
-</div>
-</details>
-</div>
+<hr>
+<p></p>
 <p></p>

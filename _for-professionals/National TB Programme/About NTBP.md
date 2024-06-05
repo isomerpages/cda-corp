@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: National TB Programme
 ---
-<h2><strong>National Tuberculosis Programme</strong></h2>
+<h2><strong>Short write-up by Dr Deborah</strong></h2>
 <p>Welcome to the official webpage of the Singapore National TB Programme!
 As the Director, I am honored to lead our dedicated team in the mission
 to eradicate tuberculosis from our nation.</p>

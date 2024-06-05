@@ -28,12 +28,10 @@ sections:
       button: Lorem Ipsum
       url: /
   - infobar:
-      title: Lorem Impsum
-      subtitle: SITAMET CONSECTETUR ADIPISCING
+      title: " Communicable Diseases Agency Singapore"
       id: infobar
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis noster
+      description: Protecting Singapore from communicable diseases through excellence
+        in public health expertise and capabilities
   - infopic:
       title: National Tuberculosis Programme
       subtitle: sitamet consectetur adipiscing

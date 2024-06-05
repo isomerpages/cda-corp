@@ -27,6 +27,55 @@ sections:
       alignment: left
       button: Lorem Ipsum
       url: /
+  - infobar:
+      title: Lorem Impsum
+      subtitle: SITAMET CONSECTETUR ADIPISCING
+      id: infobar
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+        minim veniam, quis noster
+  - infopic:
+      title: National Tuberculosis Programme
+      subtitle: sitamet consectetur adipiscing
+      id: infopic
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+        minim veniam, quis noste
+      button: Learn More
+      alt: Image alt text
+      image: /images/4_3.png
+      url: /ntbp/about-ntbp/
+  - infopic:
+      title: National HIV, STI and Viral hepatitis Programme
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/4_3.png
+      alt: Image alt text
+  - infopic:
+      title: Research
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: National Public Health Lab
+      id: infopic
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+        minim veniam, quis noster
+      button: Lorem ipsum
+      alt: Image alt text
+      image: /images/4_3.png
+      url: /
+  - resources:
+      title: Latest News & Events
+      subtitle: BE IN THE KNOW
+      id: resources
+      button: SEE ALL
   - announcements:
       title: Announcements
       id: announcements
@@ -54,42 +103,26 @@ sections:
             ad minim veniam.
           link_text: Excepteur Sint Occaecat
           link_url: /
-  - resources:
-      title: Latest News & Events
-      subtitle: BE IN THE KNOW
-      id: resources
-      button: SEE ALL
-  - infopic:
-      title: Infopic
-      subtitle: sitamet consectetur adipiscing
-      id: infopic
+  - textcards:
+      title: Text Cards
+      subtitle: Lorem Ipsum Dolor
+      id: textcards
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis noste
-      button: Lorem ipsum
-      alt: Image alt text
-      image: /images/4_3.png
-      url: /
-  - infopic:
-      title: Infopic
-      subtitle: SITAMET CONSECTETUR ADIPISCING
-      id: infopic
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis noster
-      button: Lorem ipsum
-      alt: Image alt text
-      image: /images/4_3.png
-      url: /
-  - infobar:
-      title: Infobar
-      subtitle: SITAMET CONSECTETUR ADIPISCING
-      id: infobar
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis noster
-      button: LOREM IPSUM
-      url: /
+        minim veniam, quis nosterLorem ipsum dolor sit amet.
+      cards:
+        - title: Antimicrobial Resistance (AMR)
+          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          linktext: Learn more
+          url: ""
+        - title: OneHealth
+          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          linktext: Learn more
+          url: ""
+        - title: Healthcare Epidemiology
+          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          linktext: Learn more
+          url: ""
   - textcards:
       title: Insightful Analytics
       subtitle: DATA & STATISTICS
@@ -114,64 +147,4 @@ sections:
           description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
           linktext: Learn more
           url: ""
-  - infobar:
-      title: Infobar
-      subtitle: SITAMET CONSECTETUR ADIPISCING
-      id: infobar
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis noster
-  - infocols:
-      title: Info Columns
-      subtitle: SITAMET CONSECTETUR ADIPIS
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
-  - textcards:
-      title: Text Cards
-      subtitle: Lorem Ipsum Dolor
-      id: textcards
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis nosterLorem ipsum dolor sit amet.
-      cards:
-        - title: Lorem Ipsum Dolor
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: ""
-        - title: Lorem Ipsum Dolor
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: ""
-        - title: Lorem Ipsum Dolor
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: ""
-  - infocols:
-      title: Info-columns
-      subtitle: SITAMET CONSECTETUR ADIPIS
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
 ---

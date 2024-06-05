@@ -46,6 +46,6 @@ centre for contacts of Tuberculosis patients.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/wgvMhDqi6nAeqMev9</a>
 </p>
 <p></p>
-<p><strong>Want to find out more about Tuberculosis?</strong> Click <a href="/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">here</a> if
+<p><strong>Want to find out more about Tuberculosis?</strong> Click <a href="/for-public/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">here</a> if
 you are a member of the public and click <a href="/for-professionals/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">here</a><em> </em>if
 you are a professional.</p>

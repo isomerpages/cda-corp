@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: T to Z
 ---
-<h2>Understanding tuberculosis (TB): symptoms, causes &amp; treatments</h2>
+<h2>Understanding Tuberculosis (TB): symptoms, causes &amp; treatments</h2>
 <p>Learn what is tuberculosis, how it is spread, its symptoms, treatments,
 and prevention measures.</p>
 <p></p>

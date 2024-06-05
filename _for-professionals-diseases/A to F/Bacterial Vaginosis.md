@@ -203,8 +203,6 @@ measures may help lower the risk of getting BV:</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<hr>
 <h3>Notification</h3>
 <p>BV is not a notifiable condition.</p>
 <h3>Resources</h3>
@@ -225,6 +223,5 @@ resistance patterns.&nbsp;Microb Pathog.&nbsp;2019 Feb;127:21-30.</p>
 <p>World Health Organization. Bacterial vaginosis. 2023</p>
 </li>
 </ul>
-<hr>
 <p></p>
 <p></p>

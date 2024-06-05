@@ -258,9 +258,9 @@ is longer, e.g., 3 months.</p>
 </div>
 </details>
 </div>
+<p></p>
 <hr>
-<p><strong>Notification</strong>
-</p>
+<h3>Notification</h3>
 <p>Chlamydial genital infection is a notifiable disease.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -295,14 +295,12 @@ fax (6221-5528/38/67)</p>
 </ul>
 </li>
 </ul>
-<p><strong>Resources</strong>
-</p>
+<h3>Resources</h3>
 <p>Please refer to <a href="https://www.moh.gov.sg/resources-statistics/reports/communicable-diseases-surveillance-in-singapore-2019-2020" rel="noopener noreferrer nofollow" target="_blank">MOH’s website</a> for
 the communicable disease surveillance in Singapore.</p>
 <p>Please refer to <a href="https://www.nsc.com.sg/dsc/healthcare-professionals/publications/Pages/STI-Management-Guidelines.aspx" rel="noopener noreferrer nofollow" target="_blank">DSC’s website</a> for
 more information on alternative regimens.</p>
-<p><strong>References</strong>
-</p>
+<h3>References</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Centers for Disease Control and Prevention. STI treatment guidelines:

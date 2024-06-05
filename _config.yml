@@ -2,17 +2,17 @@ title: CDA Staging 1
 url: https://www.cda.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#f09c53"
-  secondary-color: "#1e63ae"
+  primary-color: "#1d63ae"
+  secondary-color: "#f09c52"
   media-colors:
     - title: media-color-one
-      color: "#f09c53"
+      color: "#1d63ae"
     - title: media-color-two
-      color: "#f1872a"
+      color: "#f09c52"
     - title: media-color-three
-      color: "#1e63ae"
+      color: "#154273"
     - title: media-color-four
-      color: "#db2b1e"
+      color: "#db2b1f"
     - title: media-color-five
       color: "#003571"
 description: An Isomer site of the Singapore Government

@@ -28,7 +28,7 @@ sections:
       button: Lorem Ipsum
       url: /
   - infobar:
-      title: " Communicable Diseases Agency Singapore"
+      title: Communicable Diseases Agency Singapore
       id: infobar
       description: Protecting Singapore from communicable diseases through excellence
         in public health expertise and capabilities
@@ -60,8 +60,8 @@ sections:
       alt: Image alt text
       image: /images/4_3.png
   - infopic:
-      title: Infopic
-      subtitle: National Public Health Lab
+      title: National Public Health Laboratory
+      subtitle: Lorem ipsum dolor sit amet
       id: infopic
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -71,7 +71,7 @@ sections:
       image: /images/4_3.png
       url: /
   - resources:
-      title: Latest News & Events
+      title: Latest News and Events
       subtitle: BE IN THE KNOW
       id: resources
       button: SEE ALL

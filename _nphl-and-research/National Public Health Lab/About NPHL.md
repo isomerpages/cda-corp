@@ -13,7 +13,7 @@ changes in the strains and genotypes of existing pathogens,&nbsp; and prepare
 for biological agents with pandemic potential and biothreat use.</p>
 <p>The laboratory is accredited to the ISO15189 standard by the Singapore
 Accreditation Council – Singapore Laboratory Accreditation Scheme.</p>
-<p>The facilities include a High Containment Laboratory (BSL-2) which undergoes
+<p>The facilities include a High Containment Laboratory (BSL-3) which undergoes
 yearly certification and inspection by regulatory authorities.</p>
 <p>
 <br>

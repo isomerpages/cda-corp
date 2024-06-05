@@ -88,7 +88,7 @@ to show between one to three weeks after exposure to the bacteria.</p>
 </li>
 </ul>
 <p></p>
-<p>Anal infection in women and men can cause</p>
+<p>Anal infection in women and men can cause:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>pain</p>

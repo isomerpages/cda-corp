@@ -34,8 +34,7 @@ the national referral centre for TB evaluation and treatment. It manages
 Directly Observed Therapy (DOT).&nbsp; Another major function of the TBCU
 is the screening of close contacts in households, workplaces and congregate
 settings (such as schools and prisons) for active and latent TB, and provision
-of preventive therapy for contacts found to have latent TB infection.
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[ST1]</a>&nbsp;</p>
+of preventive therapy for contacts found to have latent TB infection.</p>
 <p>The first 5 years of The Singapore Tuberculosis Elimination Programme
 can be found <a href="ncbi.nlm.nih.gov/pmc/articles/PMC2572427/pdf/12764518.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>

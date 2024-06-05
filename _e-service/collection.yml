@@ -2,6 +2,6 @@ collections:
   e-service:
     output: true
     order:
-      - E Service 3.md
-      - E Service 2.md
       - Register vaccination records.md
+      - E Service 2.md
+      - E Service 3.md

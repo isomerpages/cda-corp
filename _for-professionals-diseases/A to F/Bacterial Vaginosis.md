@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: A to F
 ---
-<h2>Overview/Background</h2>
+<h2>Overview</h2>
 <p>Bacterial vaginosis (BV) is a common condition in women characterized
 by an imbalance of microorganisms in the vagina. In cases of BV, there
 is a decrease in the number of normal hydrogen peroxide-producing <em>Lactobacillus </em>species

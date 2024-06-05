@@ -43,7 +43,7 @@ are more prone to develop chlamydial infection as the opening of the uterus
 (cervix) is not fully matured.</p>
 <p>An infected mother can also pass chlamydia to her baby during vaginal
 delivery.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Incubation period:</strong> The incubation period is poorly defined
 but is probably 5 to 14 days or longer.</p>
 <p><strong>Infectious period: </strong>Unknown but is presumed to last until

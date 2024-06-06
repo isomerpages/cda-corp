@@ -99,10 +99,10 @@ bed linens, or sitting on toilet seats.</p>
 <p>TB disease is curable and the spread of TB is preventable. Early detection
 and prompt treatment is key. If you have symptoms of TB, go see a doctor
 immediately.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Your doctor may ask you to go for a chest X-ray and put you through a
 series of clinical and laboratory investigations.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Untreated TB can lead to severe lung damage, disability, or death.</p>
 </div>
 </details>

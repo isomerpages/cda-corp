@@ -15,14 +15,14 @@ Accreditation Council – Singapore Laboratory Accreditation Scheme.</p>
 <p>The facilities include a High Containment Laboratory (BSL-3) which undergoes
 yearly certification and inspection by regulatory authorities.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Laboratory Analytical Methods</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/nphl/laboratory-programmes/bacteriology/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Laboratory Programmes</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/nphl/laboratory-analytical-methods/microscopy/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Laboratory Programmes</div>
+<div class="isomer-card-title">Laboratory Analytical Methods</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Our People</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/nphl/our-people/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Our People</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn More</div></div></a>
 </div>
 <p>
 <br>regulatory authorities.</p>

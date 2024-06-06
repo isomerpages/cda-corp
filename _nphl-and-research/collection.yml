@@ -2,12 +2,12 @@ collections:
   nphl-and-research:
     output: true
     order:
-      - Laboratory Analytical Methods/Microscopy.md
-      - Laboratory Analytical Methods/Bacteria.md
-      - Laboratory Analytical Methods/.keep
+      - Laboratory Programmes/.keep
       - Laboratory Programmes/Bacteriology.md
       - Laboratory Programmes/Virology.md
-      - Laboratory Programmes/.keep
+      - Laboratory Analytical Methods/.keep
+      - Laboratory Analytical Methods/Microscopy.md
+      - Laboratory Analytical Methods/Bacteria.md
       - Laboratory Programmes.md
       - Laboratory Analytical Methods.md
       - Our People.md

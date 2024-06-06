@@ -2,6 +2,6 @@ collections:
   nphl-and-research:
     output: true
     order:
-      - Our People.md
       - Laboratory Programmes.md
       - Laboratory Analytical Methods.md
+      - Our People.md

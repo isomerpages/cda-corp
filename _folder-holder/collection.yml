@@ -2,4 +2,5 @@ collections:
   folder-holder:
     output: true
     order:
+      - Laboratory Programmes.md
       - Infection prevention and control.md

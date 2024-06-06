@@ -2,7 +2,6 @@ collections:
   for-professionals:
     output: true
     order:
-      - National Public Health Laboratory.md
       - Diseases/.keep
       - Diseases/A to F.md
       - Diseases/G to L.md
@@ -23,3 +22,4 @@ collections:
       - National TB Programme/Media Spotlight.md
       - National TB Programme/Contact Us.md
       - Research.md
+      - National Public Health Laboratory.md

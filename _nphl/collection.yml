@@ -2,6 +2,8 @@ collections:
   nphl:
     output: true
     order:
+      - Laboratory Programmes/Serology, supporting the National Seroprevalence
+        Survey.md
       - Laboratory Programmes/Tuberculosis, supporting National TB Programme.md
       - Laboratory Programmes/Human Immunodeficiency Virus, supporting National
         HIV Programme.md

@@ -41,8 +41,8 @@ centre for contacts of Tuberculosis patients.</p>
 <hr>
 <p></p>
 <blockquote>
-<p>To find out more about tuberculosis, please see <a href="/for-public/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">diseases for </a><strong><a href="/for-public/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">public</a> </strong>or
-<a href="/for-professionals/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">diseases for</a><strong><a href="/for-professionals/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">professionals</a></strong>
+<p>To find out more about tuberculosis, please see <a href="/for-public/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">diseases for public</a> or
+<a href="/for-professionals/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">diseases for professionals</a>
 </p>
 </blockquote>
 <p></p>

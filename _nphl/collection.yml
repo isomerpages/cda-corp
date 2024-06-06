@@ -2,6 +2,8 @@ collections:
   nphl:
     output: true
     order:
+      - Laboratory Programmes/Human Immunodeficiency Virus, supporting National
+        HIV Programme.md
       - Laboratory Programmes/Malaria and other parasites.md
       - Laboratory Programmes/.keep
       - Laboratory Programmes/Bacteriology.md

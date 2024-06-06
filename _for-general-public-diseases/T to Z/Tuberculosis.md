@@ -110,7 +110,6 @@ series of clinical and laboratory investigations.</p>
 <summary>Who are At Risk of Developing TB Disease?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The risk of developing TB disease is higher in those who are:</p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Individuals with weakened immune systems, due to drugs, sickness, or malnutrition;</p>
@@ -171,25 +170,25 @@ Should I Do?</summary>
 <p>Those who have prolonged and close contact with someone who has active
 TB disease may be contacted by the National Tuberculosis Programme (NTBP)
 for TB screening.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Screening at the National Tuberculosis Care Centre (NTBCC) are scheduled
 by appointment. You will receive a SMS with the date and time of the appointment.
 You may call the centre to change the appointment date.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Screening for TB may involve a <strong>QuantiFERON (TB) </strong>blood
 test and a chest X-ray, if required. A repeat test may be scheduled by
 the centre. The results will be out in two to three weeks.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>If you have a positive blood test result, further tests (i.e., chest X-ray)
 are required to determine if it is latent TB infection or active TB disease.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>If your blood test result is negative, it means you are not infected with
 TB bacteria.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>TB screening is fully subsidised for registered contacts. Only those who
 have been identified as close contacts of active TB cases are offered screening
 under the National TB Programme.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>It is advisable for these individuals to go for screening to protect themselves
 and their loved ones from getting active TB disease.</p>
 <p></p>

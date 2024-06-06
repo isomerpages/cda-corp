@@ -324,8 +324,7 @@ symptoms and seek prompt medical evaluation if any concerns arise.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_091052.png">
 </div>
 <p>Have more questions about tuberculosis? Get your questions on answered
-here:&nbsp; <a href="https://ask.gov.sg/ntbp" rel="noopener noreferrer nofollow" target="_blank">NTBP | Q&amp;A: Your questions answered (</a>
-<a rel="noopener noreferrer nofollow" target="_blank">ask.gov.sg</a><a href="https://ask.gov.sg/ntbp" rel="noopener noreferrer nofollow" target="_blank">)</a>
+here:&nbsp; <a href="https://ask.gov.sg/ntbp" rel="noopener noreferrer nofollow" target="_blank">NTBP | Q&amp;A: Your questions answered (ask.gov.sg)</a>
 </p>
 <p></p>
 <h2>About the National Tuberculosis Programme</h2>
@@ -338,6 +337,6 @@ a multi-pronged approach to control TB. This approach includes &nbsp;prompt
 diagnosis and management of the disease; effective contact tracing and
 screening; community engagement to raise public awareness; strengthening
 partnerships, and implementing sustainable strategies.</p>
-<p>For more information about NTBP, click <a href="/about-ntbp/" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u>
+<p>For more information about NTBP, click <a href="/ntbp/about-ntbp/" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u>
 </p>
 <p></p>

@@ -2,6 +2,7 @@ collections:
   nphl:
     output: true
     order:
+      - Laboratory Programmes/Electron Microscopy.md
       - Laboratory Programmes/High Consequence, Biothreat & Exotic Pathogens.md
       - Laboratory Programmes/Serology, supporting the National Seroprevalence
         Survey.md

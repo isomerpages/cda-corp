@@ -1,5 +1,5 @@
 collections:
-  nphl-and-research:
+  nphl:
     output: true
     order:
       - Laboratory Programmes/.keep

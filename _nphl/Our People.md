@@ -1,20 +1,24 @@
 ---
 title: Our People
 permalink: /nphl/our-people/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h2></h2>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h2>Medical specialists</h2>
+<h2>Medical Specialists</h2>
 </td>
 </tr>
 <tr>
-<td style="width:20%;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Raymond_Lin.jpg">
 </div>

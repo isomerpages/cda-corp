@@ -24,5 +24,4 @@ yearly certification and inspection by regulatory authorities.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/nphl/our-people/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Our People</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn More</div></div></a>
 </div>
-<p>
-<br>regulatory authorities.</p>
+<p></p>

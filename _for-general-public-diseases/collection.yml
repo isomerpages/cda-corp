@@ -2,6 +2,7 @@ collections:
   for-general-public-diseases:
     output: true
     order:
+      - A to F/Clostridium perfringens.md
       - A to F/Chlamydia Genital Infection.md
       - A to F/Bacillus cereus.md
       - A to F/.keep

@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Careers
 ---
-<h2>Brief job description of job roles</h2>
+<h2>Brief description of job roles</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -46,7 +46,7 @@ doloremque laudantium</p>
 </table>
 <hr>
 <p></p>
-<h2>Process candidates will go through in a recruitment journey</h2>
+<h2>Recruitment Journey Process </h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/16_9.png">

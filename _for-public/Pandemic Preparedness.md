@@ -48,7 +48,6 @@ of infectious diseases, illnesses, and deaths; minimise impacts on our
 healthcare systems; and mitigate social and economic disruptions caused
 by disease outbreaks. Enhancing pandemic preparedness, prevention, and
 response is an ongoing effort and remains a crucial national priority.</p>
-<p>&nbsp;</p>
 <p>Future pandemics may be different from what we have experienced. For example,
 COVID-19 strategies and measures were different from SARS and MERS. Therefore,
 pandemic preparedness and response needs an agile and modular approach

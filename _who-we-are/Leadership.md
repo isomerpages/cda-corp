@@ -100,7 +100,7 @@ description: ""
 <td rowspan="1" colspan="3">
 <p><strong>Group Head (Communicable Diseases Programmes)</strong>
 </p>
-<p>A/ Prof Lim Poh Lian</p>
+<p>Assoc Prof Lim Poh Lian</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ description: ""
 <td rowspan="1" colspan="3">
 <p><strong>Group Head (Communicable Diseases Collaborations)</strong>
 </p>
-<p>A/ Prof Teoh Yee Leong</p>
+<p>Assoc Prof Teoh Yee Leong</p>
 </td>
 </tr>
 <tr>

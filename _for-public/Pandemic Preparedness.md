@@ -12,6 +12,7 @@ description: ""
 <p>A pandemic is a disease outbreak that occurs over a large geographical
 area and across international borders and affects a significantly large
 proportion of the world’s population.</p>
+<p></p>
 <p>Pandemics impact public health, as well as social and economic activities.
 For example, the COVID-19 pandemic disrupted many sectors including the
 education, finance, hospitality, and real estate sectors with pandemic

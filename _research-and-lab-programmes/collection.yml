@@ -2,6 +2,7 @@ collections:
   research-and-lab-programmes:
     output: true
     order:
+      - Directory of Experts.md
       - Methodology.md
       - Grant Analysis.md
       - About the Research Team.md

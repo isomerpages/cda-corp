@@ -28,7 +28,7 @@ description: ""
 <td rowspan="1" colspan="3">
 <p><strong>Executive Director</strong>
 </p>
-<p>Vernon Lee</p>
+<p>Prof Vernon Lee</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ description: ""
 <td rowspan="1" colspan="3">
 <p><strong>Deputy Executive Director (Corporate &amp; Strategy)</strong>
 </p>
-<p>Tan Pei Shan</p>
+<p>Ms Tan Pei Shan</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ description: ""
 <td rowspan="1" colspan="3">
 <p><strong>Group Head (Corporate Services)</strong>
 </p>
-<p>Ethan Goh</p>
+<p>Mr Ethan Goh</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ description: ""
 <td rowspan="1" colspan="3">
 <p><strong>Group Head (Policy and Systems)</strong>
 </p>
-<p>Marc Ho</p>
+<p>Dr Marc Ho</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ description: ""
 <td rowspan="1" colspan="3">
 <p><strong>Group Head (Communicable Diseases Programmes)</strong>
 </p>
-<p>Lim Poh Lian</p>
+<p>A/ Prof Lim Poh Lian</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ description: ""
 <td rowspan="1" colspan="3">
 <p><strong>Group Head (Communicable Diseases Collaborations)</strong>
 </p>
-<p>Teoh Yee Leong</p>
+<p>A/ Prof Teoh Yee Leong</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ description: ""
 <td rowspan="1" colspan="3">
 <p><strong>Group Head (Research)</strong>
 </p>
-<p>David Lye</p>
+<p>Prof David Lye</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +136,7 @@ description: ""
 <td rowspan="1" colspan="3">
 <p><strong>Group Head (National Public Health Laboratory)</strong>
 </p>
-<p>Raymond Lin</p>
+<p>Prof Raymond Lin</p>
 </td>
 </tr>
 </tbody>

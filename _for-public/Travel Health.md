@@ -140,6 +140,71 @@ measures.</p>
 </ul>
 <p>Anti-malaria medications can be used for prevention, and are usually 80-90%
 effective.</p>
+<p></p>
+<p><strong>Drugs used for preventing malaria (Prophylaxis)</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malarone (atovaquone
+<br>/proguanil)
+<br>(Doctor’s prescription needed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adult tablets
+<br>(250/100mg)
+<br>1 tablet <strong>daily</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1) To start <strong>1-2 days before travel</strong> to malarious areas
+<br>2) <strong>Every day during travel</strong>
+<br>3) <strong>7 days after leaving</strong> malarious area
+<br>Avoid for persons with severe kidney problems</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Doxycycline
+<br>(Doctor’s prescription needed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100 mg <strong>daily</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1) To start <strong>1-2 days before travel</strong> to malarious areas
+<br>2) <strong>Every day during travel</strong>
+<br>3) <strong>28 days after leaving</strong> malarious area
+<br>Avoid for pregnant women and children &lt; 8 years</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mefloquine
+<br>(Over-the-counter)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>250 mg <strong>once a week</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1) To start <strong>1-2 weeks before travel</strong> to malarious areas
+<br>2) <strong>Every week during travel</strong>
+<br>3) <strong>4 weeks after leaving</strong> such areas
+<br>Avoid for persons with seizures, depression or other psychiatric disorders,
+cardiac condition (heart rhythm) abnormalities or previous intolerance
+to mefloquine</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">

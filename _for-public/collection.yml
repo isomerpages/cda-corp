@@ -1,5 +1,5 @@
 collections:
-  public:
+  for-public:
     output: true
     order:
       - Diseases/.keep

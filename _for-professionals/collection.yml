@@ -1,5 +1,5 @@
 collections:
-  professionals:
+  for-professionals:
     output: true
     order:
       - Diseases/.keep

@@ -2,5 +2,6 @@ collections:
   research-and-lab-programmes:
     output: true
     order:
+      - Grant Analysis.md
       - About the Research Team.md
       - National Public Health Lab/.keep

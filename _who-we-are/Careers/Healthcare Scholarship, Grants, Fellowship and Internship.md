@@ -31,7 +31,7 @@ diseases and public health, between new Principal Investigators and researchers
 of academic institutions and hospitals. The NCID Catalyst Grants are intended
 to facilitate strategic and innovative clinical and public health research
 in infectious diseases within Singapore.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>The FY2024 NCID Catalyst Grant is now open for application, and the submission deadline is 29 February 2024, 6pm.</strong>
 </p>
 <p><strong>Grant call focus</strong>
@@ -40,7 +40,7 @@ in infectious diseases within Singapore.</p>
 areas; antimicrobial resistance, vector-borne diseases, respiratory tract
 infections (including COVID-19 and tuberculosis), and sexually transmitted
 infection.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Eligibility</strong>
 </p>
 <p>Applicants should have an awareness of the feasibility&nbsp;<strong>to complete the study within the 12 months' timeframe</strong>,
@@ -72,14 +72,12 @@ or supervisory capacity.</p>
 or less after PhD or advanced specialty clinical training.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>​</strong>
-</p>
+<p></p>
 <p><strong>Fund Details</strong>
 </p>
 <p>The award is&nbsp;<strong>up to S$50,000</strong>&nbsp;per project for
 a maximum of 12 months (indirect cost will not be supported).&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Submission guidelines</strong>
 </p>
 <p>Interested applicants are invited to complete the “NCID Catalyst Grant
@@ -88,7 +86,7 @@ signatures) and&nbsp;<strong>a WORD format</strong>&nbsp;(in one file with
 all illustrations and attachments), through their Institutional Research
 Office to the Secretariat, National Infectious Diseases Research Coordinating
 Office at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">rco_grants@ncid.sg</a>&nbsp;by&nbsp;<strong>6pm, 29 February 2024 (Thursday)</strong>.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><em><u>Note</u></em>
 </p>
 <ol data-tight="true" class="tight">
@@ -117,10 +115,7 @@ Office at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">rco_grants@
 </p>
 </li>
 </ol>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <p>For more information, please refer to the NCID Catalyst Grant Guidelines.</p>
 <p>&nbsp;</p>
 <p><strong>Grant documents</strong>
@@ -129,10 +124,7 @@ Office at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">rco_grants@
 </p>
 <p><a href="https://www.ncid.sg/Health-Professionals/Documents/NCID%20Catalyst%20Grant%20-%20Application%20Form_FY2024.docx" rel="noopener noreferrer nofollow" target="_blank">NCID Catalyst Grant – Application Form_FY2024​</a>
 </p>
-<p>​</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>The list of awarded projects from 2018 grant call onwards are provided
 as below:</p>
 <table style="minWidth: 75px">
@@ -259,10 +251,7 @@ environmental reservoirs</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -386,7 +375,6 @@ in Singaporean HIV-infected individuals</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -600,7 +588,6 @@ druggable targets for host-directed antiviral therapeutics
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1100,32 +1087,35 @@ Research Coordinating Office (NIDRCO) at&nbsp;<a rel="noopener noreferrer nofoll
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>NCID Short Term Fellowship</strong>
 </p>
-<p>&nbsp;</p>
 <p>The&nbsp;NCID Short&nbsp;Term&nbsp;Fellowship&nbsp;encourages&nbsp;infectious
 disease researchers who have demonstrated current active research, to either
 host potential international collaborators/experts in Singapore, or be
 hosted on a research training attachment, at a leading infectious diseases
 institution overseas.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>The FY2024 NCID Short Term Fellowship - Round 2&nbsp;is now open for application, and the submission deadline is 31&nbsp;May&nbsp;2024, 6pm.</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Eligibility</u></strong>
 </p>
 <p>This fellowship is open to ID researchers who have demonstrated current
 active research in the area of the proposed visits (e.g., approved projects,
 awarded grants, publications<em>). Applicants funded in earlier FYs will&nbsp;not&nbsp;be supported.</em>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Fund Brief</u></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applications with visits to, and
-from countries with travel restrictions<sup>1</sup>&nbsp;will not be supported.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Incoming and Outgoing Fellowships
-up to S$10,000 per application.</p>
-<p>&nbsp;<em><sup>1</sup>Based on&nbsp;<a href="https://www.mfa.gov.sg/Where-Are-You-Travelling-To" rel="noopener noreferrer nofollow" target="_blank">MFA</a>&nbsp;guidelines.</em>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applications with visits to, and from countries with travel restrictions<sup>1</sup>&nbsp;will
+not be supported.</p>
+</li>
+<li>
+<p>Incoming and Outgoing Fellowships up to S$10,000 per application. <em>Based on&nbsp;<a href="https://www.mfa.gov.sg/Where-Are-You-Travelling-To" rel="noopener noreferrer nofollow" target="_blank">MFA</a>&nbsp;guidelines.</em>
 </p>
-<p>&nbsp;</p>
+</li>
+</ul>
+<p></p>
 <p><strong><u>Submission guidelines</u></strong>
 </p>
 <p>Interested applicants are invited to complete the “NCID Short Term Fellowship
@@ -1142,15 +1132,15 @@ and</p>
 <p>A softcopy in WORD format​</p>
 </li>
 </ol>
-<p>&nbsp;</p>
+<p></p>
 <p>For more information, please refer to the NCID Short Term Fellowship Application
 Form.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Documents</u></strong>
 </p>
 <p><a href="https://www.ncid.sg/Health-Professionals/Documents/NCID%20Short%20Term%20Fellowship%20-%20Application%20Form_FY2024-Round%202.docx" rel="noopener noreferrer nofollow" target="_blank">NCID Short Term Fellowship - Application Form_FY2024-Round 2</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>List of awardees</u></strong>
 </p>
 <p>The list of awardees from FY2018 onwards are provided below:​</p>

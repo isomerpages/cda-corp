@@ -11,7 +11,6 @@ third_nav_title: Careers
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Healthcare Graduate Studies Award</strong>
 </p>
-<p>​</p>
 <p>This postgraduate scholarship is awarded to individuals who are keen to
 join the public healthcare sector while demonstrating academic excellence
 and community spirit. You will be part of a team of healthcare professionals

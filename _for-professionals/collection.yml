@@ -2,6 +2,8 @@ collections:
   for-professionals:
     output: true
     order:
+      - Antimicrobial Resistance/About Singapore’s National Strategic Action
+        Plan (NSAP) on AMR.md
       - Antimicrobial Resistance/.keep
       - Diseases/.keep
       - Diseases/A to F.md

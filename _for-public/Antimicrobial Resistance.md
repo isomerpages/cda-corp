@@ -169,7 +169,6 @@ with these simple steps:</p>
 <td rowspan="1" colspan="1">
 <p><strong>Practice good hygiene habits</strong>
 </p>
-<p>&nbsp;</p>
 <p>Our hands are in contact with germs, and we use our hands in our daily
 routine such as eating. Animals are also capable of carrying germs which
 can cause sickness in humans, and vice versa. Thus, regular hand washing
@@ -189,14 +188,11 @@ keep healthy.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Reduce infections</strong>
 </p>
-<p>&nbsp;</p>
 <p>Stay home, do not go to work or school if you are unwell. This helps to
 prevent the spread of bacteria and viruses and protect the community and
 our loved ones.</p>
-<p>&nbsp;</p>
 <p>If you have respiratory symptoms such as a cough, wear a mask when you
 are around others. Remember to cover your mouth when you cough or sneeze.</p>
-<p>&nbsp;</p>
 <p>If you have a wound and abrasion, make sure they are disinfected and covered
 to prevent further infection.</p>
 </td>
@@ -210,7 +206,6 @@ to prevent further infection.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Get vaccinated</strong>
 </p>
-<p>&nbsp;</p>
 <p>Several infectious diseases are preventable and vaccination strengthens
 our immunity against these diseases.</p>
 <p>Are your vaccinations up to date? Find out more about the recommended
@@ -226,12 +221,9 @@ vaccines for your age group&nbsp;<a href="https://www.healthhub.sg/programmes/16
 <td rowspan="1" colspan="1">
 <p><strong>Take antibiotics responsibly</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p>Not all illnesses require antibiotics. For instance, antibiotics do not
 treat viral infections such as the cold, flu and most upper respiratory
 tract infections.</p>
-<p>&nbsp;</p>
 <p><strong>Follow your doctor's advice for medication:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -267,28 +259,22 @@ your doctor</p>
 <td rowspan="1" colspan="1">
 <p><strong>Practice food safety</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p>Proper food handling and cooking can reduce the risk of infection by harmful
 microorganisms. The risk of foodborne illnesses can be mitigated by ensuring
 good hand hygiene, washing fruits and vegetables thoroughly before cooking
 or consuming, and cooking food thoroughly to eliminate harmful bacteria.</p>
 <p>Learn more about food safety from the Singapore Food Agency's&nbsp;
 <a href="https://www.sfa.gov.sg/food-information/food-safety-education/antimicrobial-resistance" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/amr_public_protect_6.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/amr_public_protect_6.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Maintain good pet health</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p>People and companion animals not only share lives and living spaces but
 may also share resistant microorganisms. Keep your pet healthy through
@@ -296,8 +282,6 @@ vaccination, regular parasite and deworming treatment, proper nutrition
 and exercise, regular health checks by a veterinarian and good hygiene
 practices.</p>
 <p>Learn more from the National Parks Board's&nbsp;<a href="https://www.nparks.gov.sg/avs/animals/animal-health-and-veterinarians/animal-diseases-and-antimicrobial-resistance/antimicrobial-resistance" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 </tr>
 </tbody>

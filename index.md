@@ -4,20 +4,19 @@ title: CDA Staging 1
 description: An Isomer site of the Singapore Government
 image: /images/CDA_RGBLogo_ICON_COLOUR.png
 permalink: /
-notification: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+notification: "Alert: Bird flu outbreak in several parts of Southeast Asia.
+  Click to learn how you can protect yourself!  "
 sections:
   - hero:
       title: Protecting Health, Saving Lives, Preserving Livelihoods
-      subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco.
       background: /images/grey_opacity.png
       key_highlights:
         - title: Weekly Infectious Diseases Bulletin
           description: ""
           url: /weekly-infectious-diseases-bulletin/
-        - title: Diseases
+        - title: HIV SELF-TESTING KIT LAUNCHED
           description: ""
-          url: /a-to-f/
+          url: /
         - title: Pandemic Preparedness
           description: ""
           url: /
@@ -25,7 +24,7 @@ sections:
       backgroundColor: gray
       size: sm
       alignment: left
-      button: Lorem Ipsum
+      button: About US
       url: /
   - infobar:
       title: Communicable Diseases Agency Singapore
@@ -33,75 +32,61 @@ sections:
       description: Protecting Singapore from communicable diseases through excellence
         in public health expertise and capabilities
   - infopic:
-      title: National Tuberculosis Programme
-      subtitle: sitamet consectetur adipiscing
+      title: Communicable Diseases Research
       id: infopic
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis noste
-      button: Learn More
+      description: >
+        Research plays a significant role in national preparedness and defence
+        against emerging communicable diseases in Singapore.
+      button: Explore research efforts
+      alt: Image alt text
+      image: /images/Research_Infopic.png
+      url: /
+  - infopic:
+      title: National Public Health Laboratory (NPHL)
+      id: infopic
+      description: "NPHL conducts laboratory investigations to support surveillance of
+        communicable diseases, control of outbreaks, and preparedness for new
+        and risky pathogens. "
+      button: Learn more about NPHL
+      alt: Image alt text
+      image: /images/NPHL_Infopic.png
+      url: /
+  - infopic:
+      title: End TB Together
+      id: infopic
+      description: >
+        Early diagnosis is key to treating TB effectively. Learn more about the
+        disease and its symptoms now! 
+      button: Browse campaign resources
       alt: Image alt text
       image: /images/4_3.png
       url: /ntbp/about-ntbp/
-  - infopic:
-      title: National HIV, STI and Viral hepatitis Programme
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      image: /images/4_3.png
-      alt: Image alt text
-  - infopic:
-      title: Research
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-      image: /images/4_3.png
-  - infopic:
-      title: National Public Health Laboratory
-      subtitle: Lorem ipsum dolor sit amet
-      id: infopic
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis noster
-      button: Lorem ipsum
-      alt: Image alt text
-      image: /images/4_3.png
-      url: /
   - resources:
-      title: Latest News and Events
-      subtitle: BE IN THE KNOW
+      title: News and Events
       id: resources
       button: SEE ALL
   - announcements:
-      title: Announcements
+      title: UPDATES
       id: announcements
-      subtitle: STAY INFORMED!
       announcement_items:
-        - title: Lorem ipsum dolor sit amet
-          date: 21 March 2024
-          announcement: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam.
-          link_text: Excepteur Sint Occaecat
-          link_url: /
-        - title: Excepteur Sint Occaecat
-          date: 21 March 2024
-          announcement: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-            quae ab illo inventore veritatis et quasi architecto beatae vitae
-            dicta sunt explicabo.
-          link_text: ""
-          link_url: ""
-        - title: Sed ut perspiciatis unde omnis
-          date: 21 March 2024
-          announcement: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam.
-          link_text: Excepteur Sint Occaecat
-          link_url: /
+        - title: Dengue Screening
+          date: 10 June 2024
+          announcement: "Protect yourself - get screened for dengue at a polyclinic near
+            you! "
+          link_text: Learn more
+          link_url: https://www.ncid.sg/Health-Professionals/Diseases-and-Conditions/Pages/Dengue.aspx
+        - title: Travel Advisory
+          date: 11 June 2024
+          announcement: "Zika virus outbreak has emerged in parts of South America. Stay
+            informed and protect yourself before you travel. "
+          link_text: Learn more
+          link_url: https://www.ncid.sg/For-General-Public/Travel-Health/Pages/default.aspx
+        - title: New COVID-19 Booster Available
+          date: 10 June 2024
+          announcement: The latest bivalent booster shot is now available for eligible
+            individuals. Get boosted and stay protected.
+          link_text: Learn more
+          link_url: https://www.vaccine.gov.sg
   - textcards:
       title: Text Cards
       subtitle: Lorem Ipsum Dolor
@@ -123,30 +108,6 @@ sections:
         - title: Healthcare Epidemiology
           description: Explore infection prevention and control guidelines that have been
             prepared...
-          linktext: Learn more
-          url: ""
-  - textcards:
-      title: Insightful Analytics
-      subtitle: DATA & STATISTICS
-      id: textcards
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis nosterLorem ipsum dolor sit amet.
-      cards:
-        - title: Weekly Infectious Diseases Bulletin
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: /weekly-infectious-diseases-bulletin/
-        - title: National Research Foundation Grants
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: https://www.ncid.sg/Research/grant-analysis/Pages/National-Research-Foundation-grants.aspx
-        - title: Antimicrobial Resistance
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: https://www.ncid.sg/Research/research-output-analysis/Pages/Amr-Coauthorship-Analysis.aspx
-        - title: Lorem Ipsum Dolor
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
           linktext: Learn more
           url: ""
 ---

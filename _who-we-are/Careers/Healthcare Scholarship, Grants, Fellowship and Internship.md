@@ -1096,5 +1096,479 @@ approach
 Research Coordinating Office (NIDRCO) at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">rco_grants@ncid.sg</a>.​</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Fellowship</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>NCID Short Term Fellowship</strong>
+</p>
+<p>&nbsp;</p>
+<p>The&nbsp;NCID Short&nbsp;Term&nbsp;Fellowship&nbsp;encourages&nbsp;infectious
+disease researchers who have demonstrated current active research, to either
+host potential international collaborators/experts in Singapore, or be
+hosted on a research training attachment, at a leading infectious diseases
+institution overseas.</p>
+<p>&nbsp;</p>
+<p><strong>The FY2024 NCID Short Term Fellowship - Round 2&nbsp;is now open for application, and the submission deadline is 31&nbsp;May&nbsp;2024, 6pm.</strong>
+</p>
+<p>&nbsp;</p>
+<p><strong><u>Eligibility</u></strong>
+</p>
+<p>This fellowship is open to ID researchers who have demonstrated current
+active research in the area of the proposed visits (e.g., approved projects,
+awarded grants, publications<em>). Applicants funded in earlier FYs will&nbsp;not&nbsp;be supported.</em>
+</p>
+<p>&nbsp;</p>
+<p><strong><u>Fund Brief</u></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applications with visits to, and
+from countries with travel restrictions<sup>1</sup>&nbsp;will not be supported.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Incoming and Outgoing Fellowships
+up to S$10,000 per application.</p>
+<p>&nbsp;<em><sup>1</sup>Based on&nbsp;<a href="https://www.mfa.gov.sg/Where-Are-You-Travelling-To" rel="noopener noreferrer nofollow" target="_blank">MFA</a>&nbsp;guidelines.</em>
+</p>
+<p>&nbsp;</p>
+<p><strong><u>Submission guidelines</u></strong>
+</p>
+<p>Interested applicants are invited to complete the “NCID Short Term Fellowship
+Application Form FY2024 - Round 2" and submit the below documents through
+their Institutional Research Office to the Secretariat, National Infectious
+Disease Research Coordinating Office at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">rco_grants@ncid.sg</a>&nbsp;by
+6pm, 31&nbsp;May&nbsp;2024 (Friday).</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>An endorsed PDF (with signatures and supporting documents (e.g. quotations);
+and</p>
+</li>
+<li>
+<p>A softcopy in WORD format​</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>For more information, please refer to the NCID Short Term Fellowship Application
+Form.</p>
+<p>&nbsp;</p>
+<p><strong><u>Documents</u></strong>
+</p>
+<p><a href="https://www.ncid.sg/Health-Professionals/Documents/NCID%20Short%20Term%20Fellowship%20-%20Application%20Form_FY2024-Round%202.docx" rel="noopener noreferrer nofollow" target="_blank">NCID Short Term Fellowship - Application Form_FY2024-Round 2</a>
+</p>
+<p>&nbsp;</p>
+<p><strong><u>List of awardees</u></strong>
+</p>
+<p>The list of awardees from FY2018 onwards are provided below:​</p>
+<p><strong>NCID Short Term Fellowship FY2023</strong>
+</p>
+<p>OUTGOING FELLOWSHIPS</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Applicant, Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​A/Prof Barnaby Young, NCID</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Overseas Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Imperial College London, UK</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Overseas Mentor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Prof Christopher Chiu</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Applicant, Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Dr Donald Tay, NTU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Overseas Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Massachusetts Institute of Technology, USA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​​Overseas Mentor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Prof Jacquin C. Niles</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Applicant, Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Dr Dorothy Cheong, NUS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Overseas Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Monash University &amp; University of Newcastle, USA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​​Overseas Mentor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​A/Prof Jane Bourke &amp; Prof Paul Foster</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Applicant, Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Dr Thong Shuhua, SGH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Overseas Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Westmead Institute for Medical Research, Australia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​​Overseas Mentor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Prof Jonathan Iredell &amp; Dr Jessica Sacher</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Applicant, Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chong Hai Tarng, NUS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overseas Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>University of Southampton, UK</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Overseas Mentor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Paul Elkington, Respiratory Medicine</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Applicant, Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Ms Thong Pei Min, NUS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overseas Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​University of Southampton, UK</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Overseas Mentor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Prof Paul Elkington, Respiratory Medicine</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Applicant, Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Dr Dinesh Kumar Kesavan, NTU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Overseas Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Karolinska Institute, Sweden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Overseas Mentor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Prof Birgitta Henriques Normark, Department of Microbiology, Tumor and
+Cell Biology</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Applicant, Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Dr Wong Chen Seong, NCID</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overseas Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​The Peter Doherty Institute for Infection and Immunity, Australia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Overseas Mentor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Prof Sharon Lewin</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Applicant, Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Dr Choy Chiaw Yee, NCID</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Overseas Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​The Peter Doherty Institute for Infection and Immunity, Australia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Overseas Mentor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Prof Sharon Lewin</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>INCOMING FELLOWSHIPS</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Host &amp; Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Dr Shawn Vasoo, NCID</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Visitor &amp; Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Robin Patel,</p>
+<p>Elisabeth P and Robert E Allen Professor of Individualised Medicine and
+a Professor of Microbiology and Medicine at the Mayo Clinic, USA</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Host &amp; Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Asst Prof Qu Kun, Yong Loo Lin School of Medicine, NUS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Visitor &amp; Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assoc Prof Liu Sheng, Shenzhen Institute of Advanced Technology, Chinese
+Academy of Sciences, China</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Host &amp; Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Prof Benoit Malleret, Yong Loo Lin School of Medicine, NUS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Visitor &amp; Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Dr Olivier NF. Cexus, University of Surrey, UK</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Host &amp; Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Prof Sham Lok To, Chris, Yong Loo Lin School of Medicine, NUS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​Visitor &amp; Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Adj Prof Adam M. Deutschbauer, Lawrence Berkeley National Laboratory;
+University of California Berkeley, USA</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Internship</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>

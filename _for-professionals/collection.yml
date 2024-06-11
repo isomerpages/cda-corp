@@ -2,12 +2,6 @@ collections:
   for-professionals:
     output: true
     order:
-      - Antimicrobial Resistance/Antimicrobial Resistance.md
-      - Antimicrobial Resistance/About the Antimicrobial Resistance Coordinating
-        Office (AMRCO).md
-      - Antimicrobial Resistance/About Singapore’s National Strategic Action
-        Plan (NSAP) on AMR.md
-      - Antimicrobial Resistance/.keep
       - Diseases/.keep
       - Diseases/A to F.md
       - Diseases/G to L.md
@@ -16,6 +10,12 @@ collections:
       - Vaccinations.md
       - Travel Health.md
       - One Health.md
+      - Antimicrobial Resistance/.keep
+      - Antimicrobial Resistance/Antimicrobial Resistance.md
+      - Antimicrobial Resistance/About the Antimicrobial Resistance Coordinating
+        Office (AMRCO).md
+      - Antimicrobial Resistance/About Singapore’s National Strategic Action
+        Plan (NSAP) on AMR.md
       - Healthcare Epidemiology.md
       - Professional Training.md
       - National HIV STI Hep Programme.md

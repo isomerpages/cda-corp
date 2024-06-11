@@ -8,7 +8,7 @@ description: ""
 <p>Antimicrobial resistance (AMR) is one of the top 10 global public health
 threats facing humanity. Combatting AMR requires a collective effort from
 society, including the general public, healthcare professionals and authorities.</p>
-<h3>What is Antimicrobial Resistance (AMR)? </h3>
+<h3>What is Antimicrobial Resistance (AMR)?</h3>
 <p>Antimicrobials is the collective term for medicines that are used to prevent
 and treat infections in humans, animals and plants. These medicines include
 antibiotics, antivirals, antifungals and antiparasitics for bacteria, viruses,
@@ -305,4 +305,25 @@ practices.</p>
 </div>
 </details>
 </div>
+<h3>Resources on AMR</h3>
+<p><strong>Importance of Antibiotics and Following Doctor’s Advice Video</strong>
+</p>
+<p>Watch an episode of The Daily Ketchup Podcast to learn more about how
+to use antibiotics appropriately, the importance of following your doctor’s
+instructions on antibiotics and advice on the treatment if antibiotics
+are not required.</p>
+<p>Click <a href="https://youtu.be/SzJ--vmuWIQ?si=r_VH-dtyiPzXez06" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+watch the video.</p>
+<hr>
+<p><strong>Antibiotics – A Precious Resource Tales Animated Video</strong>
+</p>
+<p>Watch the animated snippet from the "<a href="https://youtu.be/g2uho_p35gs" rel="noopener noreferrer nofollow" target="_blank">The Antibiotic Tales</a>" comic by
+Mr Sonny Liew and Associate Professor Hsu Li Yang to learn why antimicrobials
+are a precious resource and ways in which you can help to reduce the spread
+of antimicrobial resistance.</p>
+<p>Click&nbsp;<a href="https://youtu.be/g2uho_p35gs" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+watch the video.</p>
+<hr>
+<h3>Frequently Asked Questions (FAQs) on AMR</h3>
+<p>Find answers to commonly answered questions about AMR here:</p>
 <p></p>

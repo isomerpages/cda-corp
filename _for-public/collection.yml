@@ -2,7 +2,6 @@ collections:
   for-public:
     output: true
     order:
-      - Pandemic Preparedness.md
       - Diseases/.keep
       - Diseases/A to F.md
       - Diseases/G to L.md
@@ -11,4 +10,5 @@ collections:
       - Vaccinations.md
       - Travel Health.md
       - Antimicrobial Resistance.md
+      - Pandemic Preparedness.md
       - Training and Education.md

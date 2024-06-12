@@ -172,10 +172,64 @@ of the eye and urethra (Reiter's syndrome).</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Are you at risk?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Risk factors include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unprotected sex with an infected person</p>
+</li>
+<li>
+<p>Having multiple sex partners</p>
+</li>
+<li>
+<p>Inconsistent condom use</p>
+</li>
+<li>
+<p>Persons who exchange sex for money or drugs</p>
+</li>
+<li>
+<p>History or current infection for other STIs</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>How to treat Chlamydia</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Chlamydia can be effectively treated with <strong>antibiotics</strong>.
+A single dose of oral Azithromycin or Doxycycline twice daily for one week
+is the most common treatment. An alternative drug (erythromycin) may be
+prescribed for those who are pregnant or younger than 18 years of age.</p>
+<p>The infection usually resolves within <strong>1 - 2 weeks</strong>. Re-testing
+after treatment should still be considered if you have a new sex partner&nbsp;or
+are unsure of their treatment status.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>How to prevent Chlamydia</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The best way to prevent infection is to abstain from unprotected sex and
+be faithful to your partner.</p>
+<p>Other ways to reduce the risk of transmission:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Use condoms consistently and correctly.</p>
+</li>
+<li>
+<p>Refrain from having sex until the infection is completely cured.</p>
+</li>
+<li>
+<p>Inform your partner(s) if you have the infection so that they can also
+be tested and treated, if necessary.</p>
+</li>
+<li>
+<p>Limit your sexual partners and get screened regularly.</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
+<p>You can get tested for STIs&nbsp;at private clinics, polyclinics&nbsp;and
+hospitals.</p>
 <p></p>

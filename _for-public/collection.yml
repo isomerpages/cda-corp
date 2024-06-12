@@ -2,6 +2,8 @@ collections:
   for-public:
     output: true
     order:
+      - Antimicrobial Resistance/National Strategic Action Plan (NSAP) and
+        Antimicrobial Resistance Coordinating Office (AMRCO).md
       - Antimicrobial Resistance/About Antimicrobial Resistance.md
       - Antimicrobial Resistance/.keep
       - Diseases/.keep

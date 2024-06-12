@@ -4,6 +4,7 @@ permalink: /lorem-content-redloh/
 variant: tiptap
 description: ""
 ---
+<p>Travel Health</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Caution with food and water consumption</summary>

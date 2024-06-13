@@ -2,9 +2,9 @@ collections:
   for-professionals:
     output: true
     order:
+      - National HIV STI Hep Programme/.keep
       - National HIV STI Hep Programme/HIV Self Testing Pilot Programme.md
       - National HIV STI Hep Programme/About NHVIP.md
-      - National HIV STI Hep Programme/.keep
       - Diseases/.keep
       - Diseases/A to F.md
       - Diseases/G to L.md

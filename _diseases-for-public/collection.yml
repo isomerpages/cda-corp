@@ -1,5 +1,5 @@
 collections:
-  for-public-diseases:
+  diseases-for-public:
     output: true
     order:
       - A to F/.keep

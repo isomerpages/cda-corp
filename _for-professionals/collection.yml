@@ -2,6 +2,7 @@ collections:
   for-professionals:
     output: true
     order:
+      - National HIV STI Hep Programme/National HIV STI Hep Programme.md
       - National HIV STI Hep Programme/.keep
       - Diseases/.keep
       - Diseases/A to F.md

@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: T to Z
 ---
-<h2>Overview/Background</h2>
+<h2>Overview</h2>
 <p>Tuberculosis (TB) is an infectious disease caused by the bacteria <em>Mycobacterium tuberculosis</em>.
 It primarily affects the lungs, although it can also spread to other parts
 of the body. While treatable and curable, TB remains a significant public

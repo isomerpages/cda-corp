@@ -39,18 +39,6 @@ odit aut fugit. cqcqcqc cqcq</p>
 </div>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4_3.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lorem Ipsum</strong>
-</p>
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>

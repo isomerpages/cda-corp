@@ -29,9 +29,9 @@ odit aut fugit.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Light microscopy</strong>
-</p>
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+<p>Fluorescent Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
+odit aut fugit.</p>
+<p>Nemo enim ipsam voluptatem quia v</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">

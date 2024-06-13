@@ -24,7 +24,8 @@ these medicines from working effectively against them.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Why is AMR a Concern?</summary>
+<summary><strong>Why is AMR a Concern?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>As a result of developing resistance, antimicrobial-resistant microorganisms
 no longer respond to antimicrobial medicines. This makes the infections
@@ -43,7 +44,8 @@ Around the world, healthcare systems are increasingly being put at risk.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>When are Antibiotics Required?</summary>
+<summary><strong>When are Antibiotics Required?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Antibiotics kill or slow down the growth of bacteria.</p>
 <p>Hence, they are used to treat bacterial infections, such as:</p>
@@ -118,7 +120,8 @@ become worrisome, you should consult a doctor immediately.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What are the Consequences of Misusing Antibiotics?</summary>
+<summary><strong>What are the Consequences of Misusing Antibiotics?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Overuse or misuse of antibiotics can lead to antibiotic resistance. This
 reduces the effectiveness of antibiotics in treating infections when they
@@ -146,7 +149,8 @@ than death attributed to diabetes (1.5 million) and cancer (8.2 million).</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>How Can You Protect Yourself and Your Loved Ones From Infections?</summary>
+<summary><strong>How Can You Protect Yourself and Your Loved Ones From Infections?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>An infection occurs when the invading microorganisms overcome the body’s
 immune defences. Infections caused by antimicrobial-resistant microorganisms

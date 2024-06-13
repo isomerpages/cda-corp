@@ -7,7 +7,8 @@ third_nav_title: Careers
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Healthcare Scholarship</summary>
+<summary><strong>Healthcare Scholarship</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Healthcare Graduate Studies Award</strong>
 </p>
@@ -22,7 +23,8 @@ IT systems professionals to improve the Singapore public healthcare system.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Grants</summary>
+<summary><strong>Grants</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The NCID&nbsp;Catalyst Grant, funded by the Ministry of Health, Singapore
 and administered by NCID, aims to encourage inter-institutional collaborative
@@ -1083,7 +1085,8 @@ Research Coordinating Office (NIDRCO) at&nbsp;<a rel="noopener noreferrer nofoll
 </div>
 </details>
 <details class="isomer-details">
-<summary>Fellowship</summary>
+<summary><strong>Fellowship</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>NCID Short Term Fellowship</strong>
 </p>
@@ -1554,7 +1557,8 @@ University of California Berkeley, USA</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Internship</summary>
+<summary><strong>Internship</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>

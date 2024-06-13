@@ -43,21 +43,29 @@ kits.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>​</p>
+<p></p>
+<p></p>
 <p><a href="https://www.alliancepharm.com.sg/go/oraquick-instructional-video-english" rel="noopener noreferrer nofollow" target="_blank">English</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+<p></p>
+<p></p>
 <p><a href="https://www.alliancepharm.com.sg/go/oraquick-instructional-video-chinese" rel="noopener noreferrer nofollow" target="_blank">Chinese​</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>​</p>
+<p></p>
+<p></p>
 <p><a href="https://www.alliancepharm.com.sg/go/oraquick-instructional-video-malay" rel="noopener noreferrer nofollow" target="_blank">Malay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>​</p>
+<p></p>
+<p></p>
 <p><a href="https://www.alliancepharm.com.sg/go/oraquick-instructional-video-tamil" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>
 </p>
 </td>

@@ -19,7 +19,7 @@ sections:
           url: /
         - title: Pandemic Preparedness
           description: ""
-          url: /
+          url: for-public/pandemic-preparedness/
       variant: center
       backgroundColor: gray
       size: sm
@@ -39,7 +39,7 @@ sections:
       button: Explore research efforts
       alt: Image alt text
       image: /images/Research_Infopic.png
-      url: /
+      url: /trending-publications/
   - infopic:
       title: National Public Health Laboratory (NPHL)
       id: infopic
@@ -49,7 +49,7 @@ sections:
       button: Learn more about NPHL
       alt: Image alt text
       image: /images/NPHL_Infopic.png
-      url: /
+      url: /about-us/
   - infopic:
       title: End TB Together
       id: infopic
@@ -58,7 +58,7 @@ sections:
       button: Browse campaign resources
       alt: Image alt text
       image: /images/4_3.png
-      url: /ntbp/about-ntbp/
+      url: for-professional/ntbp/about-ntbp/
   - resources:
       title: News and Events
       id: resources
@@ -96,12 +96,12 @@ sections:
           description: Learn more about AMR efforts in education, surveillance and risk
             assessment...
           linktext: Learn more
-          url: ""
+          url: /for-public/antimicrobial-resistance/about-antimicrobial-resistance/
         - title: OneHealth
           description: Learn about Singapore's OneHealth Framework which is an integration
             of...
           linktext: Learn more
-          url: ""
+          url: /one-health/
         - title: Healthcare Epidemiology
           description: Explore infection prevention and control guidelines that have been
             prepared...

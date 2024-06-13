@@ -7,7 +7,7 @@ third_nav_title: Careers
 ---
 <h2>Ashwin Kumar – Manager, Corporate Strategy</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ashwin_placeholder.jpg">
 </div>
 <p>Ashwin is not just a strategist; he’s also a master negotiator, securing
 funding, fostering partnerships, and ensuring smooth operations across
@@ -24,7 +24,7 @@ that safeguards Singapore's public health!</p>
 <hr>
 <h2>Erica Lim – Officer, Intelligence and Surveillance</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/erica_placeholder.jpg">
 </div>
 <p>Erica analyzes data, identifies trends, and research emerging threats
 to keep the CDA prepared and stay one step ahead of outbreaks.&nbsp; Her

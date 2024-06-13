@@ -18,7 +18,7 @@ women. It is easily treated and cured with antibiotics.</p>
 people aged 15–49 years was estimated to be 4.0% for women and 2.5% for
 men in 2020.&nbsp;Chlamydia genital infections occur frequently among sexually
 active adolescents and young adults.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>In Singapore, chlamydia had the highest incidence followed by syphilis
 and gonorrhoea among the three legally notifiable STIs in 2019 and 2020.
 It was more commonly reported in men.</p>
@@ -58,7 +58,7 @@ treatment is completed. If untreated, it may persist for several months.</p>
 caused by chlamydia are asymptomatic. Chlamydia often does not cause symptoms
 especially in women. If symptoms do occur, they are usually mild and start
 to show between one to three weeks after exposure to the bacteria.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>In women, symptoms may include:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -74,7 +74,7 @@ to show between one to three weeks after exposure to the bacteria.</p>
 <p>burning sensation when urinating</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>In men, symptoms may include:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -100,12 +100,12 @@ to show between one to three weeks after exposure to the bacteria.</p>
 <p>bleeding</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>Serotypes L1-L3&nbsp;<em>Chlamydia trachomatis</em>&nbsp;can cause another
 STI called lymphogranuloma venereum. The symptoms of this infection include
 genital sores followed by fever and swelling of the lymph nodes in the
 groin.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Several important complications may result from chlamydia infections,
 including pelvic inflammatory disease, ectopic pregnancy and tubal infertility
 in women, epididymo-orchitis in males, and conjunctivitis and reactive
@@ -173,7 +173,7 @@ swabs</p>
 <p><strong>Doxycycline</strong>&nbsp;100 mg orally 2 times/day for 7 days</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>Recommended regimens for chlamydia infections in pregnancy:</p>
 <p><strong>Azithromycin 1g orally single dose</strong>
 </p>
@@ -226,7 +226,7 @@ in unprotected sex should consider regular screening</p>
 on the basis of their risk behaviors</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>Prevention of chlamydia:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -239,7 +239,7 @@ on the basis of their risk behaviors</p>
 <p>Get tested for STIs regularly</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>Management of sexual contacts:</p>
 <ul data-tight="true" class="tight">
 <li>

@@ -32,8 +32,7 @@ other STIs such as Gonorrhoea and Syphilis.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Chlamydia bacteria are usually spread through sex or contact with
-infected genital fluids (semen or vaginal fluid).</p>
-<p>
+infected genital fluids (semen or vaginal fluid).
 <br>You can get Chlamydia through:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -81,16 +80,23 @@ to the bacteria.</p>
 <p>Lower abdominal or back pain</p>
 </li>
 <li>
-<p>Rectal pain and discharge (anal sex)</p>
+<p>Rectal pain and discharge (anal sex)&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>For <strong>Men</strong>
@@ -124,6 +130,14 @@ to the bacteria.</p>
 <p>Bleeding after sexual intercourse or between menstrual periods</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

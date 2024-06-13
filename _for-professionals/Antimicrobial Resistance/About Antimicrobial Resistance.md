@@ -10,14 +10,15 @@ third_nav_title: Antimicrobial Resistance
 (AMR) to be one of the top 10 global public health threats facing humanity.
 Tackling AMR requires a collective effort from everyone, from the general
 public to healthcare professionals as well as the authorities.</p>
-<h3>What is Antimicrobial Resistance (AMR)? </h3>
+<h3>What is Antimicrobial Resistance (AMR)?</h3>
 <p>AMR occurs when microorganisms such as bacteria, viruses, fungi and some
 parasites develop mechanisms to resist being killed by antimicrobial agents
 such as antibiotics. Infections thus persist and may spread to others.</p>
 <p>Find facts on AMR <a href="https://www.who.int/en/news-room/fact-sheets/detail/antimicrobial-resistance" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Why is AMR a Concern?</summary>
+<summary><strong>Why is AMR a Concern?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>AMR presents a major threat to global health. With the gradual and increasing
 development of resistance to antimicrobial agents, many medicines are increasingly
@@ -38,7 +39,8 @@ to another around the globe.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>How Can Healthcare Professionals Play Their Part?</summary>
+<summary><strong>How Can Healthcare Professionals Play Their Part?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Judicious prescribing of antimicrobials plays a key role in minimising
 the risk of misuse.</p>

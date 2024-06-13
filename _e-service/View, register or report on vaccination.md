@@ -9,7 +9,6 @@ description: ""
 </p>
 </blockquote>
 <hr>
-<hr>
 <p></p>
 <blockquote>
 <p>For Doctors: Notify on patient's vaccination record <a href="https://www.nir.hpb.gov.sg/nird/ens/enslogin" rel="noopener noreferrer nofollow" target="_blank">https://www.nir.hpb.gov.sg/nird/ens/enslogin</a>

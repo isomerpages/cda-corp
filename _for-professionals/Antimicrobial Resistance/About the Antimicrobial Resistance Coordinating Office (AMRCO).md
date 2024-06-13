@@ -54,7 +54,8 @@ will help enable a timely and appropriate response to AMR.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>One Health Report on Antimicrobial Utilisation and Resistance</summary>
+<summary><strong>One Health Report on Antimicrobial Utilisation and Resistance</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The two-yearly One Health Report on Antimicrobial Utilisation and Resistance
 is a collaboration between MOH, NEA, NParks, PUB, SFA and AMRCO, NCID.
@@ -74,7 +75,8 @@ organisms in the human, animal, food and environmental sectors in Singapore.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Contributing Data to WHO GLASS</summary>
+<summary><strong>Contributing Data to WHO GLASS</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In 2019, Singapore enrolled in the WHO Global Antimicrobial Resistance
 and Use Surveillance System (GLASS), the first global collaborative effort
@@ -98,7 +100,8 @@ One Health AMR research across the human, animal, food and environment
 sectors, and funding of One Health AMR research.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>One Health AMR Research Programme</summary>
+<summary><strong>One Health AMR Research Programme</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The One Health Antimicrobial Resistance Research Programme (OHARP) is
 funded by the MOH, NEA, NParks, PUB, and SFA. NCID is the appointed grant
@@ -113,7 +116,8 @@ and Socioeconomic Impact of AMR.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>One Health AMR Research in Singapore</summary>
+<summary><strong>One Health AMR Research in Singapore</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In addition to improving our understanding of resistance development,
 it is also necessary to be informed of where the gaps in evidence lie so
@@ -191,7 +195,8 @@ prescribing practices, slows the emergence of resistance and reduces risks
 to the healthcare system.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Antimicrobial Stewardship Programme</summary>
+<summary><strong>Antimicrobial Stewardship Programme</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Antimicrobial stewardship programmes (ASP) have been implemented in all
 public hospitals since 2011. This includes the establishment of ASP teams
@@ -210,7 +215,8 @@ effective ASPs.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>National Surgical Antibiotic Prophylaxis Guideline (Singapore)</summary>
+<summary><strong>National Surgical Antibiotic Prophylaxis Guideline (Singapore)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The National Surgical Antibiotic Prophylaxis (SAP) Guideline (Singapore)
 provides evidence-based recommendations for the rational use of antibiotic

@@ -4,7 +4,7 @@ permalink: /about-cda/who-we-are/
 variant: tiptap
 description: ""
 ---
-<h2><strong>About Us</strong><br></h2>
+<h2>About Us<br></h2>
 <p>The Communicable Diseases Agency (CDA) is tasked with protecting Singapore
 from communicable diseases. It will serve as the central authority for
 designing and implementing public health policies to manage and control

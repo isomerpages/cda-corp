@@ -11,7 +11,8 @@ measures.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>What is Tuberculosis?</summary>
+<summary><strong>What is Tuberculosis?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Tuberculosis (TB) is a highly contagious disease caused by the bacteria
 Mycobacterium tuberculosis. It primarily affects the lungs but can also
@@ -30,7 +31,8 @@ more information.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What are the Types of Tuberculosis?</summary>
+<summary><strong>What are the Types of Tuberculosis?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>When the body fails to kill or contain the bacteria, it is known as active
 TB disease. This means that the bacteria is actively multiplying and is
@@ -54,7 +56,8 @@ between 18 and 29 years old to 29% for those between 70 and 79 years old.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>How is Tuberculosis Disease Transmitted?</summary>
+<summary><strong>How is Tuberculosis Disease Transmitted?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TB is an airborne disease. TB disease spreads through the air when an
 infected person coughs or sneezes. Transmission usually requires close
@@ -66,7 +69,8 @@ bed linens, or sitting on toilet seats.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What are the Symptoms of Tuberculosis Disease?</summary>
+<summary><strong>What are the Symptoms of Tuberculosis Disease?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Symptoms of TB disease include:</p>
 <ul data-tight="true" class="tight">
@@ -107,7 +111,8 @@ series of clinical and laboratory investigations.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Who are At Risk of Developing TB Disease?</summary>
+<summary><strong>Who are At Risk of Developing TB Disease?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The risk of developing TB disease is higher in those who are:</p>
 <ul data-tight="true" class="tight">
@@ -137,7 +142,8 @@ or</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>If You Have TB Disease</summary>
+<summary><strong>If You Have TB Disease</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If you have been diagnosed with active TB disease, you can help keep your
 family, friends, and community from getting sick by:</p>
@@ -164,8 +170,8 @@ Therapy (DOT) treatment at the polyclinic or the NTBSC;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Someone I Am Close To Has Been Diagnosed with Tuberculosis Disease. What
-Should I Do?</summary>
+<summary><strong>Someone I Am Close To Has Been Diagnosed with Tuberculosis Disease. What Should I Do?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Those who have prolonged and close contact with someone who has active
 TB disease may be contacted by the National Tuberculosis Programme (NTBP)
@@ -197,8 +203,8 @@ and their loved ones from getting active TB disease.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>I Am an Employer. My Employee has been Diagnosed with Active TB Disease.
-What Should I Do?</summary>
+<summary><strong>I Am an Employer. My Employee has been Diagnosed with Active TB Disease. What Should I Do?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The public health officer-in-charge (PHO) will contact the workplace supervisor
 / HR for a risk assessment. The following information may be required:</p>
@@ -214,12 +220,11 @@ What Should I Do?</summary>
 <p>A site visit may be requested</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>Subsequently, the PHO will prepare a list of employees who are required
 to go for TB screening. Their details will be submitted to the National
 Tuberculosis Care Centre (NTBCC). They will be scheduled for a screening
 at the centre.</p>
-<p>&nbsp;</p>
 <p>These employees will receive a SMS with the date and time of appointment.
 The workplace supervisor / HR will also receive an email on the appointment
 dates for monitoring / manpower allocation.</p>
@@ -230,57 +235,55 @@ dates for monitoring / manpower allocation.</p>
 <p>Q: What If an Identified Contact Show Symptoms of Active TB Disease?
 <br>Please advise them to seek medical attention and inform the doctor of
 their status as an identified contact.</p>
-<p>&nbsp;</p>
 <p>The doctor will assess whether he/she has TB and will inform the National
 Tuberculosis Programme (NTBP) if the person is suspected to have TB.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Q: Do Identified Contacts Need To Be Isolated?</p>
 <p>Identified contacts do not need to be isolated. They can proceed with
 their daily work unless they are tested positive.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Q: When is It Safe for the Person Who was Diagnosed with Active TB Disease
 To Return to the Office?</p>
 <p>He/she will be considered non-infectious after two weeks of treatment.</p>
-<p>&nbsp;</p>
 <p>He/she will be required to visit the polyclinic or the National Tuberculosis
 Screening Centre daily or a few times a week, as advised by the doctor,
 to take his/her medication until he/she completes treatment. The employee
 may request for a memo from the doctor for their follow-up appointments
 if the organisation requires it.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Q: Can We Arrange for Our Own Screening and Claim from MOH?</p>
 <p>TB screening at the National Tuberculosis Screening Centre is fully subsidised
 only for identified contacts.</p>
-<p>&nbsp;</p>
 <p>MOH will not bear the costs for privately arranged screening or screening
 for non-identified contacts.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>How are Active Tuberculosis Disease and Latent TB Infection Treated?</summary>
+<summary><strong>How are Active Tuberculosis Disease and Latent TB Infection Treated?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Active TB disease is treated with a combination of anti-TB medication,
 administered for at least six to nine months. It is important for TB patients
 to complete the course of treatment, even if they feel better after the
 infectious period (first two weeks), as TB disease may recur or become
 resistant to medication, which becomes extremely difficult to treat.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>For maximum efficacy, TB patients take their medication under the direct
 observation of a healthcare worker. This is called the Directly Observed
 Therapy (DOT). This ensures that patients take the correct dosage and combination
 of medication, and are monitored to avoid treatment failure, drug resistance,
 and further spread of TB. Should their condition worsen, they may require
 hospitalisation or isolation.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>After two months of intensive treatment under the DOT, patients may take
 their medication via an online video call with the nurse. This is called
 the Synchronous Video Observed Therapy (S-VOT).</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Persons with LTBI will be offered preventive treatment if suitable. It
 is important for these individuals to complete the course of their treatment
 (about four to six months) to reduce the risk of developing active TB disease
 in the future.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>While the Bacillus Calmette-Guerin (BCG) Vaccine is available, it is only
 effective in protecting babies from TB meningitis and widespread TB. It
 offers limited protection against pulmonary (lung) TB, which is the most
@@ -288,7 +291,8 @@ common form among adults.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>How to Prevent Getting Active Tuberculosis Disease?</summary>
+<summary><strong>How to Prevent Getting Active Tuberculosis Disease?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>General Advice</u></strong>
 </p>
@@ -301,7 +305,7 @@ has active TB disease;</p>
 <p>Wash your hands frequently with soap and water;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Advice for High-risk Groups</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -337,6 +341,6 @@ a multi-pronged approach to control TB. This approach includes &nbsp;prompt
 diagnosis and management of the disease; effective contact tracing and
 screening; community engagement to raise public awareness; strengthening
 partnerships, and implementing sustainable strategies.</p>
-<p>For more information about NTBP, click <a href="/ntbp/about-ntbp/" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u>
+<p>For more information about NTBP, click <a href="/for-professional/ntbp/about-ntbp/" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u>
 </p>
 <p></p>

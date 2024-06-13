@@ -6,11 +6,12 @@ description: ""
 third_nav_title: A to F
 ---
 <h2>Understanding Chlamydia: Causes, Symptoms, and Treatments</h2>
-<p>Learn what is chlamydia, its causes, symptoms, treatments, and prevention
+<p>Learn what is Chlamydia, its causes, symptoms, treatments, and prevention
 measures.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>What is Chlamydia?&nbsp;&nbsp;</summary>
+<summary><strong>What is Chlamydia?&nbsp;&nbsp;</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Chlamydia is caused by the bacterium Chlamydia trachomatis, which can
 be transmitted via vaginal, anal or oral sexual intercourse. Known as a
@@ -27,7 +28,8 @@ other STIs such as Gonorrhoea and Syphilis.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>How is Chlamydia transmitted?&nbsp;&nbsp;</summary>
+<summary><strong>How is Chlamydia transmitted?&nbsp;&nbsp;</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Chlamydia bacteria are usually spread through sex or contact with
 infected genital fluids (semen or vaginal fluid).</p>
@@ -63,7 +65,8 @@ cutlery.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>How do I know if I have Chlamydia?</summary>
+<summary><strong>How do I know if I have Chlamydia?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Symptoms of early infection often go unnoticed or fail to appear. Hence,
 Chlamydia is known as a silent disease. When symptoms do occur, they are
@@ -172,7 +175,8 @@ of the eye and urethra (Reiter's syndrome).</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Are you at risk?</summary>
+<summary><strong>Are you at risk?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Risk factors include:</p>
 <ul data-tight="true" class="tight">
@@ -195,7 +199,8 @@ of the eye and urethra (Reiter's syndrome).</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>How to treat Chlamydia</summary>
+<summary><strong>How to treat Chlamydia</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Chlamydia can be effectively treated with <strong>antibiotics</strong>.
 A single dose of oral Azithromycin or Doxycycline twice daily for one week
@@ -207,7 +212,8 @@ are unsure of their treatment status.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>How to prevent Chlamydia</summary>
+<summary><strong>How to prevent Chlamydia</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The best way to prevent infection is to abstain from unprotected sex and
 be faithful to your partner.</p>

@@ -2,7 +2,7 @@ collections:
   nphl:
     output: true
     order:
-      - About Us.md
+      - Background.md
       - Laboratory Programmes.md
       - Laboratory Analytical Methods.md
       - Our People.md

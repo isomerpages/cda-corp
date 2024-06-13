@@ -102,7 +102,7 @@ are infectious until they have completed effective treatment.</p>
 <p>Chest pain</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Sequelae</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -159,8 +159,7 @@ diabetes, or malnutrition, are at higher risk of developing active TB disease.</
 <p>Molecular tests (e.g., GeneXpert)</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>Diagnosis of latent TB infection may require an interferon-gamma release
 assay (IGRA) test or a tuberculin skin test (TST).</p>
 </div>
@@ -200,7 +199,7 @@ resistance and ensure cure.</p>
 <p>Wash your hands frequently with soap and water.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Advice for high-risk groups</strong>
 </p>
 <ul data-tight="true" class="tight">

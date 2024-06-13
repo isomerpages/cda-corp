@@ -310,5 +310,6 @@ of antimicrobial resistance.</p>
 watch the video.</p>
 <hr>
 <h3>Frequently Asked Questions (FAQs) on AMR</h3>
-<p>Find answers to commonly answered questions about AMR here:</p>
+<p>Find answers to commonly answered questions about AMR here: <a href="/files/FAQ_on_AMR_Public.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ on AMR</a>
+</p>
 <p></p>

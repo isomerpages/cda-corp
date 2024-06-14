@@ -84,27 +84,4 @@ sections:
             individuals. Get boosted and stay protected.
           link_text: Learn more
           link_url: https://www.vaccine.gov.sg
-  - textcards:
-      title: Text Cards
-      subtitle: Lorem Ipsum Dolor
-      id: textcards
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis nosterLorem ipsum dolor sit amet.
-      cards:
-        - title: Antimicrobial Resistance (AMR)
-          description: Learn more about AMR efforts in education, surveillance and risk
-            assessment...
-          linktext: Learn more
-          url: /for-public/antimicrobial-resistance/about-antimicrobial-resistance/
-        - title: OneHealth
-          description: Learn about Singapore's OneHealth Framework which is an integration
-            of...
-          linktext: Learn more
-          url: /one-health/
-        - title: Healthcare Epidemiology
-          description: Explore infection prevention and control guidelines that have been
-            prepared...
-          linktext: Learn more
-          url: ""
 ---

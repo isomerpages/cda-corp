@@ -56,11 +56,8 @@ her baby.</p>
 </li>
 </ul>
 <p></p>
-<blockquote>
-<p>Chlamydia cannot be spread through casual contact, such as kissing and
-hugging, or from sharing baths, towels, swimming pools, toilet seats or
-cutlery.</p>
-</blockquote>
+<p><strong>Chlamydia cannot be spread through casual contact, such as kissing and hugging, or from sharing baths, towels, swimming pools, toilet seats or cutlery.</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -142,16 +139,13 @@ to the bacteria.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>A type of&nbsp;<em>Chlamydia trachomatis</em>&nbsp;can cause another STI
 called <strong>Lymphogranuloma Venereum</strong>. The symptoms of this infection
 include genital sores followed by fever and swelling of the lymph nodes
 in the groin.</p>
 <p></p>
-<blockquote>
-<p>Untreated Chlamydia infections may progress to serious damage of the reproductive
-organs along with other health problems.</p>
-</blockquote>
+<p><strong>Untreated Chlamydia infections may progress to serious damage of the reproductive organs along with other health problems.</strong>
+</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>

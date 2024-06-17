@@ -65,7 +65,7 @@ is unclear.</p>
 <p>burning during urination</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>At times, BV will go away without treatment. However, if untreated it
 can lead to:</p>
 <ul data-tight="true" class="tight">

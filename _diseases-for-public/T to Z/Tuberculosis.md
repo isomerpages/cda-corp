@@ -294,7 +294,7 @@ common form among adults.</p>
 <summary><strong>How to Prevent Getting Active Tuberculosis Disease?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong><u>General Advice</u></strong>
+<p><strong>General Advice</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -306,7 +306,7 @@ has active TB disease;</p>
 </li>
 </ul>
 <p></p>
-<p><strong><u>Advice for High-risk Groups</u></strong>
+<p><strong>Advice for High-risk Groups</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>

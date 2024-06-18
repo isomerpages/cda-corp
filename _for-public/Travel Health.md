@@ -4,7 +4,7 @@ permalink: /general-public/travel-health/
 variant: tiptap
 description: ""
 ---
-<h3>Health Information for Travel</h3>
+<h3>Staying Healthy Abroad</h3>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

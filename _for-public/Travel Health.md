@@ -44,7 +44,7 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary>Other Items You May Need</summary>
+<summary>Other Travel Health Essentials</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>

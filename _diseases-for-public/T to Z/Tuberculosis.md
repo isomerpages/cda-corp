@@ -58,8 +58,8 @@ between 18 and 29 years old to 29% for those between 70 and 79 years old.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TB is an airborne disease. TB disease spreads through the air when an
 infected person coughs or sneezes. Transmission usually requires close
-and prolonged exposure to the TB bacteria. It can be worsened by being
-enclosed in areas with poor ventilation.</p>
+and prolonged exposure to the TB bacteria. The chances of transmission
+dramatically increase by being in enclosed areas with poor ventilation.</p>
 <p></p>
 <p>TB disease cannot be spread by shaking someone’s hand, kissing, touching
 bed linens, or sitting on toilet seats.</p>
@@ -328,11 +328,11 @@ symptoms and seek prompt medical evaluation if any concerns arise.</p>
 and care programme aimed at protecting the people of Singapore from the
 disease. It was launched by the Ministry of Health in 1997 to further its
 vision of a TB-free Singapore with people-centred care.</p>
-<p>&nbsp;NTBP is led by the Communicable Diseases Agency (CDA), which uses
-a multi-pronged approach to control TB. This approach includes prompt diagnosis
-and management of the disease; effective contact tracing and screening;
-community engagement to raise public awareness; strengthening partnerships;
-and implementing sustainable strategies.</p>
+<p>NTBP is led by the Communicable Diseases Agency (CDA), which uses a multi-pronged
+approach to control TB. This approach includes prompt diagnosis and management
+of the disease; effective contact tracing and screening; community engagement
+to raise public awareness; strengthening partnerships; and implementing
+sustainable strategies.</p>
 <p>More information about NTBP <a href="/for-professional/ntbp/about-ntbp/" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u>
 </p>
 <p></p>

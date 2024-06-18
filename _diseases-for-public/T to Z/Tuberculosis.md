@@ -127,7 +127,7 @@ with TB disease, especially in crowded or poorly ventilated conditions;</p>
 or</p>
 </li>
 <li>
-<p>Children under aged under 5 years and elderly.</p>
+<p>Elderly and children under aged under 5 years.</p>
 </li>
 </ul>
 </div>

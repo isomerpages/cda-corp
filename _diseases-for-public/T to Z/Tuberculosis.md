@@ -202,17 +202,18 @@ and their loved ones from getting active TB disease.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The public health officer-in-charge (PHO) will contact the workplace supervisor
-/ HR for a risk assessment. The following information may be required:</p>
+or HR department for a risk assessment. The following information may be
+required:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Details of people who have been exposed to the TB patient for more than
-8 hours cumulatively</p>
+8 hours cumulatively;</p>
 </li>
 <li>
-<p>Floorplan and photographs</p>
+<p>Floorplan and photographs; and</p>
 </li>
 <li>
-<p>A site visit may be requested</p>
+<p>A site visit may be requested.</p>
 </li>
 </ul>
 <p></p>
@@ -221,36 +222,37 @@ to go for TB screening. Their details will be submitted to the National
 Tuberculosis Care Centre (NTBCC). They will be scheduled for a screening
 at the centre.</p>
 <p>These employees will receive a SMS with the date and time of appointment.
-The workplace supervisor / HR will also receive an email on the appointment
-dates for monitoring / manpower allocation.</p>
+The workplace supervisor or HR department will also receive an email on
+the appointment dates for monitoring or manpower allocation.</p>
 <p></p>
 <p><a href="/" rel="noopener noreferrer nofollow" target="_blank">How to get to NTBCC?</a>
 </p>
 <p></p>
-<p>Q: What If an Identified Contact Show Symptoms of Active TB Disease?
+<p><strong>Q: What if an Identified Contact Show Symptoms of Active TB Disease? </strong>
 <br>Please advise them to seek medical attention and inform the doctor of
 their status as an identified contact.</p>
-<p>The doctor will assess whether he/she has TB and will inform the National
+<p>The doctor will assess whether they have TB and will inform the National
 Tuberculosis Programme (NTBP) if the person is suspected to have TB.</p>
 <p></p>
-<p>Q: Do Identified Contacts Need To Be Isolated?</p>
+<p><strong>Q: Do Identified Contacts Need to be Isolated?</strong>
+</p>
 <p>Identified contacts do not need to be isolated. They can proceed with
 their daily work unless they are tested positive.</p>
 <p></p>
-<p>Q: When is It Safe for the Person Who was Diagnosed with Active TB Disease
-To Return to the Office?</p>
-<p>He/she will be considered non-infectious after two weeks of treatment.</p>
-<p>He/she will be required to visit the polyclinic or the National Tuberculosis
+<p><strong>Q: When is it Safe for the Person Diagnosed with Active TB Disease to Return to Office?</strong>
+</p>
+<p>They will be considered non-infectious after two weeks of treatment. Then,
+they will be required to visit the polyclinic or the National Tuberculosis
 Screening Centre daily or a few times a week, as advised by the doctor,
-to take his/her medication until he/she completes treatment. The employee
-may request for a memo from the doctor for their follow-up appointments
-if the organisation requires it.</p>
+to take their medication until they complete treatment. The employee may
+request for a memo from the doctor for their follow-up appointments if
+the organisation requires it.</p>
 <p></p>
-<p>Q: Can We Arrange for Our Own Screening and Claim from MOH?</p>
+<p><strong>Q: Can We Arrange for Our Own Screening and Claim from MOH?</strong>
+</p>
 <p>TB screening at the National Tuberculosis Screening Centre is fully subsidised
-only for identified contacts.</p>
-<p>MOH will not bear the costs for privately arranged screening or screening
-for non-identified contacts.</p>
+only for identified contacts. MOH will not bear the costs for privately
+arranged screening or screening for non-identified contacts.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -294,10 +296,10 @@ common form among adults.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Maintain good ventilation in living spaces if living with someone who
-has active TB disease;</p>
+has active TB disease; and</p>
 </li>
 <li>
-<p>Wash your hands frequently with soap and water;</p>
+<p>Wash your hands frequently with soap and water.</p>
 </li>
 </ul>
 <p></p>
@@ -306,7 +308,7 @@ has active TB disease;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>If you have LTBI, you may be offered preventive treatment to reduce the
-risk of developing active TB disease;</p>
+risk of developing active TB disease; or</p>
 </li>
 <li>
 <p>If you are at high risk for TB exposure, you should be vigilant about

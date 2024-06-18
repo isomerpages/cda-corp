@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Staying Healthy Abroad</h3>
-<p></p>
+<p>All the information you need to stay healthy while travelling</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Food and Water Consumption</summary>

@@ -1,0 +1,13 @@
+collections:
+  news-and-events:
+    output: true
+    order:
+      - Newsroom/.keep
+      - Newsroom/Speeches.md
+      - Newsroom/CDA in the News.md
+      - Newsroom/Media Releases.md
+      - Ongoing Outbreaks Updates.md
+      - Events.md
+      - Publications.md
+      - Weekly Bulletin on CD.md
+      - Data and Statistics.md

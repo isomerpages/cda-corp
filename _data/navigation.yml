@@ -1,17 +1,16 @@
-logo: /images/isomer-logo.svg
+logo: /images/cda_logo.png
 links:
-  - title: About CDA
-    url: /about-cda/
+  - title: For Public
+    collection: for-public
+  - title: For Professionals
+    collection: for-professionals
+  - title: Research
+    collection: research-and-lab-programmes
+  - title: Nphl
+    collection: nphl
   - title: News and Events
-    url: /news-and-events-page/
-  - title: For Patients and Visitors
-    url: /for-patients-and-visitors
-    sublinks:
-      - title: Visit a Specialist
-        url: /for-patients-and-visitors/visit-a-specialist
-      - title: Admission
-        url: /for-patients-and-visitors/admission
-      - title: Getting to NCID
-        url: /for-patients-and-visitors/getting-to-ncid
-  - title: Example Folder
-    collection: example-folder
+    resource_room: true
+  - title: About CDA
+    collection: who-we-are
+  - title: I Want To
+    collection: e-service

@@ -1,0 +1,8 @@
+collections:
+  nphl:
+    output: true
+    order:
+      - Background.md
+      - Laboratory Programmes.md
+      - Laboratory Analytical Methods.md
+      - Our People.md

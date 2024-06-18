@@ -1,0 +1,9 @@
+collections:
+  folder-holder:
+    output: true
+    order:
+      - Pandemic Preparedness.md
+      - National Public Health Laboratory.md
+      - Laboratory Analytical Methods.md
+      - Laboratory Programmes.md
+      - Infection prevention and control.md

@@ -1,0 +1,30 @@
+collections:
+  for-professionals:
+    output: true
+    order:
+      - National HIV STI Hep Programme/.keep
+      - National HIV STI Hep Programme/About NHVIP.md
+      - National HIV STI Hep Programme/HIV Self Testing Pilot Programme.md
+      - Diseases/.keep
+      - Diseases/A to F.md
+      - Diseases/G to L.md
+      - Diseases/M to S.md
+      - Diseases/T to Z.md
+      - Vaccinations.md
+      - Travel Health.md
+      - One Health.md
+      - Antimicrobial Resistance/.keep
+      - Antimicrobial Resistance/About Antimicrobial Resistance.md
+      - Antimicrobial Resistance/About the Antimicrobial Resistance Coordinating
+        Office (AMRCO).md
+      - Antimicrobial Resistance/About Singapore’s National Strategic Action
+        Plan (NSAP) on AMR.md
+      - Healthcare Epidemiology.md
+      - Professional Training.md
+      - National TB Programme/.keep
+      - National TB Programme/About NTBP.md
+      - National TB Programme/History and Goals.md
+      - National TB Programme/Organisation Structure.md
+      - National TB Programme/Info Sheet.md
+      - National TB Programme/Media Spotlight.md
+      - National TB Programme/Contact Us.md

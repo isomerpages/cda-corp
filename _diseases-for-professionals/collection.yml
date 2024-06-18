@@ -1,0 +1,70 @@
+collections:
+  diseases-for-professionals:
+    output: true
+    order:
+      - A to F/.keep
+      - A to F/Avian Influenza.md
+      - A to F/Bacillus cereus.md
+      - A to F/Bacterial Vaginosis.md
+      - A to F/Botulism.md
+      - A to F/Campylobacteriosis.md
+      - A to F/Chikungunya Fever.md
+      - A to F/Chlamydia.md
+      - A to F/Cholera and other Vibrioses.md
+      - A to F/Clostridium perfringens.md
+      - A to F/COVID 19.md
+      - A to F/Dengue Fever and Dengue Haemorrhagic Fever.md
+      - A to F/Diphtheria.md
+      - A to F/Ebola Virus Disease.md
+      - A to F/Food poisoning and Foodborne illness.md
+      - G to L/.keep
+      - G to L/Genital Herpes.md
+      - G to L/Gonorrhoea.md
+      - G to L/Haemophilus Influenzae Type b (HiB).md
+      - G to L/Hand, Foot and Mouth Disease.md
+      - G to L/Hepatitis A, acute.md
+      - G to L/Hepatitis B, acute.md
+      - G to L/Hepatitis C, acute.md
+      - G to L/Hepatitis E, acute.md
+      - G to L/HIV (AIDS).md
+      - G to L/HPV.md
+      - G to L/Influenza.md
+      - G to L/Invasive Group B Streptococcal Infection.md
+      - G to L/Invasive Pneumococcal Disease.md
+      - G to L/Japanese Encephalitis.md
+      - G to L/Lassa Fever.md
+      - G to L/Legionellosis.md
+      - G to L/Leprosy.md
+      - G to L/Leptospirosis.md
+      - G to L/Listeriosis.md
+      - M to S/Mycoplasma Genitalium.md
+      - M to S/Malaria.md
+      - M to S/Marburg virus disease.md
+      - M to S/Measles.md
+      - M to S/Melioidosis.md
+      - M to S/Meningococcal disease.md
+      - M to S/Middle East Respiratory Syndrome Coronavirus (MERS CoV).md
+      - M to S/Mpox.md
+      - M to S/Mumps.md
+      - M to S/Murine Typhus.md
+      - M to S/Nipah Virus Infection.md
+      - M to S/Paratyphoid and Typhoid Fever.md
+      - M to S/Pertussis.md
+      - M to S/Plague.md
+      - M to S/Poliomyelitis.md
+      - M to S/Rabies.md
+      - M to S/Respiratory Syncytial Virus (RSV).md
+      - M to S/Rubella.md
+      - M to S/Salmonellosis (non typhoidal).md
+      - M to S/Severe Acute Respiratory Syndrome (SARS).md
+      - M to S/Staphylococcus aureus.md
+      - M to S/Syphilis.md
+      - M to S/.keep
+      - T to Z/.keep
+      - T to Z/Tetanus.md
+      - T to Z/Trichomoniasis.md
+      - T to Z/Tuberculosis.md
+      - T to Z/Viral Gastroenteritis (Norovirus).md
+      - T to Z/Viral hepatitis (Bloodborne).md
+      - T to Z/Yellow Fever.md
+      - T to Z/Zika Virus Infection.md

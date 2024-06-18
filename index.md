@@ -1,89 +1,87 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: CDA Staging 1
+description: An Isomer site of the Singapore Government
+image: /images/CDA_RGBLogo_ICON_COLOUR.png
 permalink: /
-notification: Welcome to our new test website banner!
+notification: "Alert: Bird flu outbreak in several parts of Southeast Asia.
+  Click to learn how you can protect yourself!"
 sections:
   - hero:
-      title: CDA Test Homepage
-      subtitle: Test Home Page for CDA
-      background: /images/ncid-building.jpg
+      title: Protecting Health, Saving Lives, Preserving Livelihoods
+      background: /images/grey_opacity.png
       key_highlights:
-        - title: For Patients and Visitors
+        - title: Weekly Infectious Diseases Bulletin
           description: ""
-          url: https://google.com
-        - title: For Healthcare Professionals
+          url: /weekly-infectious-diseases-bulletin/
+        - title: HIV SELF-TESTING KIT LAUNCHED
           description: ""
-          url: https://gmail.com
-        - title: For General Public
+          url: /
+        - title: Pandemic Preparedness
           description: ""
-          url: /privacy/
-        - title: Infectious Disease Research
-          description: ""
-          url: ""
+          url: for-public/pandemic-preparedness/
+      variant: center
+      backgroundColor: gray
+      size: sm
+      alignment: left
+      button: About US
+      url: /about-cda/who-we-are/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: Communicable Diseases Agency Singapore
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: Protecting Singapore from communicable diseases through excellence
+        in public health expertise and capabilities
+  - infopic:
+      title: Communicable Diseases Research
+      id: infopic
+      description: Research plays a significant role in national preparedness and
+        defence against emerging communicable diseases in Singapore.
+      button: Explore research efforts
+      alt: Image alt text
+      image: /images/Research_Infopic.png
+      url: /trending-publications/
+  - infopic:
+      title: National Public Health Laboratory (NPHL)
+      id: infopic
+      description: NPHL conducts laboratory investigations to support surveillance of
+        communicable diseases, control of outbreaks, and preparedness for new
+        and risky pathogens.
+      button: Learn more about NPHL
+      alt: Image alt text
+      image: /images/NPHL_Infopic.png
+      url: /about-us/
+  - infopic:
+      title: End TB Together
+      id: infopic
+      description: Early diagnosis is key to treating TB effectively. Learn more about
+        the disease and its symptoms now!
+      button: Browse campaign resources
+      alt: Image alt text
+      image: /images/4_3.png
+      url: for-professional/ntbp/about-ntbp/
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: News and Events
       id: resources
+      button: SEE ALL
   - announcements:
-      title: Announcements
+      title: UPDATES
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: New Announcement
-          date: 06 November 2023
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
-  - textcards:
-      title: Text Cards
-      subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-  - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
+        - title: Dengue Screening
+          date: 10 June 2024
+          announcement: Protect yourself - get screened for dengue at a polyclinic near you!
+          link_text: Learn more
+          link_url: https://www.ncid.sg/Health-Professionals/Diseases-and-Conditions/Pages/Dengue.aspx
+        - title: Travel Advisory
+          date: 11 June 2024
+          announcement: Zika virus outbreak has emerged in parts of South America. Stay
+            informed and protect yourself before you travel.
+          link_text: Learn more
+          link_url: https://www.ncid.sg/For-General-Public/Travel-Health/Pages/default.aspx
+        - title: New COVID-19 Booster Available
+          date: 10 June 2024
+          announcement: The latest bivalent booster shot is now available for eligible
+            individuals. Get boosted and stay protected.
+          link_text: Learn more
+          link_url: https://www.vaccine.gov.sg
 ---

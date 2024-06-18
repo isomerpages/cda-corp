@@ -1,0 +1,5 @@
+collections:
+  data-and-statistics:
+    output: true
+    order:
+      - WEEKLY INFECTIOUS DISEASES BULLETIN.md

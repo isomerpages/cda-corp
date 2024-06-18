@@ -1,0 +1,23 @@
+collections:
+  nphl-old:
+    output: true
+    order:
+      - About Us.md
+      - Laboratory Programmes/.keep
+      - Laboratory Programmes/Bacteriology.md
+      - Laboratory Programmes/Virology.md
+      - Laboratory Programmes/Malaria and other parasites.md
+      - Laboratory Programmes/Human Immunodeficiency Virus, supporting National
+        HIV Programme.md
+      - Laboratory Programmes/Tuberculosis, supporting National TB Programme.md
+      - Laboratory Programmes/Serology, supporting the National Seroprevalence
+        Survey.md
+      - Laboratory Programmes/High Consequence, Biothreat & Exotic Pathogens.md
+      - Laboratory Programmes/Electron Microscopy.md
+      - Laboratory Programmes/Bioinformatics.md
+      - Laboratory Analytical Methods/.keep
+      - Laboratory Analytical Methods/Microscopy.md
+      - Laboratory Analytical Methods/Bacteria.md
+      - Laboratory Analytical Methods/Viruses.md
+      - Laboratory Analytical Methods/Parasites.md
+      - Our People.md

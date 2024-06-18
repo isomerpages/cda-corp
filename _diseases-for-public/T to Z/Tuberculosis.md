@@ -11,14 +11,13 @@ measures.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>What is Tuberculosis?</strong>
+<summary><strong>What is Tuberculosis (TB)?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Tuberculosis (TB) is a highly contagious disease caused by the bacteria
-Mycobacterium tuberculosis. It primarily affects the lungs but can also
-affect other parts of your body, such as the brain, lymph nodes, the kidneys,
-bones, and joints. While curable, TB remains a significant public health
-concern globally.</p>
+<p>Tuberculosis (TB) is a highly contagious disease caused by the bacteria <em>Mycobacterium tuberculosis</em>.
+It primarily affects the lungs but can also affect other parts of your
+body, such as the brain, lymph nodes, the kidneys, bones, and joints. While
+curable, TB remains a significant public health concern globally.</p>
 <p></p>
 <p>In Singapore, TB is endemic and latent TB infection is not uncommon in
 our population.</p>
@@ -26,17 +25,15 @@ our population.</p>
 <p>In 2023, there were 1,201 new cases of active TB disease among Singapore
 residents. This is lower than the 1,251 cases in 2022. The incidence rate
 was 28.9 cases per 100,000 population in 2023, compared to 30.4 cases per
-100,000 in 2022. Please refer to <a href="https://www.moh.gov.sg/news-highlights/details/update-on-tuberculosis-situation-in-singapore-2024" rel="noopener noreferrer nofollow" target="_blank">MOH’s latest update</a> for
-more information.</p>
+100,000 in 2022. Refer to <a href="https://www.moh.gov.sg/news-highlights/details/update-on-tuberculosis-situation-in-singapore-2024" rel="noopener noreferrer nofollow" target="_blank">MOH’s latest update</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>What are the Types of Tuberculosis?</strong>
+<summary><strong>What are the Types of TB?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>When the body fails to kill or contain the bacteria, it is known as active
-TB disease. This means that the bacteria is actively multiplying and is
-contagious.</p>
+TB disease. This means the bacteria is actively multiplying and is contagious.</p>
 <p></p>
 <p>However, not all individuals who are exposed to an infectious individual
 will get active TB disease.</p>
@@ -56,7 +53,7 @@ between 18 and 29 years old to 29% for those between 70 and 79 years old.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How is Tuberculosis Disease Transmitted?</strong>
+<summary><strong>How is TB Disease Transmitted?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TB is an airborne disease. TB disease spreads through the air when an
@@ -69,7 +66,7 @@ bed linens, or sitting on toilet seats.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>What are the Symptoms of Tuberculosis Disease?</strong>
+<summary><strong>What are the Symptoms of TB Disease?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Symptoms of TB disease include:</p>
@@ -100,9 +97,8 @@ bed linens, or sitting on toilet seats.</p>
 </li>
 </ul>
 <p></p>
-<p>TB disease is curable and the spread of TB is preventable. Early detection
-and prompt treatment is key. If you have symptoms of TB, go see a doctor
-immediately.</p>
+<p>TB disease is curable and its spread is preventable. Early detection and
+prompt treatment is key. If you have symptoms of TB, go see a doctor immediately.</p>
 <p></p>
 <p>Your doctor may ask you to go for a chest X-ray and put you through a
 series of clinical and laboratory investigations.</p>
@@ -111,10 +107,10 @@ series of clinical and laboratory investigations.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Who are At Risk of Developing TB Disease?</strong>
+<summary><strong>What are the Risk Factors?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The risk of developing TB disease is higher in those who are:</p>
+<p>Risk factors include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Individuals with weakened immune systems, due to drugs, sickness, or malnutrition;</p>
@@ -131,14 +127,13 @@ with TB disease, especially in crowded or poorly ventilated conditions;</p>
 or</p>
 </li>
 <li>
-<p>Children under 5 years of age and elderly.</p>
+<p>Children under aged under 5 years and elderly.</p>
 </li>
 </ul>
 </div>
 </details>
 </div>
-<h2>What Should I Do if I Am Diagnosed with Tuberculosis Disease?</h2>
-<p>If your doctor suspects you have tuberculosis disease….</p>
+<h2>What Should I Do When Diagnosed with TB Disease?</h2>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -170,7 +165,7 @@ Therapy (DOT) treatment at the polyclinic or the NTBSC;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Someone I Am Close To Has Been Diagnosed with Tuberculosis Disease. What Should I Do?</strong>
+<summary><strong>What Should I Do When Someone Close to Me has been Diagnosed with TB Disease?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Those who have prolonged and close contact with someone who has active
@@ -203,7 +198,7 @@ and their loved ones from getting active TB disease.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>I Am an Employer. My Employee has been Diagnosed with Active TB Disease. What Should I Do?</strong>
+<summary><strong>What Should I Do When My Employee has been Diagnosed with Active TB Disease?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The public health officer-in-charge (PHO) will contact the workplace supervisor
@@ -259,7 +254,7 @@ for non-identified contacts.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How are Active Tuberculosis Disease and Latent TB Infection Treated?</strong>
+<summary><strong>How to Treat Active TB Disease and Latent TB Infection?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Active TB disease is treated with a combination of anti-TB medication,
@@ -291,7 +286,7 @@ common form among adults.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How to Prevent Getting Active Tuberculosis Disease?</strong>
+<summary><strong>How to Prevent Getting Active TB Disease?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>General Advice</strong>
@@ -323,24 +318,21 @@ symptoms and seek prompt medical evaluation if any concerns arise.</p>
 </div>
 <p></p>
 <h2>Educational Materials</h2>
-<p>Play a fun quiz to test your knowledge about tuberculosis:</p>
+<p>Test your knowledge about tuberculosis with this quiz:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_091052.png">
 </div>
-<p>Have more questions about tuberculosis? Get your questions on answered
-here:&nbsp; <a href="https://ask.gov.sg/ntbp" rel="noopener noreferrer nofollow" target="_blank">NTBP | Q&amp;A: Your questions answered (ask.gov.sg)</a>
-</p>
-<p></p>
+<p>Read the TB FAQ <a href="https://ask.gov.sg/ntbp" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h2>About the National Tuberculosis Programme</h2>
 <p>The National Tuberculosis Programme (NTBP) is a national TB prevention
 and care programme aimed at protecting the people of Singapore from the
 disease. It was launched by the Ministry of Health in 1997 to further its
 vision of a TB-free Singapore with people-centred care.</p>
 <p>&nbsp;NTBP is led by the Communicable Diseases Agency (CDA), which uses
-a multi-pronged approach to control TB. This approach includes &nbsp;prompt
-diagnosis and management of the disease; effective contact tracing and
-screening; community engagement to raise public awareness; strengthening
-partnerships, and implementing sustainable strategies.</p>
-<p>For more information about NTBP, click <a href="/for-professional/ntbp/about-ntbp/" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u>
+a multi-pronged approach to control TB. This approach includes prompt diagnosis
+and management of the disease; effective contact tracing and screening;
+community engagement to raise public awareness; strengthening partnerships;
+and implementing sustainable strategies.</p>
+<p>More information about NTBP <a href="/for-professional/ntbp/about-ntbp/" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u>
 </p>
 <p></p>

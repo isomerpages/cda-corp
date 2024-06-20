@@ -32,7 +32,48 @@ public health expertise and capabilities.</p>
 <p>Teamwork, Collaboration, Compassion, Dedication, Excellence, Respect,
 Integrity, Professionalism, Innovation</p>
 <hr>
+<h2>Organisation Chart</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDA_Org_Chart_TBC.jpg">
+</div>
 <p></p>
-<h3></h3>
+<h2>Board Members</h2>
+<h3><strong>Chairman</strong></h3>
+<p><strong>Prof Benjamin Ong</strong>
+<br>Chairman
+<br>Health Sciences Authority&nbsp;</p>
+<h3><strong>Members&nbsp;</strong></h3>
+<p><strong>Prof Tai Lee Siang<br></strong>Head of Pillar, Architecture and
+Sustainable Design
+<br>Singapore University of Technology and Design&nbsp;</p>
+<p><strong>Mr Alok Mishra</strong>
+<br>Chief Executive Officer
+<br>Value Addition</p>
+<p><strong>Mr Dileep Nair</strong>
+<br>Former Independent Director
+<br>Keppel DC REIT Management Pte Ltd</p>
+<p><strong>Mr Jimmy Phoon</strong>
+<br>Chief Executive Officer
+<br>Seviora Holdings Pte Ltd&nbsp;</p>
+<p><strong>Ms Aileen Tan</strong>
+<br>Group Chief People and Sustainability Officer
+<br>Singtel</p>
+<p><strong>Mr Lin Qinghui</strong>
+<br>Principal Private Secretary to Deputy Prime Minister
+<br>Ministry of Finance</p>
+<p><strong>Mr Robert Chew</strong>
+<br>Managing Partner
+<br>iGlobe Partners</p>
+<p><strong>Prof Chen Tsuhan</strong>
+<br>Deputy President, Innovation and Enterprise
+<br>National University of Singapore</p>
+<p><strong>Prof Lim Chwee Teck</strong>
+<br>NUS Society Professor, Department of Biomedical Engineering
+<br>Director, Institute for Health Innovation and Technology (iHealthtech),
+NUS
+<br>Founding Director, Singapore Health Technologies Consortium
+<br><strong><br>Ms Kala Anandarajah<br></strong>Head, Competition &amp; Antitrust
+and Trade
+<br>Rajah &amp; Tann Singapore LLP and Asia</p>
 <p></p>

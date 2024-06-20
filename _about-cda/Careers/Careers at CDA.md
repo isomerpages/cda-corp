@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Careers
 ---
-<h2>Shape the Future of Public Health with CDA</h2>
+<h2>Make Your Mark on Public Health with CDA</h2>
 <p>A career in public health can be challenging yet rewarding. If you believe
 in creating positive change and making a real difference, we invite you
 to explore the exciting opportunities available at CDA.</p>

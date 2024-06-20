@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Careers
 ---
+<h2>Pursue Your Future in Healthcare</h2>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Healthcare Scholarship</strong>
@@ -1564,4 +1566,5 @@ University of California Berkeley, USA</p>
 </div>
 </details>
 </div>
+<h2></h2>
 <p></p>

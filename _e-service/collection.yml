@@ -2,6 +2,6 @@ collections:
   e-service:
     output: true
     order:
-      - View, register or report on vaccination.md
+      - Access Vaccination Records.md
       - E Service 2.md
       - E Service 3.md

@@ -5,20 +5,22 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>For Public: View my vaccination record <a href="https://www.nir.hpb.gov.sg/nirp/eservices/login" rel="noopener noreferrer nofollow" target="_blank">https://www.nir.hpb.gov.sg/nirp/eservices/login</a>
+<p><strong>For Public</strong>: View vaccination records <a href="https://www.nir.hpb.gov.sg/nirp/eservices/login" rel="noopener noreferrer nofollow" target="_blank">https://www.nir.hpb.gov.sg/nirp/eservices/login</a>
 </p>
 </blockquote>
 <hr>
 <p></p>
 <blockquote>
-<p>For Doctors: Notify on patient's vaccination record <a href="https://www.nir.hpb.gov.sg/nird/ens/enslogin" rel="noopener noreferrer nofollow" target="_blank">https://www.nir.hpb.gov.sg/nird/ens/enslogin</a>
+<p><strong>For Doctors</strong>: Update patient vaccination records via the
+NIR Doctor Portal <a href="https://www.nir.hpb.gov.sg/nird/ens/enslogin" rel="noopener noreferrer nofollow" target="_blank">https://www.nir.hpb.gov.sg/nird/ens/enslogin</a>
 </p>
 </blockquote>
 <hr>
 <p></p>
 <blockquote>
-<p>For Foreign Child Vaccination Requirements: Submit application for long-term
-pass <a href="https://www.nir.hpb.gov.sg/fcine/#/navpage/home" rel="noopener noreferrer nofollow" target="_blank">https://www.nir.hpb.gov.sg/fcine/#/navpage/home</a>
+<p><strong>For Foreign-born Children</strong>: Apply for verification of
+vaccination requirements for foreign-born children applying for long-term
+immigration passes <a href="https://www.nir.hpb.gov.sg/fcine/#/navpage/home" rel="noopener noreferrer nofollow" target="_blank">https://www.nir.hpb.gov.sg/fcine/#/navpage/home</a>
 </p>
 </blockquote>
 <hr>

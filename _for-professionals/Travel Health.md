@@ -12,26 +12,23 @@ to effectively manage travel-related health concerns.</p>
 <h4><strong>Pre-Travel Considerations:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Risk Assessment:</strong> Utilise the Ministry of Health's (MOH)
-travel advisories (<a rel="noopener noreferrer nofollow" target="_blank">https://www.moh.gov.sg/diseases-updates/travel-advisory</a>)
-to assess destination-specific risks for vaccine-preventable diseases (VPDs),
+<p><strong>Risk Assessment:</strong> Utilise <a href="https://www.moh.gov.sg/diseases-updates/travel-advisory" rel="noopener noreferrer nofollow" target="_blank">MOH Travel Advisories</a> to
+assess destination-specific risks for vaccine-preventable diseases (VPDs),
 vector-borne illnesses (e.g., dengue, malaria), and foodborne infections.</p>
 </li>
 <li>
-<p><strong>Vaccination Recommendations:</strong> Maintain updated knowledge
-on recommended vaccinations for popular travel destinations. Refer to the
-latest National Immunisation Programme (<a rel="noopener noreferrer nofollow" target="_blank">https://www.moh.gov.sg/resources-statistics/nationally-recommended-vaccines</a>)
-guidelines and advocate for age-appropriate catch-up vaccinations for travelers
-with incomplete immunization.</p>
+<p><strong>Vaccination Recommendations:</strong> Refer to the latest <a href="https://www.moh.gov.sg/resources-statistics/nationally-recommended-vaccines" rel="noopener noreferrer nofollow" target="_blank">National Immunisation Programme guidelines</a> and
+advocate for age-appropriate catch-up vaccinations for travelers with incomplete
+immunization.</p>
 </li>
 <li>
-<p><strong>Prophylaxis and Chemoprophylaxis:</strong> Be familiar with preventive
-measures such as antimalarial medications depending on the travel destination.
-Advise travelers on appropriate insect repellents, safe food and water
-practices, and sun protection.</p>
+<p><strong>Prophylaxis and Chemoprophylaxis:</strong> Advise travelers on
+appropriate insect repellents, safe food and water practices, and sun protection
+with preventive measures such as antimalarial medications depending on
+the travel destination.</p>
 </li>
 <li>
-<p><strong>Travel Health Consultations:</strong> Develop a standardized pre-travel
+<p><strong>Travel Health Consultations:</strong> A standardised pre-travel
 consultation protocol addressing:</p>
 <ul data-tight="true" class="tight">
 <li>

@@ -47,3 +47,25 @@ such as the Global Infection Prevention Control (GIPC) Network, ICON also
 contributes its expertise in the development of international guidelines
 and facilitates implementation of global IPC priorities at the national
 level.</p>
+<hr>
+<h2>Infection Control Guidelines for Healthcare Facilities</h2>
+<p>The following infection prevention and control guidelines have been prepared
+by experts from the various healthcare institutions in Singapore and in
+collaboration with the Ministry of Health as a reference for healthcare
+professionals, management and operations staff working at healthcare facilities
+in Singapore.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moh.gov.sg/docs/librariesprovider5/resources-statistics/guidelines/national-infection-prevention-and-control-standards_2019.pdf" rel="noopener noreferrer nofollow" target="_blank">National Infection Prevention and Control Standards for Acute Healthcare Facilities</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moh.gov.sg/resources-statistics/guidelines/infection-control-guidelines/national-infection-prevention-and-control-guidelines-for-acute-healthcare-facilities" rel="noopener noreferrer nofollow" target="_blank">National Infection Prevention and Control Guidelines for Acute Healthcare Facilities</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moh.gov.sg/resources-statistics/national-infection-prevention-and-control-guidelines-for-long-term-care-facilities" rel="noopener noreferrer nofollow" target="_blank">National Infection Prevention and Control Guidelines for Long Term Care Facilities</a>
+</p>
+</li>
+</ul>
+<p></p>

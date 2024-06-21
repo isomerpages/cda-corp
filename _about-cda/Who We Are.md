@@ -40,16 +40,13 @@ Integrity, Professionalism, Innovation</p>
 <p></p>
 <h2>Board Members</h2>
 <h3><strong>Chairman</strong></h3>
-<p><strong>Prof Benjamin Ong</strong>
+<p><strong>Prof Vernon Lee</strong>
 <br>Chairman
-<br>Health Sciences Authority&nbsp;</p>
+<br>Ministry of Health&nbsp;</p>
 <h3><strong>Members&nbsp;</strong></h3>
 <p><strong>Prof Tai Lee Siang<br></strong>Head of Pillar, Architecture and
 Sustainable Design
 <br>Singapore University of Technology and Design&nbsp;</p>
-<p><strong>Mr Alok Mishra</strong>
-<br>Chief Executive Officer
-<br>Value Addition</p>
 <p><strong>Mr Dileep Nair</strong>
 <br>Former Independent Director
 <br>Keppel DC REIT Management Pte Ltd</p>
@@ -67,12 +64,7 @@ Sustainable Design
 <br>iGlobe Partners</p>
 <p><strong>Prof Chen Tsuhan</strong>
 <br>Deputy President, Innovation and Enterprise
-<br>National University of Singapore</p>
-<p><strong>Prof Lim Chwee Teck</strong>
-<br>NUS Society Professor, Department of Biomedical Engineering
-<br>Director, Institute for Health Innovation and Technology (iHealthtech),
-NUS
-<br>Founding Director, Singapore Health Technologies Consortium
+<br>National University of Singapore
 <br><strong><br>Ms Kala Anandarajah<br></strong>Head, Competition &amp; Antitrust
 and Trade
 <br>Rajah &amp; Tann Singapore LLP and Asia</p>

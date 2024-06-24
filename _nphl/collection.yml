@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Background.md
-      - About Us.md
       - Laboratory Programmes/.keep
       - Laboratory Programmes/Bacteriology.md
       - Laboratory Programmes/Virology.md

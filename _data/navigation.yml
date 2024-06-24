@@ -6,11 +6,11 @@ links:
     collection: for-professionals
   - title: Research
     collection: research
+  - title: NPHL
+    collection: nphl
   - title: News and Events
     resource_room: true
   - title: About Cda
     collection: about-cda
   - title: I Want To
     collection: e-service
-  - title: NPHL
-    collection: nphl

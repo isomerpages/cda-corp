@@ -16,7 +16,7 @@ sections:
           url: /weekly-infectious-diseases-bulletin/
         - title: HIV SELF-TESTING KIT LAUNCHED
           description: ""
-          url: /
+          url: /hiv-self-testing-pilot-programme/
         - title: Pandemic Preparedness
           description: ""
           url: for-public/pandemic-preparedness/
@@ -39,7 +39,7 @@ sections:
       button: Explore research efforts
       alt: Image alt text
       image: /images/Research_Infopic.png
-      url: /trending-publications/
+      url: /research/background/
   - infopic:
       title: National Public Health Laboratory (NPHL)
       id: infopic
@@ -49,7 +49,7 @@ sections:
       button: Learn more about NPHL
       alt: Image alt text
       image: /images/NPHL_Infopic.png
-      url: /about-us/
+      url: /nphl/background/
   - infopic:
       title: End TB Together
       id: infopic
@@ -57,8 +57,8 @@ sections:
         the disease and its symptoms now!
       button: Browse campaign resources
       alt: Image alt text
-      image: /images/4_3.png
-      url: for-professional/ntbp/about-ntbp/
+      image: /images/homepage_tb.png
+      url: /for-public/diseases/t-to-z/tuberculosis/
   - resources:
       title: News and Events
       id: resources

@@ -1,5 +1,5 @@
 collections:
-  nphl-old:
+  nphl:
     output: true
     order:
       - Background.md

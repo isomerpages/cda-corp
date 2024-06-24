@@ -2,6 +2,7 @@ collections:
   nphl-old:
     output: true
     order:
+      - Background.md
       - About Us.md
       - Laboratory Programmes/.keep
       - Laboratory Programmes/Bacteriology.md

@@ -1565,7 +1565,31 @@ University of California Berkeley, USA</p>
 <summary><strong>Internship</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Are you passionate about safeguarding public health? Do you want to gain
+valuable experience working on the frontlines of disease prevention and
+control? CDA offers exciting internship opportunities for promising students
+eager to make a real difference. Our internship program provides exceptional
+hands-on learning alongside experienced professionals in various fields,
+including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Epidemiology</p>
+</li>
+<li>
+<p>Surveillance</p>
+</li>
+<li>
+<p>Laboratory Science</p>
+</li>
+<li>
+<p>Public Health Communication</p>
+</li>
+</ul>
+<p>Through your internship, you'll gain a deeper understanding of communicable
+diseases, contribute to ongoing projects, and develop essential skills
+for a rewarding career in public health.</p>
 <p></p>
+<p>Get in touch with our HR team to find out more. Email us at <a href="mailto:HR@cda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">HR@cda.gov.sg</a>.</p>
 </div>
 </details>
 </div>

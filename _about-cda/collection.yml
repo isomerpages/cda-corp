@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Who We Are.md
-      - Leadership.md
       - Careers/.keep
       - Careers/Careers at CDA.md
       - Careers/Healthcare Funding and Opportunities.md

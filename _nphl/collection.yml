@@ -1,7 +1,0 @@
-collections:
-  nphl:
-    output: true
-    order:
-      - Laboratory Programmes.md
-      - Laboratory Analytical Methods.md
-      - Our People.md

@@ -8,9 +8,9 @@ description: ""
 <p>All the information you need to stay healthy while travelling.</p>
 <p>You can focus on creating unforgettable experiences, safe in the knowledge
 you have taken steps to stay healthy. Before you set off, ensure a healthy
-and enjoyable trip by learning about.This page provides resources and information
-to help Singapore residents stay well throughout their travels. Learn more
-below:</p>
+and enjoyable trip by learning about. This page provides resources and
+information to help Singapore residents stay well throughout their travels.
+Learn more below:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Food and Water Consumption</summary>

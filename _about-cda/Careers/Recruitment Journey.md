@@ -27,7 +27,7 @@ third_nav_title: Careers
 <td rowspan="1" colspan="1">
 <p>Support the development, implementation, and evaluation of policies to
 prevent and control communicable diseases and collaborate with stakeholders
-to ensure best practices across the region. <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Learn more here.</a>
+to ensure best practices across the region. <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Learn more.</a>
 </p>
 </td>
 </tr>
@@ -38,7 +38,7 @@ to ensure best practices across the region. <a href="https://www.careers.gov.sg/
 <td rowspan="1" colspan="1">
 <p>Oversee communicable disease surveillance systems and provide strategic
 leadership in ensuring timely detection and analysis of outbreaks to inform
-effective public health responses. <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Learn more here.</a>
+effective public health responses. <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Learn more.</a>
 </p>
 </td>
 </tr>

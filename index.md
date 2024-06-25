@@ -40,6 +40,7 @@ sections:
       alt: Image alt text
       image: /images/Research_Infopic.png
       url: /research/background/
+      subtitle: Decoding Diseases
   - infopic:
       title: National Public Health Laboratory (NPHL)
       id: infopic
@@ -50,6 +51,7 @@ sections:
       alt: Image alt text
       image: /images/NPHL_Infopic.png
       url: /nphl/background/
+      subtitle: Staying ahead of threats
   - infopic:
       title: End TB Together
       id: infopic
@@ -59,6 +61,7 @@ sections:
       alt: Image alt text
       image: /images/homepage_tb.png
       url: /for-public/diseases/t-to-z/tuberculosis/
+      subtitle: Tuberculosis Public Education
   - resources:
       title: News and Events
       id: resources

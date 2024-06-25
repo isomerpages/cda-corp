@@ -9,7 +9,7 @@ notification: "Alert: Bird flu outbreak in several parts of Southeast Asia.
 sections:
   - hero:
       title: Protecting Health and Saving Lives
-      background: /images/hero_banner_1.png
+      background: /images/Stock_WIP_2.jpg
       key_highlights:
         - title: Weekly Infectious Diseases Bulletin
           description: ""

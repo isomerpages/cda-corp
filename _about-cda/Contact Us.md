@@ -16,5 +16,5 @@ description: ""
 <br>Singapore 307684</p>
 <hr>
 <h3>Follow CDA on Social Media</h3>
-<p>Follow us on Facebook, Instagram, and LinkedIn.</p>
+<p>Follow us on our socials pages: Facebook, Instagram, and LinkedIn.</p>
 <p></p>

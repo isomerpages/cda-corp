@@ -8,7 +8,7 @@ notification: "Alert: Bird flu outbreak in several parts of Southeast Asia.
   Click to learn how you can protect yourself!"
 sections:
   - hero:
-      title: Protecting Health, Saving Lives, Preserving Livelihoods
+      title: Protecting Health, Saving Lives
       background: /images/hero_banner_1.png
       key_highlights:
         - title: Weekly Infectious Diseases Bulletin

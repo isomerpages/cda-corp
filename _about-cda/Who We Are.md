@@ -5,25 +5,25 @@ variant: tiptap
 description: ""
 ---
 <h2>About Us</h2>
-<p>Established in 2025, as a statutory board under Singapore's Ministry of
-Health, the Communicable Diseases Agency (CDA) serve as the central authority
-for designing and implementing public health policies to manage and control
-the threat of communicable diseases. This includes strengthening Singapore's
-public health capabilities built during the COVID-19 response, ensuring
-a unified command, and coordinated approach across all situations, from
-routine disease control to future outbreaks.</p>
+<p>Established in 2025, as a statutory board y nder Singapore's Ministry
+of Health, the Communicable Diseases Agency (CDA) serve as the central
+authority for designing and implementing public health policies to manage
+and control the threat of communicable diseases. This includes strengthening
+Singapore's public health capabilities built during the COVID-19 response,
+ensuring a unified command, and coordinated approach across all situations,
+from routine disease control to future outbreaks.</p>
 <p>The CDA safeguards the population from communicable diseases through disease
 surveillance, outbreak investigations, vaccination programs, public education,
 and global health collaboration. Beyond domestic activities, the CDA aims
 to expand Singapore’s global outreach and collaboration with international
 partners who share similar public health goals.</p>
 <hr>
-<h4><strong>Vision:</strong></h4>
+<h4><strong><u>Vision</u>:</strong></h4>
 <p>A Singapore that is resilient against communicable disease challenges.</p>
-<h4><strong>Mission:</strong></h4>
+<h4><strong><u>Mission</u>:</strong></h4>
 <p>To protect Singapore from communicable diseases through excellence in
 public health expertise and capabilities.</p>
-<h4><strong>Values:</strong></h4>
+<h4><strong><u>Values</u>:</strong></h4>
 <p>Teamwork, Collaboration, Compassion, Dedication, Excellence, Respect,
 Integrity, Professionalism, Innovation</p>
 <hr>

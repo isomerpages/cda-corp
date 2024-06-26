@@ -7,7 +7,7 @@ third_nav_title: Laboratory Analytical Methods
 ---
 <h2>Overview on Microscopy</h2>
 <p>Microscopy plays a critical role in rapid diagnostics within the NPHL's
-arsenal. The laboratory analytical methods utilise microscopes to identify
+arsenal. Our laboratory analytical methods utilise microscopes to identify
 pathogens directly from patient samples, allowing for faster detection
 and intervention in communicable diseases. This approach proves particularly
 valuable in outbreak investigations, providing valuable insights into the

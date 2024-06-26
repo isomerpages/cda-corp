@@ -6,11 +6,11 @@ description: ""
 ---
 <h2>Staying Healthy Abroad</h2>
 <p>All the information you need to stay healthy while travelling.</p>
-<p>You can focus on creating unforgettable experiences, safe in the knowledge
-you have taken steps to stay healthy. Before you set off, ensure a healthy
-and enjoyable trip by learning about. This page provides resources and
-information to help Singapore residents stay well throughout their travels.
-Learn more below:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Coronavirus: All travellers arriving in Singapore must submit ..." src="https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2020/03/23/yq-changiairport-23032020.jpg?VersionId=6Kd5cNAegRaUxMFYgF3DynB0ZkxdF9YE">
+</div>
+<p>This page provides resources and information to help Singapore residents
+stay well throughout their travels. Learn more below:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Food and Water Consumption</summary>

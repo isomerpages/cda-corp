@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2>Background ​​​</h2>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; outline: none; height: 401.219px; width: 902.75px;" height="auto" width="100%" src="https://www.a-star.edu.sg/images/librariesprovider11/our-science/infectiousdiseaseresearch.jpg?sfvrsn=5b1c63e5_3">
+</div>
 <p>Singapore is one of the world’s most connected cities and thus vulnerable
 to threats posed by emerging communicable diseases as well as endemic infectious
 diseases such as dengue and the human immunodeficiency virus infection.</p>

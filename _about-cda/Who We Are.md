@@ -4,21 +4,19 @@ permalink: /about-cda/who-we-are/
 variant: tiptap
 description: ""
 ---
-<h2>About Us<br></h2>
-<p>The Communicable Diseases Agency (CDA) is tasked with protecting Singapore
-from communicable diseases. It will serve as the central authority for
-designing and implementing public health policies to manage and control
-the threat of infectious diseases. This includes strengthening Singapore's
-public health capabilities built during the COVID-19 response, ensuring
-a unified command, and coordinated approach across all situations, from
-routine disease control to future outbreaks.</p>
-<p>To achieve this, the CDA will consolidate the various public health functions
-currently housed within the Ministry of Health (MOH), the National Centre
-for Infectious Diseases (NCID), and the Health Promotion Board (HPB). It
-will also oversee the National Public Health Laboratory. Beyond domestic
-activities, the CDA aims to expand the Singapore’s global outreach and
-collaboration with international partners who share similar public health
-goals.</p>
+<h2>About Us</h2>
+<p>Established in 2025, as a statutory board agency under Singapore's Ministry
+of Health, the Communicable Diseases Agency (CDA) serve as the central
+authority for designing and implementing public health policies to manage
+and control the threat of communicable diseases. This includes strengthening
+Singapore's public health capabilities built during the COVID-19 response,
+ensuring a unified command, and coordinated approach across all situations,
+from routine disease control to future outbreaks.</p>
+<p>The CDA safeguards the population from communicable diseases through disease
+surveillance, outbreak investigations, vaccination programs, public education,
+and global health collaboration. Beyond domestic activities, the CDA aims
+to expand Singapore’s global outreach and collaboration with international
+partners who share similar public health goals.</p>
 <hr>
 <p><strong>Vision:</strong>
 </p>

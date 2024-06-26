@@ -4,7 +4,7 @@ permalink: /nphl/background/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Introduction to the National Public Health Laboratory</strong></h2>
+<h2>Introduction to the National Public Health Laboratory</h2>
 <p>At the National Public Health Laboratory (NPHL), we use our range of scientific
 expertise and techniques for the surveillance and outbreak investigation
 of communicable diseases, and to identify emerging pathogens. We track

@@ -59,7 +59,7 @@ sections:
         the disease and its symptoms now!
       button: Browse campaign resources
       alt: Image alt text
-      image: /images/homepage_tb.png
+      image: /images/TB_WIP.jpg
       url: /for-public/diseases/t-to-z/tuberculosis/
       subtitle: Tuberculosis Public Education
   - resources:

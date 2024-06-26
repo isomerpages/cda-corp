@@ -61,7 +61,7 @@ sections:
       alt: Image alt text
       image: /images/TB_WIP.jpg
       url: /for-public/diseases/t-to-z/tuberculosis/
-      subtitle: Tuberculosis Public Education
+      subtitle: Tuberculosis Awareness
   - resources:
       title: News and Events
       id: resources

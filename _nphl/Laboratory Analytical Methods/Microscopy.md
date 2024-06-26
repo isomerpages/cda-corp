@@ -5,10 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Laboratory Analytical Methods
 ---
-<h2>Overview</h2>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<h2>Overview on Microscopy</h2>
+<p>Microscopy plays a critical role in rapid diagnostics within the NPHL's
+arsenal. The laboratory analytical methods utilise microscopes to identify
+pathogens directly from patient samples, allowing for faster detection
+and intervention in communicable diseases. This approach proves particularly
+valuable in outbreak investigations, providing valuable insights into the
+morphology of the causative agent.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

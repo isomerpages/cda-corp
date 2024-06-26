@@ -34,7 +34,8 @@ opportunities and submit your applications online.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Manager (Communicable Diseases Policy)</p>
+<p><strong>Manager (Communicable Diseases Policy)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Support the development, implementation, and evaluation of policies to
@@ -45,7 +46,8 @@ to ensure best practices across the region. <a href="https://www.careers.gov.sg/
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Director (Surveillance)</p>
+<p><strong>Senior Director (Surveillance)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Oversee communicable disease surveillance systems and provide strategic

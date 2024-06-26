@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Laboratory Programmes
 ---
-<h1>Overview on Bacteriology</h1>
+<h2>Overview on Bacteriology</h2>
 <p>The NPHL's bacteriology department acts as a vital shield against bacterial
 threats. Utilizing advanced techniques, they diagnose bacterial infections,
 monitor antibiotic resistance, and support outbreak investigations. This

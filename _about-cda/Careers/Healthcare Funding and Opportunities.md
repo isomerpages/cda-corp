@@ -1589,7 +1589,8 @@ including:</p>
 diseases, contribute to ongoing projects, and develop essential skills
 for a rewarding career in public health.</p>
 <p></p>
-<p>Get in touch with our HR team to find out more. Email us at <a href="mailto:HR@cda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">HR@cda.gov.sg</a>.</p>
+<p>You may contact your school’s Career Services Office; or get in touch
+with our HR team. Email us at <a href="mailto:HR@cda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">HR@cda.gov.sg</a> to find out more.</p>
 </div>
 </details>
 </div>

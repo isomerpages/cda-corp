@@ -4,10 +4,10 @@ permalink: /research/background/
 variant: tiptap
 description: ""
 ---
-<p>​​​Singapore is one of the world’s most connected cities and thus vulnerable
-to threats posed by emerging infectious diseases (EIDs) as well as endemic
-infectious diseases such as dengue and the human immunodeficiency virus
-infection.</p>
+<h2>Background ​​​</h2>
+<p>Singapore is one of the world’s most connected cities and thus vulnerable
+to threats posed by emerging communicable diseases as well as endemic infectious
+diseases such as dengue and the human immunodeficiency virus infection.</p>
 <p>Singapore has long been a regional leader in infectious diseases research
 over the last 100 years or so including some of the pioneering studies
 in tuberculosis treatment and polio vaccination. The recent <a href="https://www.nmrc.gov.sg/docs/default-source/about-us-library/idtf-summary-report.pdf" rel="noopener" target="_blank">Infectious Disease Taskforce (IDTF)</a> had
@@ -31,4 +31,16 @@ HAIs)</p>
 <p>Tuberculosis (TB)</p>
 </li>
 </ul>
-<p></p>
+<hr>
+<h2>Objectives</h2>
+<p>Infectious Disease Research Coordinating Office (<strong>IDRCO</strong>)
+carried out a horizon scanning on local ID research landscape from <strong>January 2015 to December&nbsp;2022</strong>&nbsp;to
+establish an overview of ID research and comprehensive source of information
+in Singapore.</p>
+<p>With the launch of the Infectious Disease Research microsite, NCID facilitates
+information sharing across the ID field in an interactive and visual way.
+The microsite helps stakeholders&nbsp;identify local ID capabilities and
+research strengths as well as foster collaborations among researchers nationally
+and globally.</p>
+<p>The microsite will be updated regularly to be a one-stop source of information
+on ID research in Singapore.</p>

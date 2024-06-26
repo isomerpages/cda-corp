@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Background.md
+      - About the Research Team.md
       - Trending Publications.md
       - Directory of Experts.md
       - Methodology.md
       - Grant Analysis.md
-      - About the Research Team.md
       - National Public Health Lab/.keep

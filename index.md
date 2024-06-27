@@ -9,7 +9,7 @@ notification: '<a href="/bird-flu-outbreak-in-southeast-asia">Alert: Bird flu
   protect yourself! </a>'
 sections:
   - hero:
-      title: Protecting Health and Saving Lives
+      title: Protecting Health, Saving Lives
       background: /images/Stock_WIP_2_resize.jpg
       key_highlights:
         - title: Weekly Infectious Diseases Bulletin

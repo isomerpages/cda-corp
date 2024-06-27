@@ -10,7 +10,7 @@ notification: '<a href="/bird-flu-outbreak-in-southeast-asia">Alert: Bird flu
 sections:
   - hero:
       title: Protecting Health and Saving Lives
-      background: /images/Stock_WIP_2.jpg
+      background: /images/Stock_WIP_2_resize.jpg
       key_highlights:
         - title: Weekly Infectious Diseases Bulletin
           description: ""

@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/CDA_RGBLogo_ICON_COLOUR.png
 permalink: /
 notification: "Alert: Bird flu outbreak in several parts of Southeast Asia.
-  Click to learn how you can protect yourself! "
+  Click to learn how you can protect yourself!"
 sections:
   - hero:
       title: Protecting Health and Saving Lives
@@ -36,7 +36,7 @@ sections:
       id: infopic
       description: Research plays a significant role in national preparedness and
         defence against emerging communicable diseases in Singapore.
-      button: Explore research efforts
+      button: Explore our research efforts
       alt: Image alt text
       image: /images/Research_Infopic.png
       url: /research/background/

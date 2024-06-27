@@ -4,8 +4,9 @@ title: CDA Staging 1
 description: An Isomer site of the Singapore Government
 image: /images/CDA_RGBLogo_ICON_COLOUR.png
 permalink: /
-notification: "Alert: Bird flu outbreak in several parts of Southeast Asia.
-  Click to learn how you can protect yourself!"
+notification: 'Test <a href="/bird-flu-outbreak-in-southeast-asia/">Alert: Bird
+  flu outbreak in several parts of Southeast Asia. Click to learn how you can
+  protect yourself! </a>'
 sections:
   - hero:
       title: Protecting Health and Saving Lives

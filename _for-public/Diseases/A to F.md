@@ -13,7 +13,7 @@ third_nav_title: Diseases
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/for-public/diseases/a-to-f/chlamydia/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Chlamydia</div><div class="isomer-card-description">Sexually transmitted infection (STI) treated with antibiotics.</div><div class="isomer-card-link">Learn More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/for-public/diseases/a-to-f/chlamydia/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Chlamydia</div><div class="isomer-card-description">Bacterial sexually transmitted infection (STI).</div><div class="isomer-card-link">Learn More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/page-under-construction/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">C Lorem Ipsum</div>

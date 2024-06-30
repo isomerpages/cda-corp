@@ -293,24 +293,19 @@ fax (6221-5528/38/67)</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Resources</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<h3>Resources</h3>
 <p>Please refer to <a href="https://www.moh.gov.sg/resources-statistics/reports/communicable-diseases-surveillance-in-singapore-2019-2020" rel="noopener noreferrer nofollow" target="_blank">MOH’s website</a> for
 the communicable disease surveillance in Singapore.</p>
 <p>Please refer to <a href="https://www.nsc.com.sg/dsc/healthcare-professionals/publications/Pages/STI-Management-Guidelines.aspx" rel="noopener noreferrer nofollow" target="_blank">DSC’s website</a> for
 more information on alternative regimens.</p>
-<h3>References</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>References</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>Centers for Disease Control and Prevention. STI treatment guidelines:
@@ -324,5 +319,8 @@ guidelines 7<sup>th</sup> edition. 2021.</p>
 <p>World Health Organization. Chlamydia. 2023.</p>
 </li>
 </ul>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>

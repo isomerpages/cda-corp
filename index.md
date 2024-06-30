@@ -29,7 +29,7 @@ sections:
       title: Communicable Diseases Agency Singapore
       id: infobar
       description: Protecting Singapore from communicable diseases through excellence
-        in public health expertise and capabilities
+        in public health expertise and capabilities.
   - infopic:
       title: Communicable Diseases Research
       id: infopic
@@ -55,7 +55,7 @@ sections:
       title: End TB Together
       id: infopic
       description: Early diagnosis is key to treating TB effectively. Learn more about
-        the disease and its symptoms now!
+        the disease and its symptoms now.
       button: Browse campaign resources
       alt: Image alt text
       image: /images/TB_WIP.jpg
@@ -71,19 +71,19 @@ sections:
       announcement_items:
         - title: Dengue Screening
           date: 10 June 2024
-          announcement: Protect yourself - get screened for dengue at a polyclinic near you!
+          announcement: Get screened at a polyclinic near you.
           link_text: Learn more
           link_url: https://www.ncid.sg/Health-Professionals/Diseases-and-Conditions/Pages/Dengue.aspx
         - title: Travel Advisory
           date: 11 June 2024
-          announcement: Zika virus outbreak has emerged in parts of South America. Stay
-            informed and protect yourself before you travel.
+          announcement: Zika virus outbreak in parts of South America. Protect yourself
+            and get travel advisory.
           link_text: Learn more
           link_url: https://www.ncid.sg/For-General-Public/Travel-Health/Pages/default.aspx
         - title: New COVID-19 Booster Available
           date: 10 June 2024
           announcement: The latest bivalent booster shot is now available for eligible
-            individuals. Get boosted and stay protected.
+            individuals.
           link_text: Learn more
           link_url: https://www.vaccine.gov.sg
 ---

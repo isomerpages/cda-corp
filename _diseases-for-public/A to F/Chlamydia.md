@@ -187,7 +187,7 @@ if you are unsure of your partner’s STI status or have a new sex partner.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How to Prevent Chlamydia</strong>
+<summary><strong>How to Prevent Chlamydia?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Ways to prevent chlamydia include:</p>

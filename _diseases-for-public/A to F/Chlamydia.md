@@ -187,19 +187,19 @@ if you are unsure of your partner’s STI status or have a new sex partner.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How to prevent Chlamydia</strong>
+<summary><strong>How to Prevent Chlamydia</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Ways to prevent chlamydia:</p>
+<p>Ways to prevent chlamydia include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Use condoms correctly and consistently;</p>
+<p>Using condoms correctly and consistently;</p>
 </li>
 <li>
-<p>Limit the number of sex partners; and</p>
+<p>Limiting the number of sex partners; and</p>
 </li>
 <li>
-<p>Get tested for STIs regularly.</p>
+<p>Getting tested for STIs regularly.</p>
 </li>
 </ul>
 </div>

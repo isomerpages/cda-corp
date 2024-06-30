@@ -211,7 +211,7 @@ more information on alternative regimens.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Precaution, Prevention and Control</strong>
+<summary><strong>Precaution, Prevention, and Control</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Annual screening for chlamydia symptoms and other STIs is recommended
@@ -252,8 +252,10 @@ is longer, e.g., 3 months.</p>
 </ul>
 </div>
 </details>
-</div>
-<h3>Notification</h3>
+<details class="isomer-details">
+<summary><strong>Notification</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Chlamydial genital infection is a notifiable disease.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -283,11 +285,26 @@ fax (6221-5528/38/67)</p>
 <p>Timeline on notification:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Within 72 hours from time of diagnosis</p>
+<p>Within 72 hours from time of diagnosis.</p>
 </li>
 </ul>
 </li>
 </ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h3>Resources</h3>
 <p>Please refer to <a href="https://www.moh.gov.sg/resources-statistics/reports/communicable-diseases-surveillance-in-singapore-2019-2020" rel="noopener noreferrer nofollow" target="_blank">MOH’s website</a> for
 the communicable disease surveillance in Singapore.</p>

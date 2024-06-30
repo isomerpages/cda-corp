@@ -8,18 +8,18 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cda_logo.png">
 </div>
-<p>Established in 2025, as a statutory board under Singapore's Ministry of
-Health, the<strong> Communicable Diseases Agency (CDA)</strong> serve as
-the central authority for designing and implementing public health policies
-to manage and control the threat of communicable diseases. This includes
-strengthening Singapore's public health capabilities built during the COVID-19
-response, ensuring a unified command, and coordinated approach across all
-situations, from routine disease control to future outbreaks.</p>
-<p>The CDA safeguards the population from communicable diseases through disease
-surveillance, outbreak investigations, vaccination programs, public education,
-and global health collaboration. Beyond domestic activities, the CDA aims
-to expand Singapore’s global outreach and collaboration with international
-partners who share similar public health goals.</p>
+<p>The <strong>Communicable Diseases Agency (CDA) </strong>was established
+in 2025 as a statutory board under Singapore's Ministry of Health <strong>(MOH) </strong>to
+serve as the central authority for public health policymaking to manage
+and control the threat of communicable diseases. This is aimed at strengthening
+Singapore's public health capabilities built during the COVID-19 response
+to ensure a unified command and coordinated approach across all situations,
+from routine disease control to future outbreaks.</p>
+<p>CDA safeguards the nation from communicable diseases through disease surveillance,
+outbreak investigations, vaccination programs, public education, and global
+health collaboration. Beyond domestic activities, the CDA aims to expand
+Singapore’s global outreach and foster collaboration with international
+partners.</p>
 <hr>
 <h4><strong><u>Vision</u>:</strong></h4>
 <p>A Singapore that is resilient against communicable disease challenges.</p>

@@ -55,7 +55,7 @@ sections:
       title: End TB Together
       id: infopic
       description: Early diagnosis is key to treating TB effectively. Learn more about
-        the disease and its symptoms now.
+        the disease and its symptoms.
       button: Browse campaign resources
       alt: Image alt text
       image: /images/TB_WIP.jpg
@@ -76,8 +76,8 @@ sections:
           link_url: https://www.ncid.sg/Health-Professionals/Diseases-and-Conditions/Pages/Dengue.aspx
         - title: Travel Advisory
           date: 11 June 2024
-          announcement: Zika virus outbreak in parts of South America. Protect yourself
-            and get travel advisory.
+          announcement: Zika virus outbreak in parts of South America. Get travel advisory
+            updates below.
           link_text: Learn more
           link_url: https://www.ncid.sg/For-General-Public/Travel-Health/Pages/default.aspx
         - title: New COVID-19 Booster Available

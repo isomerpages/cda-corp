@@ -77,7 +77,8 @@ it is advisable to seek medical attention.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Preventing Animal Bites and Scratches</summary>
+<summary><strong>Preventing Animal Bites and Scratches</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Animal bites and scratches may cause wound infections or transmit rabies.
 Humans who develop rabies uniformity die as a result. It is important to
@@ -107,7 +108,8 @@ exposure.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Vaccine Side Effects</summary>
+<summary><strong>Vaccine Side Effects</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Vaccinations you receive may cause pain, redness or swelling at the injection
 site. Occasionally, fever, headache or muscle aches also occur. Most of
@@ -128,7 +130,8 @@ vaccine should avoid donating blood for 10 days.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Malaria Prevention</summary>
+<summary><strong>Malaria Prevention</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Malaria is a serious illness, transmitted by Anopheles mosquitoes. Symptoms
 include fever, chills, headache (may be mistaken for “the flu” or “a stomach
@@ -227,7 +230,8 @@ to mefloquine</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Altitude Illness Prevention</summary>
+<summary><strong>Altitude Illness Prevention</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Altitude illness refers to the symptoms experienced due to lower oxygen
 pressure at higher altitudes, typically above 3000m. This can worsen to
@@ -256,7 +260,8 @@ may be useful in immediate treatment of HAPE/ or HACE)</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Other Travel Health Essentials</summary>
+<summary><strong>Other Travel Health Essentials</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>

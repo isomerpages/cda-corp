@@ -17,7 +17,7 @@ It is easily treated and cured with antibiotics.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How is Chlamydia transmitted?&nbsp;&nbsp;</strong>
+<summary><strong>How is Chlamydia Transmitted?&nbsp;&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Chlamydia can be transmitted through vaginal, anal, or oral sex.</p>
@@ -32,9 +32,9 @@ time they are used;</p>
 </li>
 <li>
 <p>Infected semen or vaginal fluid getting into your eye.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p>Pregnant women can also transmit chlamydia to their babies.</p>
 <p>Chlamydia cannot be spread through casual contact, such as kissing and
 hugging, or from sharing baths, towels, swimming pools, toilet seats or

@@ -36,6 +36,7 @@ time they are used;</p>
 </li>
 </ul>
 <p>Pregnant women can also transmit chlamydia to their babies.</p>
+<p></p>
 <p>Chlamydia cannot be spread through casual contact, such as kissing and
 hugging, or from sharing baths, towels, swimming pools, toilet seats or
 cutlery.</p>

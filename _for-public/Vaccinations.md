@@ -9,7 +9,7 @@ description: ""
 and pneumococcal disease. Get vaccinated – it's the best defense against
 serious complications preventable diseases can cause.</p>
 <h3>Why Vaccinate?</h3>
-<p><strong>Germs are everywhere</strong>
+<p><strong>Germs are Everywhere</strong>
 </p>
 <p>We live in a world where you can find germs almost everywhere. And even
 though you may not realise it, your body is in a never-ending battle fighting

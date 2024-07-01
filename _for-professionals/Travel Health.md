@@ -4,7 +4,7 @@ permalink: /for-professionals/travel-health/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Travel Health Guidance for Professionals in Healthcare</strong></h2>
+<h2>Travel Health Guidance for Professionals in Healthcare</h2>
 <p>Singapore's status as a global travel hub necessitates a strong focus
 on travel health, particularly those specialising in communicable diseases.
 This guidance provides recommendations and resources for healthcare professionals

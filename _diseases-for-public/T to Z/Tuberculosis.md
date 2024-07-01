@@ -160,7 +160,7 @@ Therapy (DOT) treatment at the polyclinic or the NTBSC;</p>
 </li>
 </ul>
 <p></p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">How to get to NTBSC?</a>
+<p><a href="/for-professional/ntbp/contact-us/" rel="noopener noreferrer nofollow" target="_blank">How to get to NTBSC?</a>
 </p>
 </div>
 </details>
@@ -193,7 +193,7 @@ under the National TB Programme.</p>
 <p>It is advisable for these individuals to go for screening to protect themselves
 and their loved ones from getting active TB disease.</p>
 <p></p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">How to get to NTBCC?</a>
+<p><a href="/for-professional/ntbp/contact-us/" rel="noopener noreferrer nofollow" target="_blank">How to get to NTBCC?</a>
 </p>
 </div>
 </details>
@@ -225,7 +225,7 @@ at the centre.</p>
 The workplace supervisor or HR department will also receive an email on
 the appointment dates for monitoring or manpower allocation.</p>
 <p></p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">How to get to NTBCC?</a>
+<p><a href="/for-professional/ntbp/contact-us/" rel="noopener noreferrer nofollow" target="_blank">How to get to NTBCC?</a>
 </p>
 <p></p>
 <p><strong>Q: What if an Identified Contact Show Symptoms of Active TB Disease? </strong>

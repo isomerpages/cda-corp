@@ -4,13 +4,12 @@ permalink: /general-public/vaccinations/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<h2><strong>Building immunity through vaccinations</strong></h2>
+<h2>Building Immunity Through Vaccinations</h2>
 <p>Vaccinations protect you and your loved ones from illnesses like influenza
 and pneumococcal disease. Get vaccinated – it's the best defense against
 serious complications preventable diseases can cause.</p>
 <h3>Why Vaccinate?</h3>
-<p><strong>Germs are everywhere </strong>
+<p><strong>Germs are Everywhere</strong>
 </p>
 <p>We live in a world where you can find germs almost everywhere. And even
 though you may not realise it, your body is in a never-ending battle fighting
@@ -30,10 +29,10 @@ seriously ill. The infection can lead to complications, disabilities and
 even death.</p>
 <p><strong>Strengthen Your Immunity with Vaccination</strong>
 </p>
-<p><strong>I</strong>f you generally lead a healthy lifestyle by exercising
-regularly and eating healthily, and hardly fall sick, you may have a good
-immune system. However, it may not be enough to ensure that you can fight
-an infectious disease. Vaccinations help build your immune system by strengthening
-it against serious infectious diseases.</p>
+<p>If you generally lead a healthy lifestyle by exercising regularly and
+eating healthily, and hardly fall sick, you may have a good immune system.
+However, it may not be enough to ensure that you can fight an infectious
+disease. Vaccinations help build your immune system by strengthening it
+against serious infectious diseases.</p>
 <p></p>
 <p></p>

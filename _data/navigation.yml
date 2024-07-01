@@ -5,12 +5,12 @@ links:
   - title: For Professionals
     collection: for-professionals
   - title: Research
-    collection: research-and-lab-programmes
-  - title: Nphl
+    collection: research
+  - title: NPHL
     collection: nphl
   - title: News and Events
     resource_room: true
-  - title: About CDA
-    collection: who-we-are
+  - title: About Cda
+    collection: about-cda
   - title: I Want To
     collection: e-service

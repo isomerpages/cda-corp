@@ -7,8 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>1<sup> </sup>April 2025</p>
-<p>By Nazrul Aziz, The Straits Times</p>
+<p><strong>1<sup> </sup>April 2025</strong>
+</p>
+<p><em>By Nazrul Aziz, The Straits Times</em>
+</p>
 <p></p>
 <p>The Communicable Diseases Agency Singapore (CDA) today unveiled a comprehensive
 framework designed to strengthen national preparedness for future pandemics.

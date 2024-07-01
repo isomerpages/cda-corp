@@ -6,80 +6,48 @@ description: ""
 third_nav_title: A to F
 ---
 <h2>Understanding Chlamydia: Causes, Symptoms, and Treatments</h2>
-<p>Learn what is Chlamydia, its causes, symptoms, treatments, and prevention
-measures.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>What is Chlamydia?&nbsp;&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Chlamydia is caused by the bacterium Chlamydia trachomatis, which can
-be transmitted via vaginal, anal or oral sexual intercourse. Known as a
-silent disease, early symptoms of Chlamydia often go unnoticed. Left untreated,
-Chlamydia can seriously damage the reproductive organs.</p>
-<p>Any sexually active person may get infected through contact with mucous
-membranes of the vagina, urethra, rectum or mouth. An infected mother can
-also pass Chlamydia on to her baby during vaginal delivery.</p>
-<p>The risk of infection increases with unprotected sex, multiple sexual
-partners and those who engage in oral or anal sex. Teenage girls and young
-women are more prone to Chlamydia infection as the opening of the uterus
-(cervix) is not fully matured; this also increases their risk of developing
-other STIs such as Gonorrhoea and Syphilis.</p>
+<p>Chlamydia is a common sexually transmitted infection (STI) caused by the
+bacterium <em>Chlamydia trachomatis</em>. It can occur in both men and women.
+It is easily treated and cured with antibiotics.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How is Chlamydia transmitted?&nbsp;&nbsp;</strong>
+<summary><strong>How is Chlamydia Transmitted?&nbsp;&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Chlamydia bacteria are usually spread through sex or contact with
-infected genital fluids (semen or vaginal fluid).
-<br>You can get Chlamydia through:</p>
+<p>Chlamydia can be transmitted through vaginal, anal, or oral sex.</p>
+<p>Common scenarios include:</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Unprotected vaginal, anal or oral sex</p>
-</li>
 <li>
 <p>Sharing sex toys that are not washed or covered with a new condom each
-time they are used</p>
+time they are used;</p>
 </li>
 <li>
-<p>Your genitals coming into contact with your partner's genitals – this
-means you can get Chlamydia even if there is no penetration, orgasm or
-ejaculation</p>
+<p>Your genitals touching your partner's; or</p>
 </li>
 <li>
-<p>Infected semen or vaginal fluid getting into your eye</p>
-</li>
-<li>
-<p>Chlamydia can also be passed on by a <strong>pregnant</strong> woman to
-her baby.</p>
+<p>Infected semen or vaginal fluid getting into your eye.</p>
+<p></p>
 </li>
 </ul>
+<p>Pregnant women can also transmit chlamydia to their babies.</p>
 <p></p>
-<p><strong>Chlamydia cannot be spread through casual contact, such as kissing and hugging, or from sharing baths, towels, swimming pools, toilet seats or cutlery.</strong>
-</p>
+<p>Chlamydia cannot be spread through casual contact, such as kissing and
+hugging, or from sharing baths, towels, swimming pools, toilet seats or
+cutlery.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How do I know if I have Chlamydia?</strong>
+<summary><strong>What are the Symptoms of Chlamydia?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Symptoms of early infection often go unnoticed or fail to appear. Hence,
-Chlamydia is known as a silent disease. When symptoms do occur, they are
-usually mild and start to show from <strong>1 - 3 weeks</strong> after exposure
-to the bacteria.</p>
-<p>Symptoms include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Burning sensation or pain while urinating</p>
-</li>
-<li>
-<p>Lower abdominal or back pain</p>
-</li>
-<li>
-<p>Rectal pain and discharge (anal sex)&nbsp;</p>
-</li>
-</ul>
+<p>Symptoms of early infection often go unnoticed. When they occur, they
+are usually mild and appear one to three weeks after exposure.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -96,35 +64,57 @@ to the bacteria.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For <strong>Men</strong>
-</p>
+<p>For Men</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Penile discharge and itching around the penis</p>
+<p>Burning when urinating;</p>
 </li>
 <li>
-<p>Rarely, testicular pain and swelling</p>
+<p>Discharge from the penis; or</p>
+</li>
+<li>
+<p>Pain or discomfort in the testicles</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For <strong>Women</strong>
-</p>
+<p>For Women</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Abnormal vaginal discharge</p>
+<p>Abnormal vaginal discharge;</p>
 </li>
 <li>
-<p>Painful sexual intercourse</p>
+<p>Bleeding between menstrual periods or after sex;</p>
 </li>
 <li>
-<p>Bleeding after sexual intercourse or between menstrual periods</p>
+<p>Pelvic pain; or</p>
+</li>
+<li>
+<p>Burning sensation when urinating.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For Men and Women</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Anal pain;</p>
+</li>
+<li>
+<p>Discharge; or</p>
+</li>
+<li>
+<p>Bleeding.</p>
 </li>
 </ul>
 </td>
@@ -139,111 +129,81 @@ to the bacteria.</p>
 </tr>
 </tbody>
 </table>
-<p>A type of&nbsp;<em>Chlamydia trachomatis</em>&nbsp;can cause another STI
-called <strong>Lymphogranuloma Venereum</strong>. The symptoms of this infection
-include genital sores followed by fever and swelling of the lymph nodes
-in the groin.</p>
-<p></p>
-<p><strong>Untreated Chlamydia infections may progress to serious damage of the reproductive organs along with other health problems.</strong>
-</p>
-<p></p>
+<p>Complications from chlamydia include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chlamydia may cause <a href="https://www.cdc.gov/std/pid/stdfact-pid.htm" rel="noopener noreferrer nofollow" target="_blank">pelvic inflammatory disease (PID)</a> in
-up to 4 out of 10 women without any symptoms. PID may result in chronic
-pelvic pain, infertility and ectopic pregnancy (pregnancy outside the uterus)
-due to permanent scarring of the fallopian tubes. Women infected with Chlamydia
-are up to 5 times more at risk of acquiring <strong>HIV</strong> Infection.</p>
+<p><a href="https://www.cdc.gov/std/hiv" rel="noopener noreferrer nofollow" target="_blank">Pelvic inflammatory disease (PID)</a>,
+resulting in chronic pelvic pain, infertility, and pregnancy outside the
+uterus due to permanent scarring of the fallopian tubes;</p>
 </li>
 <li>
-<p>Infection during <strong>pregnancy</strong> can result in premature delivery
-and stillbirth. An infected mother can pass on the infection to her baby
-during vaginal delivery, resulting in pneumonia (lung infection) or conjunctivitis
-(eye infection).</p>
+<p>Conjunctivitis, if the eyes become contaminated with infectious secretions;</p>
 </li>
 <li>
-<p>Chlamydia complications and infection may spread to the <strong>rectum</strong> and
-result in inflammation, discharge&nbsp;and pain.</p>
+<p>Epididymo-orchitis (tube carrying sperm from the testes) for males in
+rare cases, resulting in fever, scrotal pain, swelling and sterility in
+men; or</p>
 </li>
 <li>
-<p>In some individuals, severe <strong>conjunctivitis</strong> (eye infection)
-may occur if the eyes become contaminated with infectious secretions.</p>
-</li>
-<li>
-<p>Though rare, infection can spread to the <strong>epididymis</strong> (tube
-carrying sperm from the testes) resulting in fever, scrotal pain, swelling&nbsp;and
-sterility in men.</p>
-</li>
-<li>
-<p>Very rarely, Chlamydial infection may cause inflammation of the joints
-(<strong>arthritis</strong>) accompanied by lesions on the skin and inflammation
-of the eye and urethra (Reiter's syndrome).</p>
+<p>Reactive arthritis in very rare cases.</p>
 </li>
 </ul>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Are you at risk?</strong>
+<summary><strong>What are the Risk Factors?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Risk factors include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Unprotected sex with an infected person</p>
+<p>Unprotected sex with an infected person;</p>
 </li>
 <li>
-<p>Having multiple sex partners</p>
+<p>Having multiple sex partners;</p>
 </li>
 <li>
-<p>Inconsistent condom use</p>
+<p>Inconsistent condom use;</p>
 </li>
 <li>
-<p>Persons who exchange sex for money or drugs</p>
+<p>Persons who exchange sex for money or drugs; or</p>
 </li>
 <li>
-<p>History or current infection for other STIs</p>
+<p>History or current infection for other STIs.</p>
 </li>
 </ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How to treat Chlamydia</strong>
+<summary><strong>How to Treat Chlamydia?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Chlamydia can be effectively treated with <strong>antibiotics</strong>.
-A single dose of oral Azithromycin or Doxycycline twice daily for one week
-is the most common treatment. An alternative drug (erythromycin) may be
-prescribed for those who are pregnant or younger than 18 years of age.</p>
-<p>The infection usually resolves within <strong>1 - 2 weeks</strong>. Re-testing
-after treatment should still be considered if you have a new sex partner&nbsp;or
-are unsure of their treatment status.</p>
+<p>Chlamydia can be treated with antibiotics. A single dose of oral Azithromycin
+or Doxycycline twice daily for one week is the most common treatment. Alternative
+drugs like erythromycin may be prescribed for those who are pregnant or
+younger than 18 years.</p>
+<p>The infection usually resolves within one to two weeks. Consider retesting
+if you are unsure of your partner’s STI status or have a new sex partner.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How to prevent Chlamydia</strong>
+<summary><strong>How to Prevent Chlamydia?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The best way to prevent infection is to abstain from unprotected sex and
-be faithful to your partner.</p>
-<p>Other ways to reduce the risk of transmission:</p>
+<p>Ways to prevent chlamydia include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Use condoms consistently and correctly.</p>
+<p>Using condoms correctly and consistently;</p>
 </li>
 <li>
-<p>Refrain from having sex until the infection is completely cured.</p>
+<p>Limiting the number of sex partners; and</p>
 </li>
 <li>
-<p>Inform your partner(s) if you have the infection so that they can also
-be tested and treated, if necessary.</p>
-</li>
-<li>
-<p>Limit your sexual partners and get screened regularly.</p>
+<p>Getting tested for STIs regularly.</p>
 </li>
 </ul>
 </div>
 </details>
 </div>
-<p>You can get tested for STIs&nbsp;at private clinics, polyclinics&nbsp;and
-hospitals.</p>
 <p></p>

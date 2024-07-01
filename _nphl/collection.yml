@@ -3,6 +3,12 @@ collections:
     output: true
     order:
       - Background.md
-      - Laboratory Programmes.md
-      - Laboratory Analytical Methods.md
+      - Laboratory Programmes/.keep
+      - Laboratory Programmes/Bacteriology.md
+      - Laboratory Programmes/Virology.md
+      - Laboratory Programmes/Malaria and other parasites.md
+      - Laboratory Analytical Methods/.keep
+      - Laboratory Analytical Methods/Microscopy.md
+      - Laboratory Analytical Methods/Light Microscopy.md
+      - Laboratory Analytical Methods/Fluorescent Microscopy.md
       - Our People.md

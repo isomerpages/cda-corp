@@ -25,6 +25,31 @@ sections:
       alignment: left
       button: About US
       url: /about-cda/who-we-are/
+  - announcements:
+      title: UPDATES
+      id: announcements
+      announcement_items:
+        - title: Dengue Screening
+          date: 10 June 2024
+          announcement: Get screened at a polyclinic near you.
+          link_text: Learn more
+          link_url: https://www.ncid.sg/Health-Professionals/Diseases-and-Conditions/Pages/Dengue.aspx
+        - title: Travel Advisory
+          date: 11 June 2024
+          announcement: Zika virus outbreak in parts of South America. Get travel advisory
+            updates below.
+          link_text: Learn more
+          link_url: https://www.ncid.sg/For-General-Public/Travel-Health/Pages/default.aspx
+        - title: New COVID-19 Booster Available
+          date: 10 June 2024
+          announcement: The latest bivalent booster shot is now available for eligible
+            individuals.
+          link_text: Learn more
+          link_url: https://www.vaccine.gov.sg
+  - resources:
+      title: News and Events
+      id: resources
+      button: SEE ALL
   - infobar:
       title: Communicable Diseases Agency Singapore
       id: infobar
@@ -61,29 +86,4 @@ sections:
       image: /images/TB_WIP.jpg
       url: /for-public/diseases/t-to-z/tuberculosis/
       subtitle: Tuberculosis Awareness
-  - resources:
-      title: News and Events
-      id: resources
-      button: SEE ALL
-  - announcements:
-      title: UPDATES
-      id: announcements
-      announcement_items:
-        - title: Dengue Screening
-          date: 10 June 2024
-          announcement: Get screened at a polyclinic near you.
-          link_text: Learn more
-          link_url: https://www.ncid.sg/Health-Professionals/Diseases-and-Conditions/Pages/Dengue.aspx
-        - title: Travel Advisory
-          date: 11 June 2024
-          announcement: Zika virus outbreak in parts of South America. Get travel advisory
-            updates below.
-          link_text: Learn more
-          link_url: https://www.ncid.sg/For-General-Public/Travel-Health/Pages/default.aspx
-        - title: New COVID-19 Booster Available
-          date: 10 June 2024
-          announcement: The latest bivalent booster shot is now available for eligible
-            individuals.
-          link_text: Learn more
-          link_url: https://www.vaccine.gov.sg
 ---

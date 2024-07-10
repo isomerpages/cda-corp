@@ -25,8 +25,13 @@ sections:
       alignment: left
       button: About US
       url: /about-cda/who-we-are/
+  - infobar:
+      title: Communicable Diseases Agency Singapore
+      id: infobar
+      description: Protecting Singapore from communicable diseases through excellence
+        in public health expertise and capabilities.
   - announcements:
-      title: UPDATES
+      title: Updates
       id: announcements
       announcement_items:
         - title: Dengue Screening
@@ -50,11 +55,6 @@ sections:
       title: News and Events
       id: resources
       button: SEE ALL
-  - infobar:
-      title: Communicable Diseases Agency Singapore
-      id: infobar
-      description: Protecting Singapore from communicable diseases through excellence
-        in public health expertise and capabilities.
   - infopic:
       title: Communicable Diseases Research
       id: infopic

@@ -266,7 +266,7 @@ at the centre.</p>
 The workplace supervisor or HR department will also receive an email on
 the appointment dates for monitoring or manpower allocation.</p>
 <p></p>
-<p><strong>Q: What if an Identified Contact Show Symptoms of Active TB Disease? </strong>
+<p><strong>Q: What if an Identified Contact Show Symptoms of Active TB Disease?</strong>
 </p>
 <p>Please advise them to seek medical attention and inform the doctor of
 their status as an identified contact.</p>

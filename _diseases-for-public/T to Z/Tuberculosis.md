@@ -13,7 +13,7 @@ curable, TB remains a significant public health concern globally.</p>
 <p>While curable, TB remains a significant public health concern globally.
 In Singapore, TB is endemic and latent TB infection is not uncommon in
 our population. Refer to <a href="https://www.moh.gov.sg/news-highlights/details/update-on-tuberculosis-situation-in-singapore-2024" rel="noopener noreferrer nofollow" target="_blank">MOH’s website</a> for
-the latest updates on the local TB situation.</p>
+the latest updates on the local TB situaation.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -110,6 +110,18 @@ with TB disease, especially in crowded or poorly ventilated conditions;</p>
 <p>Children under the age of 5 and the elderly.</p>
 </li>
 </ul>
+<p></p>
+<p>Advice for High-risk Groups:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If you have LTBI, you may be offered preventive treatment to reduce the
+risk of developing active TB disease;</p>
+</li>
+<li>
+<p>If you are at high risk for TB exposure, you should be vigilant about
+symptoms and seek prompt medical evaluation if any concerns arise.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
@@ -179,7 +191,8 @@ any more symptoms or are feeling better;</p>
 </li>
 <li>
 <p>Staying home for the first two weeks except when attending Directly Observed
-Therapy (DOT) treatment at the polyclinic or the NTBSC;</p>
+Therapy (DOT) treatment at the polyclinic or the National Tuberculsos Screening
+Centre (NTBSC);</p>
 </li>
 <li>
 <p>Wearing a face mask when near others;</p>
@@ -253,8 +266,6 @@ at the centre.</p>
 The workplace supervisor or HR department will also receive an email on
 the appointment dates for monitoring or manpower allocation.</p>
 <p></p>
-<p>For directions to NTBCC, click <a href="/for-professional/ntbp/contact-us/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
 <p><strong>Q: What if an Identified Contact Show Symptoms of Active TB Disease? </strong>
 <br>Please advise them to seek medical attention and inform the doctor of
 their status as an identified contact.</p>
@@ -278,9 +289,12 @@ if the organisation requires it.</p>
 <p></p>
 <p><strong>Q: Can We Arrange for Our Own Screening and Claim from MOH?</strong>
 </p>
+<p></p>
 <p>TB screening at the NTBSC is fully subsidised only for identified contacts.
 MOH will not bear the costs for privately arranged screening or screening
 for non-identified contacts.</p>
+<p></p>
+<p>For directions to NTBCC, click <a href="/for-professional/ntbp/contact-us/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>

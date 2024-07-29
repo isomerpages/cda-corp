@@ -13,7 +13,7 @@ curable, TB remains a significant public health concern globally.</p>
 <p>While curable, TB remains a significant public health concern globally.
 In Singapore, TB is endemic and latent TB infection is not uncommon in
 our population. Refer to <a href="https://www.moh.gov.sg/news-highlights/details/update-on-tuberculosis-situation-in-singapore-2024" rel="noopener noreferrer nofollow" target="_blank">MOH’s website</a> for
-the latest updates on the local TB situaation.</p>
+the latest updates on the local TB situation.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -298,14 +298,8 @@ for non-identified contacts.</p>
 </div>
 </details>
 </div>
-<h2>Frequently Asked Questions (FAQs) on TB</h2>
-<p>Find answers to commonly asked questions about TB <a href="https://ask.gov.sg/ntbp" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h2>Take the TB Quiz</h2>
-<p>Test your knowledge about tuberculosis with this quiz:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_091052.png">
-</div>
 <p></p>
+<p>For more questions on TB, click <a href="https://ask.gov.sg/ntbp" rel="noopener noreferrer nofollow" target="_blank">here </a>.</p>
 <h2>About the National Tuberculosis Programme</h2>
 <p>The National Tuberculosis Programme (NTBP) is a national TB prevention
 and care programme aimed at protecting the people of Singapore from the
@@ -318,6 +312,12 @@ to raise public awareness; strengthening partnerships; and implementing
 sustainable strategies.</p>
 <p>More information about NTBP <a href="/for-professional/ntbp/about-ntbp/" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u>
 </p>
+<hr>
+<h2>Take the TB Quiz</h2>
+<p>Test your knowledge about tuberculosis with this quiz:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_091052.png">
+</div>
 <hr>
 <p><strong>Professionals can play a part in combatting TB. Learn more </strong>
 <a href="for-professionals/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>.</strong>

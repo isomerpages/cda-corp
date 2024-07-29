@@ -267,7 +267,8 @@ The workplace supervisor or HR department will also receive an email on
 the appointment dates for monitoring or manpower allocation.</p>
 <p></p>
 <p><strong>Q: What if an Identified Contact Show Symptoms of Active TB Disease? </strong>
-<br>Please advise them to seek medical attention and inform the doctor of
+</p>
+<p>Please advise them to seek medical attention and inform the doctor of
 their status as an identified contact.</p>
 <p></p>
 <p>The doctor will assess whether they have TB and will inform the National
@@ -299,7 +300,9 @@ for non-identified contacts.</p>
 </details>
 </div>
 <p></p>
-<p>For more questions on TB, click <a href="https://ask.gov.sg/ntbp" rel="noopener noreferrer nofollow" target="_blank">here </a>.</p>
+<p><strong>For more questions on TB, click <a href="https://ask.gov.sg/ntbp" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+</p>
+<hr>
 <h2>About the National Tuberculosis Programme</h2>
 <p>The National Tuberculosis Programme (NTBP) is a national TB prevention
 and care programme aimed at protecting the people of Singapore from the

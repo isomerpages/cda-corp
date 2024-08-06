@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: National TB Programme
 ---
-<h2>Introduction by Dr Deborah</h2>
-<p>Welcome to the official webpage of the Singapore National TB Programme!
-As the Director, I am honored to lead our dedicated team in the mission
-to eradicate tuberculosis from our nation.</p>
-<p>Our vision is clear: A TB-free Singapore with people-centered care. To
-achieve this vision, we have set forth strategic goals:</p>
+<h1>Welcome to the official webpage of the National TB Programme (NTBP)</h1>
+<p>The NTBP aims to mission to eradicate tuberculosis from our nation. As
+the Director, I am honored to lead our dedicated team charting a TB-free
+future in Singapore.</p>
+<p>Our vision is clear: A TB-free Singapore with people-centered care.</p>
+<p>To achieve this vision, we have set forth strategic goals:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Prompt Diagnosis and Management: Ensuring swift and accurate diagnosis,

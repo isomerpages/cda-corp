@@ -6,9 +6,12 @@ description: ""
 third_nav_title: National TB Programme
 ---
 <p>The National Tuberculosis (TB) Programme (NTBP), previously known as the
-Singapore TB Elimination Programme (STEP), was launched by MOH in 1997
-to strengthen the national TB prevention and care efforts in response to
-the then decade-long stagnation in the country's TB incidence rate.</p>
+Singapore TB Elimination Programme (STEP), was launched by the Ministry
+of Health (MOH) in 1997 to strengthen the national TB prevention and care
+efforts in response to the then decade-long stagnation in the country's
+TB incidence rate. Learn more about the Singapore Tuberculosis Elimination
+Programme <a href="ncbi.nlm.nih.gov/pmc/articles/PMC2572427/pdf/12764518.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
 <p><u>Vision:</u> A TB-free Singapore with people-centred care</p>
 <p><u>Mission:</u> Protect the people of Singapore from TB through:</p>
 <ul data-tight="true" class="tight">
@@ -26,16 +29,14 @@ the then decade-long stagnation in the country's TB incidence rate.</p>
 </li>
 </ul>
 <p>The NTBP Registry administers the National TB notification registry and
-the national Treatment Surveillance Module which monitors the treatment
+the national Treatment Surveillance Module, which monitors the treatment
 progress and outcome of all TB cases in the country.</p>
-<p>The TB Control Unit (TBCU) being the clinical arm of NTBP, functions as
-the national referral centre for TB evaluation and treatment. It manages
-80% of the country's TB cases, the vast majority of whom are treated under
-Directly Observed Therapy (DOT).&nbsp; Another major function of the TBCU
-is the screening of close contacts in households, workplaces and congregate
-settings (such as schools and prisons) for active and latent TB, and provision
-of preventive therapy for contacts found to have latent TB infection.</p>
-<p>The first 5 years of The Singapore Tuberculosis Elimination Programme
-can be found <a href="ncbi.nlm.nih.gov/pmc/articles/PMC2572427/pdf/12764518.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+<p>As the clinical arm of NTBP, the National Tuberculosis Screening Centre
+(NTBSC) is the national referral centre for TB evaluation and treatment.
+It manages 80% of the country's TB cases, majority of whom are treated
+under the Directly Observed Therapy (DOT).</p>
+<p>NTBSC also manages the screening of close contacts in households, workplaces
+and congregate settings (such as schools and prisons) for active and latent
+TB disease, as well as provides preventive therapy for contacts found to
+have latent TB infection.</p>
 <p></p>

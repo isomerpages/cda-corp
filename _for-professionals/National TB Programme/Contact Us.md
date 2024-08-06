@@ -43,6 +43,4 @@ third_nav_title: National TB Programme
 <hr>
 <p><strong>To find out more about tuberculosis, please see <a href="/for-public/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">diseases for public</a> or <a href="/for-professionals/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">diseases for professionals.</a></strong>
 </p>
-<p><strong>For more information on NTBP, click here.</strong>
-</p>
 <p></p>

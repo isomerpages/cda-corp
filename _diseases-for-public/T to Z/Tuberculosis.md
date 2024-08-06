@@ -322,7 +322,6 @@ sustainable strategies.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_091052.png">
 </div>
 <hr>
-<p><strong>Professionals can play a part in combatting TB. Learn more </strong>
-<a href="for-professionals/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>.</strong>
+<p><strong>Professionals can play a part in combatting TB. Learn more <a href="for-professionals/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
 <p></p>

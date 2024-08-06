@@ -84,7 +84,7 @@ third_nav_title: National TB Programme
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>TB Registry</strong>
+<p><strong>Head of TB Registry</strong>
 </p>
 </td>
 <td rowspan="1" colspan="3">

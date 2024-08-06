@@ -1,7 +1,7 @@
 ---
 title: Background and Objectives
 permalink: /research/background/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <h2>Background ​​​</h2>

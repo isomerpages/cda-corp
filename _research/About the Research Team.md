@@ -1,7 +1,7 @@
 ---
 title: About the Research Team
 permalink: /about-the-research-team/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p><strong>Infectious Disease Research Coordinating Office (IDRCO)</strong> from

@@ -1,7 +1,7 @@
 ---
 title: Scientific Research Advisory Board
 permalink: /research/scientific-research-advisory-board/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p>The <strong>Scientific Research Advisory Board (SRAB)</strong> was organized

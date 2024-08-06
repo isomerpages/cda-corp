@@ -2,6 +2,7 @@ collections:
   for-professionals:
     output: true
     order:
+      - Infection, Prevention/.keep
       - Diseases/.keep
       - Diseases/A to F.md
       - Diseases/G to L.md
@@ -20,10 +21,9 @@ collections:
       - Professional Training.md
       - National TB Programme/.keep
       - National TB Programme/About NTBP.md
-      - National TB Programme/History and Goals.md
+      - National TB Programme/Director's Message.md
       - National TB Programme/Organisation Structure.md
-      - National TB Programme/Info Sheet.md
-      - National TB Programme/Media Spotlight.md
+      - National TB Programme/Resources.md
       - National TB Programme/Contact Us.md
       - National HIV Programme/.keep
       - National HIV Programme/About NHIVP.md

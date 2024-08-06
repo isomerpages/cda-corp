@@ -45,7 +45,7 @@ third_nav_title: National TB Programme
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>For general public, click <a href="/for-public/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">here</a> </strong>
+<p><strong>For general public, click <a href="/for-public/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
 </p>
 </li>
 <li>

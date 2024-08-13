@@ -41,7 +41,7 @@ our population.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Pathogen(s)</strong>
+<summary><strong>Pathogen</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><em>Mycobacterium tuberculosis</em>

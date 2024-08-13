@@ -4,7 +4,7 @@ permalink: /for-professionals/ipc-and-he/
 variant: tiptap
 description: ""
 ---
-<h3>Infection, Prevention and Control, and Healthcare Epidemiology</h3>
+<h2>Infection, Prevention and Control, and Healthcare Epidemiology</h2>
 <p>Infection, prevention and control, and healthcare epidemiology are necessary
 to prevent and control healthcare-associated transmission and infection
 among healthcare workers and patients at healthcare facilities.</p>

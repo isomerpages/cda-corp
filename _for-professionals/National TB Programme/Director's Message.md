@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: National TB Programme
 ---
-<h1>Welcome to the official webpage of the National TB Programme (NTBP)</h1>
-<p>The NTBP aims to mission to eradicate tuberculosis from our nation. As
-the Director, I am honored to lead our dedicated team charting a TB-free
+<p>The NTBP aims to mission to eradicate tuberculosis (TB) from our nation.
+As the Director, I am honored to lead our dedicated team charting a TB-free
 future in Singapore.</p>
 <p>Our vision is clear: A TB-free Singapore with people-centered care.</p>
 <p>To achieve this vision, we have set forth strategic goals:</p>
@@ -23,7 +22,7 @@ our community.</p>
 </li>
 <li>
 <p>Strong Partnerships: Collaboration with healthcare providers, researchers,
-community organizations, and international agencies strengthens our efforts
+community organisations, and international agencies strengthens our efforts
 and enhances our capacity to combat TB.</p>
 </li>
 <li>

@@ -10,7 +10,7 @@ third_nav_title: T to Z
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>What is TB? </strong>
+<summary><strong>What is TB?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Tuberculosis (TB) is a highly contagious disease caused by the bacteria <em>Mycobacterium tuberculosis</em>.
@@ -320,5 +320,4 @@ sustainable strategies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_091052.png">
 </div>
-<hr>
 <p></p>

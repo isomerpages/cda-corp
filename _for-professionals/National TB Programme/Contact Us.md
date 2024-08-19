@@ -6,8 +6,8 @@ description: ""
 third_nav_title: National TB Programme
 ---
 <h3>General Enquiries</h3>
-<p>For general enquiries, please email <a rel="noopener noreferrer nofollow" target="_blank">NTBP@ncid.sg</a> 
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[ST1]</a>&nbsp;</p>
+<p>For general enquiries, please email <a rel="noopener noreferrer nofollow" target="_blank">NTBP@ncid.sg</a>
+</p>
 <h2>National Tuberculosis Screening Centre (NTBSC)</h2>
 <p>NTBSC is the national referral centre for TB evaluation and treatment.</p>
 <div class="isomer-image-wrapper">

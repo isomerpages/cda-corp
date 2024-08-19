@@ -6,6 +6,8 @@ description: ""
 third_nav_title: A to F
 ---
 <h2>Understanding Chlamydia: Causes, Symptoms, and Treatments</h2>
+<p><em>Bacteria name</em>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>What is Chlamydia?&nbsp;&nbsp;</strong>

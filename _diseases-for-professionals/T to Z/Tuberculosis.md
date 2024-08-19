@@ -19,12 +19,11 @@ health concern globally.</p>
 <p><strong><u>Global</u></strong>
 </p>
 <p>TB is the second leading infectious killer worldwide, after COVID-19,
-according to the World Health Organization (WHO).</p>
+according to the World Health Organization (WHO). In 2022, an estimated
+10.6 million people fell ill with TB, with 1.3 million deaths.</p>
 <p></p>
-<p>In 2022, an estimated 10.6 million people fell ill with TB, with 1.3 million
-deaths. About a quarter of the global population is estimated to have been
-infected with TB bacteria (also known as latent TB infection), though not
-everyone develops the active TB disease.</p>
+<p>About a quarter of the global population is estimated to have been infected
+with TB bacteria, although not everyone develops the active TB disease.</p>
 <p></p>
 <p><strong><u>Local</u></strong>
 </p>
@@ -34,10 +33,7 @@ was 28.9 cases per 100,000 population in 2023, compared to 30.4 cases per
 100,000 in 2022.</p>
 <p></p>
 <p>TB is endemic in Singapore, and latent TB infection is not uncommon in
-our population.</p>
-<p></p>
-<p>For the latest updates, visit MOH’s website <a href="https://www.moh.gov.sg/news-highlights/details/update-on-tuberculosis-situation-in-singapore-2024" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
+our population. For the latest updates, visit MOH’s website <a href="https://www.moh.gov.sg/news-highlights/details/update-on-tuberculosis-situation-in-singapore-2024" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -57,18 +53,17 @@ exposure to an infectious individual with untreated, active pulmonary (lung)
 TB disease. Not all individuals who are exposed to an infectious individual
 will get TB.</p>
 <p></p>
-<p><strong>Incubation period</strong>: 2 - 8 weeks, but can be much longer
-(years)</p>
 <p><strong>Infectious period: </strong>Individuals with active TB disease
 are infectious until they have completed effective treatment.</p>
+<p><strong>Incubation period</strong>: 2 - 8 weeks, but can be much longer
+(years)</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Clinical features</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Symptoms</strong>
-</p>
+<p>Symptoms:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Persistent cough (two weeks or more)</p>
@@ -93,8 +88,7 @@ are infectious until they have completed effective treatment.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Sequelae</strong>
-</p>
+<p>Sequelae:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Untreated TB can lead to severe lung damage, disability, and death.</p>
@@ -109,26 +103,26 @@ are infectious until they have completed effective treatment.</p>
 <summary><strong>Risk factors</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The risk of developing TB disease is higher in those who have:</p>
+<p>The risk of developing TB disease is higher for:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Individuals with weakened immune systems, such as those with HIV/AIDS,
-diabetes, or malnutrition, are at higher risk of developing active TB disease.</p>
+diabetes, or suffering from malnutrition;</p>
 </li>
 <li>
-<p>Close contact with someone with TB</p>
+<p>Individuals in close contact with someone with TB;</p>
 </li>
 <li>
-<p>Living in crowded or poorly ventilated conditions</p>
+<p>Individuals living in crowded or poorly ventilated conditions;</p>
 </li>
 <li>
-<p>Substance abuse (including smoking)</p>
+<p>Substance abuse (including smoking);</p>
 </li>
 <li>
-<p>Certain medical conditions</p>
+<p>Certain medical conditions; and</p>
 </li>
 <li>
-<p>Extremes of age (children and the elderly are more vulnerable)</p>
+<p>Children and the elderly who are more vulnerable.</p>
 </li>
 </ul>
 </div>
@@ -140,18 +134,18 @@ diabetes, or malnutrition, are at higher risk of developing active TB disease.</
 <p>Diagnosis of active TB disease involves various methods, including:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chest X-ray</p>
+<p>Chest X-ray;</p>
 </li>
 <li>
-<p>Sputum culture and microscopy</p>
+<p>Sputum culture and microscopy; or</p>
 </li>
 <li>
 <p>Molecular tests (e.g., GeneXpert)</p>
 </li>
 </ul>
 <p></p>
-<p>Diagnosis of latent TB infection may require an interferon-gamma release
-assay (IGRA) test or a tuberculin skin test (TST).</p>
+<p>Diagnosis of latent TB infection (LTBI) may require an interferon-gamma
+release assay (IGRA) test or a tuberculin skin test (TST).</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -161,7 +155,7 @@ assay (IGRA) test or a tuberculin skin test (TST).</p>
 <p>TB is treated with a combination of antibiotics for several months. It
 is crucial to complete the full course of treatment to prevent drug resistance
 and ensure cure. In some cases, hospitalization and isolation measures
-might be necessary</p>
+may be necessary</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -172,13 +166,14 @@ might be necessary</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Maintain good ventilation in living spaces.</p>
+<p>Maintain good ventilation in living spaces;</p>
 </li>
 <li>
-<p>Practice good cough etiquette (cover your cough or sneeze with a tissue).</p>
+<p>Practice good cough etiquette (e.g., cover your cough or sneeze with a
+tissue); and</p>
 </li>
 <li>
-<p>Wash your hands frequently with soap and water.</p>
+<p>Frequent hand-washing soap and water.</p>
 </li>
 </ul>
 <p></p>
@@ -186,8 +181,8 @@ might be necessary</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Individuals identified as having latent TB infection (LTBI) may be offered
-preventive treatment to reduce their risk of developing active TB disease.</p>
+<p>Individuals identified as having LTBI may be offered preventive treatment
+to reduce their risk of developing active TB disease; and</p>
 </li>
 <li>
 <p>People at high risk for TB exposure should be vigilant about symptoms
@@ -201,8 +196,7 @@ and seek prompt medical evaluation if any concerns arise.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TB is a notifiable disease in Singapore. Medical practitioners and laboratories
-are required to notify the Ministry of Health (MOH) of suspected or confirmed
-TB cases.</p>
+are required to notify MOH of suspected or confirmed TB cases.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -237,21 +231,14 @@ TB cases.</p>
 </details>
 </div>
 <hr>
-<p><strong>For more questions on TB, click here.</strong>
-</p>
-<hr>
-<h3>About the National Tuberculosis Programme</h3>
-<p>The National Tuberculosis Programme (NTBP) is a national TB prevention
-and care programme aimed at protecting the people of Singapore from the
-disease. It was launched by the Ministry of Health in 1997 to further its
-vision of a TB-free Singapore with people-centred care.</p>
-<p>NTBP is led by the Communicable Diseases Agency (CDA), which uses a multi-pronged
-approach to control TB. This approach includes&nbsp; prompt diagnosis and
-management of the disease; effective contact tracing and screening; community
-engagement to raise public awareness; strengthening partnerships, and implementing
+<h2>About the National Tuberculosis Programme (NTBP)</h2>
+<p>NTBP is a national TB prevention and care programme aimed at protecting
+the people of Singapore from the disease. It was launched by the Ministry
+of Health (MOH) in 1997 to further its vision of a TB-free Singapore with
+people-centred care.</p>
+<p>NTBP, which is under the Communicable Diseases Agency (CDA), uses a multi-pronged
+approach to control TB. This approach includes prompt diagnosis and management
+of the disease; effective contact tracing and screening; community engagement
+to raise public awareness; strengthening partnerships and implementing
 sustainable strategies.</p>
 <p>Learn more about NTBP <a href="https://staging-lite.d1j7qe69dakcfb.amplifyapp.com/for-professional/ntbp/about-ntbp/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<hr>
-<p><strong>The public can play a part in combatting TB. Learn more here.</strong>
-</p>
-<p></p>

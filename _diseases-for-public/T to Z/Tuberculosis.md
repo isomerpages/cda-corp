@@ -5,37 +5,41 @@ variant: tiptap
 description: ""
 third_nav_title: T to Z
 ---
-<h2>What is Tuberculosis (TB)?</h2>
+<h2>Understanding Tuberculosis (TB): Causes, Symptoms and Treatment</h2>
+<p><em>Mycobacterium tuberculosis</em>
+</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>What is TB? </strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Tuberculosis (TB) is a highly contagious disease caused by the bacteria <em>Mycobacterium tuberculosis</em>.
 It primarily affects the lungs but can also affect other parts of your
-body, such as the brain, lymph nodes, the kidneys, bones, and joints. While
-curable, TB remains a significant public health concern globally.</p>
+body, such as the brain, lymph nodes, kidneys, bones, and joints.</p>
+<p></p>
 <p>While curable, TB remains a significant public health concern globally.
 In Singapore, TB is endemic and latent TB infection is not uncommon in
-our population. Refer to <a href="https://www.moh.gov.sg/news-highlights/details/update-on-tuberculosis-situation-in-singapore-2024" rel="noopener noreferrer nofollow" target="_blank">MOH’s website</a> for
+our population. Refer to <a href="https://www.moh.gov.sg/news-highlights/details/update-on-tuberculosis-situation-in-singapore-2024" rel="noopener noreferrer nofollow" target="_blank">MOH’s website</a>&nbsp;for
 the latest updates on the local TB situation.</p>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+</div>
+</details>
 <details class="isomer-details">
 <summary><strong>What are the Types of TB Conditions?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Active TB disease occurs when the body is unable to kill or contain the
-bacteria, and the bacteria continues to grow. These individuals may have
-symptoms and are infectious. They should visit a doctor immediately to
-seek treatment.</p>
+bacteria, and the bacteria continues to grow. These individuals are infectious
+and may have symptoms. They should visit a doctor immediately to seek treatment.</p>
 <p></p>
-<p>However, not all individuals who are exposed to an infectious individual
-will get active TB disease.</p>
+<p>However, not all individuals who are exposed to an infectious person will
+get active TB disease. Some develop latent TB infection (LTBI), where the
+body is able to stop the bacteria from growing, rendering them inactive.
+These people do not have any symptoms (e.g., cough) and cannot spread TB
+to others.</p>
 <p></p>
-<p>Some develop latent TB infection (LTBI), where the body is able to stop
-the bacteria from growing, rendering them inactive. These people do not
-have any symptoms (e.g., cough) and cannot spread TB to others.</p>
-<p></p>
-<p>In 90% of healthy persons with LTBI, the TB bacteria remains inactive
-throughout their life. However, the disease can be activated months or
-even years later due to a weakened immune system, certain medical conditions
-or other factors.</p>
+<p>In 90% of healthy persons with LTBI, the TB bacteria remain inactive throughout
+their life. However, the disease can be activated months or years later
+due to a weakened immune system, certain medical conditions, or other factors.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -44,7 +48,7 @@ or other factors.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TB is an airborne disease. TB disease spreads through the air when an
 infected person coughs or sneezes. Transmission usually requires close
-and prolonged exposure to the TB bacteria.</p>
+and prolonged contact with an infectious individual.</p>
 <p></p>
 <p>TB disease cannot be spread by shaking someone’s hand, kissing, touching
 bed linens, or sitting on toilet seats.</p>
@@ -57,13 +61,13 @@ bed linens, or sitting on toilet seats.</p>
 <p>Symptoms of TB disease include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Persistent cough (lasting more than 3 weeks)</p>
+<p>Persistent cough (two weeks or more)</p>
 </li>
 <li>
 <p>Coughing blood or sputum</p>
 </li>
 <li>
-<p>Fever</p>
+<p>Persistent fever</p>
 </li>
 <li>
 <p>Night sweats</p>
@@ -82,8 +86,8 @@ bed linens, or sitting on toilet seats.</p>
 </li>
 </ul>
 <p></p>
-<p>TB disease is curable and its spread is preventable. Early detection and
-prompt treatment is key. If you have symptoms, go see a doctor immediately.
+<p>TB disease is curable, and its spread is preventable. Early detection
+and prompt treatment is key. If you have symptoms, go see a doctor immediately.
 Untreated TB can lead to severe lung damage, disability, or death.</p>
 </div>
 </details>
@@ -91,20 +95,20 @@ Untreated TB can lead to severe lung damage, disability, or death.</p>
 <summary><strong>What are the Risk Factors?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The risk of developing TB disease is higher in those who have:</p>
+<p>The risk of developing TB disease is higher in those who:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Weakened immune systems, due to drugs, sickness, or malnutrition;</p>
+<p>Have weakened immune systems, due to drugs, sickness, or malnutrition;</p>
 </li>
 <li>
-<p>In prolonged (days to weeks) and close contact or living with someone
+<p>Are in prolonged (days to weeks) and close contact or living with someone
 with TB disease, especially in crowded or poorly ventilated conditions;</p>
 </li>
 <li>
-<p>Abusing substances (including smoking);</p>
+<p>Abuse substances (including smoking);</p>
 </li>
 <li>
-<p>Suffering certain medical conditions such as HIV, diabetes, or others;</p>
+<p>Suffer from certain medical conditions such as HIV and diabetes; or</p>
 </li>
 <li>
 <p>Children under the age of 5 and the elderly.</p>
@@ -125,7 +129,7 @@ symptoms and seek prompt medical evaluation if any concerns arise.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How to Treat Active TB Disease and Latent TB Infection?</strong>
+<summary><strong>How are Active TB Disease and LTBI Treated?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Active TB disease is treated with a combination of TB medication, administered
@@ -154,7 +158,7 @@ common form among adults.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How to Prevent Getting Active TB Disease?</strong>
+<summary><strong>How to Prevent Active TB Disease?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>There are multiple ways you can prevent yourself from getting active TB
@@ -165,7 +169,8 @@ disease:</p>
 has active TB disease;</p>
 </li>
 <li>
-<p>Practice good cough etiquette (cover your cough or sneeze with a tissue);</p>
+<p>Practice good cough etiquette (e.g., cover your cough or sneeze with a
+tissue);</p>
 </li>
 <li>
 <p>Wash your hands frequently with soap and water.</p>
@@ -195,7 +200,7 @@ Therapy (DOT) treatment at the polyclinic or the National Tuberculsos Screening
 Centre (NTBSC);</p>
 </li>
 <li>
-<p>Wearing a face mask when near others;</p>
+<p>Wearing a face mask when you are near others;</p>
 </li>
 <li>
 <p>Covering your mouth with a tissue when you cough or sneeze.</p>
@@ -209,32 +214,33 @@ Centre (NTBSC);</p>
 <summary><strong>Someone I Am Close to Has TB Disease?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Those who have prolonged and close contact with someone who has active
+<p>Those who have had prolonged and close contact with someone with active
 TB disease may be contacted by the National Tuberculosis Programme (NTBP)
 for TB screening.</p>
 <p></p>
 <p>Screening at the National Tuberculosis Care Centre (NTBCC) are scheduled
-by appointment. You will receive a SMS with the date and time of the appointment.
-You may call the centre to change the appointment date.</p>
+by appointment. They will receive a SMS with the date and time of the appointment.
+They may call the centre to change the appointment date.</p>
 <p></p>
 <p>Screening for TB may involve a QuantiFERON (TB) blood test and a chest
 X-ray, if required. A repeat test may be scheduled by the centre. The results
 will be out in two to three weeks.</p>
 <p></p>
-<p>If you have a positive blood test result, further tests (i.e., chest X-ray)
-are required to determine if it is latent TB infection or active TB disease.</p>
+<p>If they have a positive blood test result, further tests (i.e., chest
+X-ray) are required to determine if it is latent TB infection or active
+TB disease.</p>
 <p></p>
-<p>If your blood test result is negative, it means you are not infected with
-TB bacteria.</p>
+<p>If their blood test result is negative, it means they are not infected
+with TB bacteria.</p>
 <p></p>
 <p>TB screening is fully subsidised for registered contacts. Only those who
 have been identified as close contacts of active TB cases are offered screening
-under the National TB Programme.</p>
+under the NTBP.</p>
 <p></p>
 <p>It is advisable for these individuals to go for screening to protect themselves
 and their loved ones from getting active TB disease.</p>
 <p></p>
-<p>For dirctions to NTBCC, click <a href="/for-professional/ntbp/contact-us/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For directions to NTBCC, click <a href="/for-professional/ntbp/contact-us/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -242,60 +248,55 @@ and their loved ones from getting active TB disease.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The public health officer-in-charge (PHO) will contact the workplace supervisor
-or HR department for a risk assessment. The following information may be
-required:</p>
+or HR for a risk assessment. The following information may be required:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Details of people who have been exposed to the TB patient for more than
-8 hours cumulatively;</p>
+8 hours cumulatively; and</p>
 </li>
 <li>
-<p>Floorplan and photographs; and</p>
-</li>
-<li>
-<p>A site visit may be requested.</p>
+<p>Floorplan and photographs.</p>
+<p></p>
 </li>
 </ul>
+<p>The PHO may also request a site visit.</p>
 <p></p>
 <p>Subsequently, the PHO will prepare a list of employees who are required
-to go for TB screening. Their details will be submitted to the National
-Tuberculosis Care Centre (NTBCC). They will be scheduled for a screening
-at the centre.</p>
+to go for TB screening. Their details will be submitted to the NTBCC, where
+they will be scheduled for screening.</p>
 <p></p>
 <p>These employees will receive a SMS with the date and time of appointment.
-The workplace supervisor or HR department will also receive an email on
-the appointment dates for monitoring or manpower allocation.</p>
+The workplace supervisor or HR will also receive an email on the appointment
+dates for monitoring or manpower allocation.</p>
+<p></p>
+<p>For directions to NTBCC, click <a href="/for-professional/ntbp/contact-us/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p><strong>Q: What if an Identified Contact Show Symptoms of Active TB Disease?</strong>
 </p>
 <p>Please advise them to seek medical attention and inform the doctor of
-their status as an identified contact.</p>
-<p></p>
-<p>The doctor will assess whether they have TB and will inform the National
-Tuberculosis Programme (NTBP) if the person is suspected to have TB.</p>
+their status as an identified contact. The doctor will assess whether they
+have TB and will inform the NTBP if the person is suspected to have TB.</p>
 <p></p>
 <p><strong>Q: Do Identified Contacts Need to be Isolated?</strong>
 </p>
 <p>Identified contacts do not need to be isolated. They can proceed with
 their daily work unless they are tested positive.</p>
 <p></p>
-<p><strong>Q: When is it Safe for the Person Diagnosed with Active TB Disease to Return to Office?</strong>
+<p><strong>Q: When is it Safe for Individuals Who are Diagnosed with Active TB Disease to Return to Work?</strong>
 </p>
-<p>They will be considered non-infectious after two weeks of treatment. Then,
-they will be required to visit the polyclinic or the National Tuberculosis
-Screening Centre (NTBSC) daily or a few times a week, as advised by the
-doctor, to take their medication until they complete treatment. The employee
-may request for a memo from the doctor for their follow-up appointments
-if the organisation requires it.</p>
+<p>They will be considered non-infectious after two weeks of treatment. After
+that, they will be required to visit the polyclinic or the NTBSC daily
+or a few times a week, as advised by the doctor, to take their medication
+until they complete treatment. Employees may request for a memo from the
+doctor for their follow-up appointments if the organisation requires it.</p>
 <p></p>
 <p><strong>Q: Can We Arrange for Our Own Screening and Claim from MOH?</strong>
 </p>
 <p></p>
-<p>TB screening at the NTBSC is fully subsidised only for identified contacts.
+<p>TB screening at NTBSC is fully subsidised only for identified contacts.
 MOH will not bear the costs for privately arranged screening or screening
 for non-identified contacts.</p>
 <p></p>
-<p>For directions to NTBCC, click <a href="/for-professional/ntbp/contact-us/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
@@ -303,25 +304,21 @@ for non-identified contacts.</p>
 <p><strong>For more questions on TB, click <a href="https://ask.gov.sg/ntbp" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
 <hr>
-<h2>About the National Tuberculosis Programme</h2>
-<p>The National Tuberculosis Programme (NTBP) is a national TB prevention
-and care programme aimed at protecting the people of Singapore from the
-disease. It was launched by the Ministry of Health in 1997 to further its
-vision of a TB-free Singapore with people-centred care.</p>
-<p>NTBP is led by the Communicable Diseases Agency (CDA), which uses a multi-pronged
+<h2>About the National Tuberculosis Programme (NTBP)</h2>
+<p>NTBP is a national TB prevention and care programme aimed at protecting
+the people of Singapore from the disease. It was launched by MOH in 1997
+to further its vision of a TB-free Singapore with people-centred care.</p>
+<p>NTBP, which is under the Communicable Diseases Agency (CDA), uses a multi-pronged
 approach to control TB. This approach includes prompt diagnosis and management
 of the disease; effective contact tracing and screening; community engagement
 to raise public awareness; strengthening partnerships; and implementing
 sustainable strategies.</p>
 <p>More information about NTBP <a href="/for-professional/ntbp/about-ntbp/" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u>
 </p>
-<hr>
 <h2>Take the TB Quiz</h2>
 <p>Test your knowledge about tuberculosis with this quiz:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_04_24_091052.png">
 </div>
 <hr>
-<p><strong>Professionals can play a part in combatting TB. Learn more <a href="for-professionals/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
-</p>
 <p></p>

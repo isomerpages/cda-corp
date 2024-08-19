@@ -46,13 +46,6 @@ voluntary screening where about 170 people were tested positive for TB.</p>
 <p></p>
 <p>Read more about the incidence <a href="https://www.channelnewsasia.com/singapore/tuberculosis-screening-2-jalan-bukit-merah-about-170-test-positive-2769186" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
-<p>In 2016, a cluster of six multi-drug resistant TB (MDRTB) cases were detected
-in a block in Ang Mo Kio. Other than the three patients living in the same
-unit, the rest did not know or did not interact with one another. Residents
-of the block were offered voluntary screening.</p>
-<p></p>
-<p>Read more about the incidence <a href="https://www.straitstimes.com/singapore/majority-at-amk-block-where-tb-cases-were-found-tested-negative-two-more-possible-cases" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
 <p>In 2020, a TB cluster involving four people was detected at a HDB block
 in Hougang. The four cases had similar genetic make-up and investigations
 into the cases did not reveal any common links, other than they lived in
@@ -60,6 +53,13 @@ the same blocks. Current and former residents of the block were offered
 voluntary screening.</p>
 <p></p>
 <p>Read more about the incidence <a href="https://www.straitstimes.com/singapore/health/moh-to-offer-tuberculosis-screening-to-block-174d-hougang-ave-1-residents-after" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p>In 2016, a cluster of six multi-drug resistant TB (MDRTB) cases were detected
+in a block in Ang Mo Kio. Other than the three patients living in the same
+unit, the rest did not know or did not interact with one another. Residents
+of the block were offered voluntary screening.</p>
+<p></p>
+<p>Read more about the incidence <a href="https://www.straitstimes.com/singapore/majority-at-amk-block-where-tb-cases-were-found-tested-negative-two-more-possible-cases" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>

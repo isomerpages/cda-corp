@@ -110,4 +110,3 @@ to control the spread of AMR.</p>
 <p><strong>Infection Control Guidelines for Healthcare Facilities can be found <a href="https://www.ncid.sg/Health-Professionals/Pages/Infection-Control-Guidelines-for-Healthcare-Facilities.aspx" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
 <p></p>
-<p></p>

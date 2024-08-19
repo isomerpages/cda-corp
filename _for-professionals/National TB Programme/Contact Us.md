@@ -40,17 +40,3 @@ third_nav_title: National TB Programme
 </p>
 <p>General enquiries: 6258 3142</p>
 <p>Appointment: 6258 4430</p>
-<hr>
-<p><strong>Learn more about tuberculosis:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>For general public, click <a href="/for-public/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
-</p>
-</li>
-<li>
-<p><strong>For professionals, click <a href="/for-professionals/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
-</p>
-</li>
-</ul>
-<p></p>

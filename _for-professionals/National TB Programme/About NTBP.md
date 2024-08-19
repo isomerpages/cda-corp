@@ -38,5 +38,16 @@ under the Directly Observed Therapy (DOT).</p>
 and congregate settings (such as schools and prisons) for active and latent
 TB disease, as well as provides preventive therapy for contacts found to
 have latent TB infection.</p>
-<p></p>
+<p><strong>Learn more about TB:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>For general public, click <a href="/for-public/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
+</p>
+</li>
+<li>
+<p><strong>For professionals, click <a href="/for-professionals/diseases/t-to-z/tuberculosis/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+</p>
+</li>
+</ul>
 <p></p>

@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: National TB Programme
 ---
-<h2>Organisation Chart</h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_3.png">
 </div>
@@ -34,7 +32,7 @@ third_nav_title: National TB Programme
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Dr Jeffery Cutter</p>
+<p>Adjunct Associate Professor Jeffery Cutter</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +41,7 @@ third_nav_title: National TB Programme
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Dr Hsu Li Yang (Visiting)</p>
+<p>Professor Hsu Li Yang (Visiting)</p>
 </td>
 </tr>
 <tr>

@@ -19,7 +19,7 @@ body, such as the brain, lymph nodes, kidneys, bones, and joints.</p>
 <p></p>
 <p>While curable, TB remains a significant public health concern globally.
 In Singapore, TB is endemic and latent TB infection is not uncommon in
-our population. Refer to <a href="https://www.moh.gov.sg/news-highlights/details/update-on-tuberculosis-situation-in-singapore-2024" rel="noopener noreferrer nofollow" target="_blank">MOH’s website</a>&nbsp;for
+our population. Refer to the <a href="https://www.moh.gov.sg/news-highlights/details/update-on-tuberculosis-situation-in-singapore-2024" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health (MOH)'s website</a>&nbsp;for
 the latest updates on the local TB situation.</p>
 </div>
 </details>

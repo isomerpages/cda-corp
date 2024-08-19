@@ -5,17 +5,19 @@ variant: tiptap
 description: ""
 third_nav_title: Antimicrobial Resistance
 ---
-<h2>Overview</h2>
-<p>The Antimicrobial Resistance Coordinating Office (AMRCO) was established
+<h2>Antimicrobial Resistance Coordinating Office (AMRCO)</h2>
+<p>The AMRCO&nbsp;under the Communicable Diseases Agency was established
 in September 2018 as a coordinating body to facilitate the implementation
-and monitoring of the NSAP, coordinate AMR efforts across different sectors
-and serve as secretariat for national committees.</p>
+and monitoring of the National Strategic Action Plan (NSAP), coordinate
+antimicrobial resistance efforts across different sectors, and serve as
+the secretariat for national committees.</p>
 <h3>Education</h3>
 <p>Public education is a cornerstone in the fight against AMR. Raising awareness
 and understanding of AMR will prevent the misuse and overuse of antimicrobials
-and help to reduce the spread of infections. This, coupled with professional
-education and training for healthcare professionals, will lead to individual-
-and societal- level impact to the sustainable and responsible use of antimicrobials.</p>
+and help to reduce the spread of infections. Coupled with professional
+education and training for healthcare professionals, these efforts could
+lead to individual- and societal-level impact on the sustainable and responsible
+use of antimicrobials.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>World AMR Awareness Week social media campaigns</strong>
@@ -23,26 +25,26 @@ and societal- level impact to the sustainable and responsible use of antimicrobi
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Held annually from 18 to 24 November, World AMR Awareness Week (WAAW)
 aims to increase awareness of global AMR and encourage best practices among
-the public, healthcare workers and policy makers to prevent further emergence
+the public, healthcare workers, and policy makers to prevent further emergence
 and spread of AMR.</p>
 <p></p>
-<p>During WAAW, AMRCO regularly runs a campaign on NCID’s social media avenues
-to highlight AMR as a global public health concern, what the public can
-do to play their part, and why the One Health approach matters.</p>
+<p>During WAAW, AMRCO regularly runs a campaign on social media to highlight
+AMR as a global public health concern, why the One Health approach matters,
+and how the public can help.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Professional training</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Healthcare professionals (HCPs) are kept up to date on AMR issues and
-appropriate prescribing of antimicrobials through continuing professional
-education (CPE) events.</p>
+<p>Healthcare professionals are kept up to date on AMR issues and appropriate
+prescribing of antimicrobials through continuing professional education
+(CPE) events.</p>
+<p></p>
 <p>For upcoming training events, click&nbsp;&nbsp;<a href="/for-professionals/one-health/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
-<p></p>
 <h3>Surveillance</h3>
 <p>Surveillance of AMR and antimicrobial utilisation is essential to understand
 the magnitude, distribution and impact of resistant organisms and antimicrobial
@@ -57,13 +59,13 @@ will help enable a timely and appropriate response to AMR.</p>
 <summary><strong>One Health Report on Antimicrobial Utilisation and Resistance</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The two-yearly One Health Report on Antimicrobial Utilisation and Resistance
-is a collaboration between MOH, NEA, NParks, PUB, SFA and AMRCO, NCID.
-The multi-sectoral surveillance report provides an overview of national
-surveillance programmes, including surveillance on the utilisation and
-sales of antimicrobials in the human and animal health sectors, incidence
-and resistance proportions (%R) of priority AMR organisms found in humans,
-animals, food and the environment.</p>
+<p>The biennial One Health Report on Antimicrobial Utilisation and Resistance
+is a collaboration between MOH, NEA, NParks, PUB, SFA, AMRCO. The multi-sectoral
+surveillance report provides an overview of national surveillance programmes,
+including surveillance on the utilisation and sales of antimicrobials in
+the human and animal health sectors, and incidence and resistance proportions
+(%R) of priority AMR organisms found in humans, animals, food, and the
+environment.</p>
 <p></p>
 <p>It also presents key findings on antimicrobial utilisation and resistant
 organisms in the human, animal, food and environmental sectors in Singapore.</p>
@@ -71,23 +73,43 @@ organisms in the human, animal, food and environmental sectors in Singapore.</p>
 <p>Read previous reports on the One Health Report below:</p>
 <p>One Health Report on Antimicrobial Utilisation and Resistance, 2017</p>
 <p>One Health Report on Antimicrobial Utilisation and Resistance, 2019</p>
-<p>More information on One Health initiatives can be found here .</p>
+<p></p>
+<p>More information on One Health initiatives can be found here.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Primary Care Antimicrobial Utilisation Surveillance Initiative</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Launched in 2021, the Primary Care Antimicrobial Utilisation Surveillance
+Initiative (GP-AMU)&nbsp;monitors antimicrobial utilisation (AMU) trends
+in communities through analysing and reviewing AMU data contributed by
+participating general practitioner (GP) clinics. In turn, GP-AMU facilitates
+data-driven feedback annually for participating GP clinics' internal monitoring.</p>
+<p></p>
+<p>Learn more about GP-AMU&nbsp;<a href="https://www.ncid.sg/Health-Professionals/Antimicrobial-Resistance/Surveillance/Pages/Combatting%20Antimicrobial%20Resistance%20through%20Primary%20Care%20Antimicrobial%20Utilisation%20Surveillance.aspx" rel="noopener noreferrer nofollow" target="_blank">here</a>​.</p>
+<p></p>
+<p>The GLASS dashboard presents global AMR data for countries, territories,
+and areas (CTAs) enrolled in GLASS. View the GLASS dashboard <a href="https://worldhealthorg.shinyapps.io/glass-dashboard/_w_d860e90b/#!/home" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Contributing Data to WHO GLASS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>In 2019, Singapore enrolled in the WHO Global Antimicrobial Resistance
-and Use Surveillance System (GLASS), the first global collaborative effort
-to standardise AMR surveillance. Singapore has been contributing AMR data
-from sentinel healthcare facilities through AMRCO, which is the appointed
-GLASS National Coordinating Centre.</p>
+<p>Singapore enrolled in the WHO Global Antimicrobial Resistance and Use
+Surveillance System (GLASS), the first global collaborative effort to standardise
+AMR surveillance in 2019. Singapore has been contributing AMR data from
+sentinel healthcare facilities through AMRCO, the appointed GLASS National
+Coordinating Centre.</p>
 <p></p>
-<p>Learn more about WHO GLASS here.</p>
+<p>Learn more about WHO GLASS <a href="https://www.who.int/initiatives/glass" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u>
+</p>
 <p></p>
-<p>The GLASS dashboard presents global AMR data for countries, territories
-and areas (CTAs) that are enrolled in GLASS. View the GLASS dashboard here.</p>
+<p>The GLASS dashboard presents global AMR data for countries, territories,
+and areas (CTAs) enrolled in GLASS. View the GLASS dashboard <a href="https://worldhealthorg.shinyapps.io/glass-dashboard/_w_d860e90b/#!/home" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
 </div>
 </details>
 </div>

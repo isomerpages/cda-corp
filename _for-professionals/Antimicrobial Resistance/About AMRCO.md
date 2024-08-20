@@ -47,7 +47,7 @@ prescribing of antimicrobials through continuing professional education
 </div>
 <h3>Surveillance</h3>
 <p>Surveillance of AMR and antimicrobial utilisation is essential to understand
-the magnitude, distribution and impact of resistant organisms and antimicrobial
+the magnitude, distribution, and impact of resistant organisms and antimicrobial
 use. Regular monitoring of resistance trends, associations between usage
 and resistance, and outcomes of policies and initiatives to combat AMR
 will help enable a timely and appropriate response to AMR.</p>
@@ -74,7 +74,7 @@ organisms in the human, animal, food and environmental sectors in Singapore.</p>
 <p>One Health Report on Antimicrobial Utilisation and Resistance, 2017</p>
 <p>One Health Report on Antimicrobial Utilisation and Resistance, 2019</p>
 <p></p>
-<p>More information on One Health initiatives can be found here.</p>
+<p>Find more information on One Health initiatives <a rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -89,9 +89,8 @@ data-driven feedback annually for participating GP clinics' internal monitoring.
 <p></p>
 <p>Learn more about GP-AMU&nbsp;<a href="https://www.ncid.sg/Health-Professionals/Antimicrobial-Resistance/Surveillance/Pages/Combatting%20Antimicrobial%20Resistance%20through%20Primary%20Care%20Antimicrobial%20Utilisation%20Surveillance.aspx" rel="noopener noreferrer nofollow" target="_blank">here</a>​.</p>
 <p></p>
-<p>The GLASS dashboard presents global AMR data for countries, territories,
-and areas (CTAs) enrolled in GLASS. View the GLASS dashboard <a href="https://worldhealthorg.shinyapps.io/glass-dashboard/_w_d860e90b/#!/home" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+<p>Contact&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">amrco@ncid.sg</a>​
+if you are interested to participate in this initiative.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -113,7 +112,6 @@ and areas (CTAs) enrolled in GLASS. View the GLASS dashboard <a href="https://wo
 </div>
 </details>
 </div>
-<p></p>
 <h3>Research</h3>
 <p>Research helps fill in gaps in knowledge, improve our understanding of
 the AMR situation and enhance tools and measures needed to help control
@@ -134,49 +132,43 @@ OHARP grants.</p>
 areas - Knowledge, Attitudes and Practices (KAP); Transmission Pathways;
 and Socioeconomic Impact of AMR.</p>
 <p></p>
-<p>For more information on OHARP, please click here.</p>
+<p>Find more information on OHARP <a href="https://www.ncid.sg/Health-Professionals/Pages/Grants-and-Fellowships.aspx" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>One Health AMR Research in Singapore</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>In addition to improving our understanding of resistance development,
-it is also necessary to be informed of where the gaps in evidence lie so
-that resources for research could be allocated appropriately.</p>
+<p>Along with improving our understanding of resistance development, it is
+necessary to be informed of the gaps in evidence so that resources for
+research could be allocated appropriately.</p>
 <p></p>
-<p>The review of the AMR research landscape in Singapore is conducted regularly
-by AMRCO to understand the current research and innovations in this field.
-This will provide information on current research trends and topics in
-AMR, as well as the expertise in Singapore. The review will also identify
-opportunities for research, with the goal of fostering collaborations among
-scientists from different domains, especially across sectors, to develop
-novel tools, strategies and methods to address AMR.</p>
+<p>AMRCO regularly conducts the review of the AMR research landscape in Singapore
+to understand the current research trends and topics in AMR, as well as
+the AMR research expertise in Singapore.</p>
 <p></p>
-<p>The first comprehensive review of AMR research articles published by Singapore’s
-research community from 2009 to 2019 was completed. Findings derived from
-the review provided important insights that is guiding our prioritisation
-of One Health AMR research efforts. The charts below show information on
-the trends of AMR research published, including both (A) an overall annual
-trend and (B) the annual trend according to research domains, (C) the distribution
-of research publications according to the research domains, (D) the research
-publication by respective One Health sectors, (E) annual publication trend
-from the One Health sectors, and (F) the distribution of institutional
-research output in each of the research domains.</p>
+<p>The ongoing review also identifies opportunities for research to foster
+collaborations among scientists across sectors, and develop novel tools,
+strategies, and methods to address AMR.</p>
 <p></p>
-<p><strong>Overall annual publication trend, 2009-2019</strong>
+<p>The first comprehensive review of AMR research articles published by Singapore's
+research community from 2009 to 2019 has been completed. Findings from
+the review provided important insights to prioritise One Health AMR research
+efforts.</p>
+<p></p>
+<p>The charts below show information on the trends of AMR research published:</p>
+<p></p>
+<p><strong>Overall Annual Publication Trend, 2009–2019</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/amr_professionals_research_1.png">
 </div>
-<p></p>
-<p><strong>Annual publication trend by research domain, 2009-2019</strong>
+<p><strong>Annual Publication Trend by Research Domain, 2009-2019</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/amr_professionals_research_2.png">
 </div>
-<p></p>
-<p><strong>Overall distribution of research publication by research domains</strong>
+<p><strong>Overall Distribution of Research Publications by Research Domains</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/amr_professionals_research_3.png">
@@ -187,53 +179,47 @@ research output in each of the research domains.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/amr_professionals_research_4.png">
 </div>
-<p></p>
-<p><strong>Annual publication trend by the One Health sectors</strong>
+<p><strong>Annual Publication Trend by One Health Sectors</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/amr_professionals_research_5.png">
 </div>
-<p></p>
-<p><strong>Distribution of institutional research output by research domain</strong>
+<p><strong>Distribution of Institutional Research Output by Research Domain</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/amr_professionals_research_6.png">
 </div>
 <p></p>
-<p>More information can be found in this report. It summarised AMR research
-trends in Singapore and highlighted recommended areas of research, especially
-across sectors, to address AMR.</p>
+<p>Get more information on AMR research trends in Singapore and the recommended
+areas of research across sectors <a href="https://www.ncid.sg/Health-Professionals/Documents/Report%20on%20Singapores%20Antimicrobial%20Resistance%20Research%20Landscape%202009-2019%20(002).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
-<p></p>
 <h3>Optimisation of Antimicrobial Use</h3>
 <p>Inappropriate use of antimicrobials is the largest driver of AMR. Infections
 with organisms resistant against last-line antimicrobials have already
-been observed in patients in Singapore. Measures must therefore be taken
-to conserve existing antimicrobials.</p>
+been observed in patients in Singapore. Measures must be taken to conserve
+existing antimicrobials.</p>
 <p>The implementation of antimicrobial stewardship programmes promotes rational
 prescribing practices, slows the emergence of resistance and reduces risks
 to the healthcare system.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Antimicrobial Stewardship Programme</strong>
+<summary><strong>Antimicrobial Stewardship Programmes (ASPs)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Antimicrobial stewardship programmes (ASP) have been implemented in all
-public hospitals since 2011. This includes the establishment of ASP teams
-consisting of infectious diseases physicians and ASP pharmacists. The tracking
-of antimicrobial usage, appropriateness of antimicrobial use and ASP intervention
-acceptance rates are reported regularly to hospital management and ASP
-teams.</p>
+<p>The ASPs have been implemented in all public hospitals since 2011. This
+includes the establishment of ASP teams consisting of infectious diseases
+physicians and ASP pharmacists. The tracking of antimicrobial usage, appropriateness
+of antimicrobial use, and ASP intervention acceptance rates are reported
+regularly to hospital management and ASP teams.</p>
 <p></p>
-<p>The Infectious Diseases Research and Training Office holds the Singapore
-Antimicrobial Stewardship Training Course annually. It aims to empower
-individuals with the knowledge and skills needed to establish and operationalise
-effective ASPs.</p>
+<p>The <a rel="noopener noreferrer nofollow" target="_blank">Infectious Disease Research and Training Office</a>&nbsp;holds
+the Singapore Antimicrobial Stewardship Training Course annually. It aims
+to empower individuals with the knowledge and skills needed to establish
+and operationalise effective ASPs.</p>
 <p></p>
-<p>Find more information about the latest events here.</p>
-<p></p>
+<p>Find the latest events <a href="https://www.ncid.sg/News-Events/Events/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -252,17 +238,14 @@ reduced.</p>
 <p></p>
 <p>The guideline was developed through a multidisciplinary collaborative
 effort by the National Antimicrobial Stewardship Expert Panel (NASEP) National
-SAP Guideline Development Workgroup, comprising Infectious Disease (ID)
+SAP Guideline Development Workgroup, comprising infectious diseases (ID)
 physicians, ID and/or antimicrobial stewardship-trained pharmacists, surgeons
 and anaesthesiologists, and endorsed by NCID and the Chapter of ID Physicians,
 College of Physicians, College of Anaesthesiologists and College of Surgeons
 under the Academy of Medicine, Singapore.</p>
 <p></p>
-<p>Download a copy here.</p>
+<p>Download a copy of the SAP Guideline <a href="https://www.google.com/search?q=National+Antimicrobial+Stewardship+Expert+Panel+(NASEP)+National+SAP+Guideline+Development+Workgroup%2C&amp;oq=National+Antimicrobial+Stewardship+Expert+Panel+(NASEP)+National+SAP+Guideline+Development+Workgroup%2C&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI1NWowajSoAgCwAgE&amp;sourceid=chrome&amp;ie=UTF-8" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
-<p></p>
-<p>Find out more about how the public can play a part in combatting AMR
-<a href="/for-public/antimicrobial-resistance/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>

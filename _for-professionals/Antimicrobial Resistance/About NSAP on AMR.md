@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Antimicrobial Resistance
 ---
 <h2>National Strategic Action Plan (NSAP) on AMR</h2>
-<p>Launched in 2017, Singapore’s NSAP<a rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[MA(1]</a>&nbsp;on AMR is aligned with global objectives in the <a href="https://www.who.int/antimicrobial-resistance/global-action-plan/en/" rel="noopener noreferrer nofollow" target="_blank">WHO Global Action Plan on AMR</a>.
+<p>Launched in 2017, Singapore’s NSAP&nbsp;on AMR is aligned with global
+objectives in the <a href="https://www.who.int/antimicrobial-resistance/global-action-plan/en/" rel="noopener noreferrer nofollow" target="_blank">WHO Global Action Plan on AMR</a>.
 This includes improving AMR awareness, optimising the use of antimicrobials,
 strengthening surveillance and research, and reducing infections.</p>
 <p>The NSAP adopts a One Health approach to combat AMR through cross-sectoral

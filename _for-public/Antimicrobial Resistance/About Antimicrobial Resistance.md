@@ -20,7 +20,7 @@ parasites, are exposed to antimicrobials and, in order to protect themselves
 against antimicrobials, undergo changes that prevent these medicines from
 working effectively against them.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/amr_public.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/amr_public.jpg">
 </div>
 </div>
 </details>
@@ -41,7 +41,7 @@ medical procedures (from transplants, chemotherapy to surgeries) can become
 life-threatening. Around the world, healthcare systems are increasingly
 being put at risk.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/amr_public_2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/amr_public_2.png">
 </div>
 </div>
 </details>
@@ -79,9 +79,7 @@ viral infections, such as:</p>
 <p>HFMD (Hand Foot Mouth Disease).</p>
 </li>
 </ul>
-<p></p>
 <p>Viral symptoms usually go away with time and symptomatic relief.</p>
-<p></p>
 <p>When your doctor prescribes antibiotics to treat your infection, the benefits
 outweigh the risks. However, side effects may occur as antibiotics destroy
 both good and bad bacteria. Common side effects include:</p>
@@ -99,7 +97,6 @@ both good and bad bacteria. Common side effects include:</p>
 <p>Loss of appetite.</p>
 </li>
 </ul>
-<p></p>
 <p>Your doctor may then prescribe probiotic tablets along with your antibiotic
 to maintain and restore good bacteria. If you develop other symptoms due
 to the antibiotic or/and your side effects become worrisome, you should
@@ -113,21 +110,18 @@ consult a doctor immediately.</p>
 <p>Overuse or misuse of antibiotics can lead to antibiotic resistance. This
 reduces the effectiveness of antibiotics in treating infections, which
 can lead to undesirable consequences:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Drug-resistant bugs: </strong>Bacteria become resistant to antibiotics
 – developing resistance to the drugs designed to kill them.</p>
 </li>
 </ul>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Increased medical costs: </strong>Complications caused by antibiotic-resistant
 bacteria can increase hospital stay lengths and medical care costs.</p>
 </li>
 </ul>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Increased health risks: </strong>Without effective antibiotics
@@ -135,7 +129,6 @@ illnesses caused by antibiotic-resistant bacteria are harder or impossible
 to treat, which can lead to disability and death.</p>
 </li>
 </ul>
-<p></p>
 <p>Left unchecked, AMR could cause as many as 10 million deaths worldwide
 by 2050 – higher than death attributed to diabetes (1.5 million) and cancer
 (8.2 million).</p>
@@ -267,6 +260,5 @@ of antimicrobial resistance.</p>
 </div>
 </details>
 </div>
-<p>Find answers to commonly answered questions about AMR here: <a href="/files/FAQ_on_AMR_Public.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ on AMR</a>
+<p><strong>For more questions on AMR, click <a href="/files/FAQ_on_AMR_Public.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
-<p></p>

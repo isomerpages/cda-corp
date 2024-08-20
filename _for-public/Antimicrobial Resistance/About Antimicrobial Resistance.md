@@ -232,7 +232,7 @@ or consuming, and cooking food thoroughly to eliminate harmful bacteria.</p>
 <p><strong>Maintain good pet health</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/amr_public_protect_6.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/amr_public_protect_6.png">
 </div>
 <p>People and pets share lives and living spaces, and could also share resistant
 microorganisms. Keep your pet healthy through vaccination, regular parasite
@@ -243,25 +243,30 @@ checks by a veterinarian and good hygiene practices.</p>
 </details>
 </div>
 <h3>Resources on AMR</h3>
-<p><strong>Importance of Antibiotics and Following Doctor’s Advice Video</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Importance of Antibiotics and Following Doctor’s Advice Video</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Watch an episode of The Daily Ketchup Podcast to learn more about how
 to use antibiotics appropriately, the importance of following your doctor’s
 instructions on antibiotics and advice on the treatment if antibiotics
 are not required.</p>
-<p>Click <a href="https://youtu.be/SzJ--vmuWIQ?si=r_VH-dtyiPzXez06" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-watch the video.</p>
-<hr>
-<p><strong>Antibiotics – A Precious Resource Tales Animated Video</strong>
-</p>
+<p>Watch the video <a href="https://youtu.be/SzJ--vmuWIQ?si=r_VH-dtyiPzXez06" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Antibiotics – A Precious Resource Tales Animated Video</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Watch the animated snippet from the "<a href="https://youtu.be/g2uho_p35gs" rel="noopener noreferrer nofollow" target="_blank">The Antibiotic Tales</a>" comic by
 Mr Sonny Liew and Associate Professor Hsu Li Yang to learn why antimicrobials
 are a precious resource and ways in which you can help to reduce the spread
 of antimicrobial resistance.</p>
-<p>Click&nbsp;<a href="https://youtu.be/g2uho_p35gs" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-watch the video.</p>
-<hr>
-<h3>Frequently Asked Questions (FAQs) on AMR</h3>
+<p>Watch the video <a href="https://youtu.be/g2uho_p35gs" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</div>
+</details>
+</div>
 <p>Find answers to commonly answered questions about AMR here: <a href="/files/FAQ_on_AMR_Public.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ on AMR</a>
 </p>
 <p></p>

@@ -21,22 +21,22 @@ organisms through five core strategies:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Raising awareness and understanding of AMR and appropriate antimicrobial
-use through <strong>Education</strong>.</p>
+use through <strong><em>Education</em></strong>.</p>
 </li>
 <li>
 <p>Understanding the levels, distribution and trends of resistant organisms
-and antimicrobial use through regular <strong>Surveillance and Risk Assessment</strong>.</p>
+and antimicrobial use through regular <strong><em>Surveillance and Risk Assessment</em></strong>.</p>
 </li>
 <li>
 <p>Filling in gaps in knowledge and improving our understanding of the AMR
-situation through <strong>Research</strong>.</p>
+situation through <strong><em>Research</em></strong>.</p>
 </li>
 <li>
-<p>Reducing the spread of drug-resistant organisms through effective <strong>Prevention and Control of Infections</strong>.</p>
+<p>Reducing the spread of drug-resistant organisms through effective <strong><em>Prevention and Control of Infections</em></strong>.</p>
 </li>
 <li>
 <p>Reducing inappropriate use and preserving the effectiveness of medicines
-through the <strong>Optimisation of Antimicrobial Use</strong>.</p>
+through the <strong><em>Optimisation of Antimicrobial Use</em></strong>.</p>
 </li>
 </ol>
 <p>Read the NSAP <a href="https://www.ncid.sg/About-NCID/OurDepartments/Antimicrobial-Resistance-Coordinating-Office/Documents/National%20Strategic%20Action%20Plan%20on%20Antimicrobial%20Resistance.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>

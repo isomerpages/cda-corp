@@ -9,7 +9,7 @@ image: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CDA_Social_Media_Deck___11.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CDA_Social_Media_Deck___11.jpg">
 </div>
 <h4>In this enlightening podcast episode, we delve into the world of human challenge studies with Associate Professor Young, a leading expert in the field. Here are the key takeaways from our discussion:</h4>
 <ol>

@@ -11,13 +11,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CDA_Social_Media_Deck___11.jpg">
 </div>
-<h4>In this enlightening podcast episode, we delve into the world of human challenge studies with Associate Professor X, a leading expert in the field. Here are the key takeaways from our discussion:</h4>
+<h4>In this enlightening podcast episode, we delve into the world of human challenge studies with Associate Professor Young, a leading expert in the field. Here are the key takeaways from our discussion:</h4>
 <ol>
 <li>
 <p><strong>Definition of Human Challenge Studies</strong> Associate Professor
-X explains that human challenge studies involve deliberately exposing volunteers
-to pathogens under controlled conditions to study infections and test potential
-treatments or vaccines.</p>
+Young explains that human challenge studies involve deliberately exposing
+volunteers to pathogens under controlled conditions to study infections
+and test potential treatments or vaccines.</p>
 </li>
 <li>
 <p><strong>Ethical Considerations</strong> The professor emphasises the rigorous
@@ -31,9 +31,9 @@ vaccine development and provide unique insights into disease progression
 that are difficult to obtain through traditional clinical trials.</p>
 </li>
 <li>
-<p><strong>Recent Advancements</strong> Associate Professor X highlights recent
-breakthroughs in human challenge studies, including their role in COVID-19
-vaccine development.</p>
+<p><strong>Recent Advancements</strong> Associate Professor Young highlights
+recent breakthroughs in human challenge studies, including their role in
+COVID-19 vaccine development.</p>
 </li>
 <li>
 <p><strong>Future Directions</strong> The discussion concludes with thoughts

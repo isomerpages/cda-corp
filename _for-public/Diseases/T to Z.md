@@ -13,6 +13,6 @@ third_nav_title: Diseases
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/for-public/diseases/t-to-z/tuberculosis/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Tuberculosis</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/for-public/diseases/t-to-z/tuberculosis/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Tuberculosis</div><div class="isomer-card-description">Tuberculosis (TB) is an airborne disease and is highly contagious. It primarily affects the lungs but can also spread to other parts of the body. TB is curable but remains a significant public health concern.</div><div class="isomer-card-link">Learn More</div></div></a>
 </div>
 <p></p>

@@ -2,8 +2,8 @@ collections:
   research:
     output: true
     order:
-      - Research Coordination and Administration.md
       - About CDA Research.md
+      - Research Coordination and Administration.md
       - Background and Objectives.md
       - About the Research Team.md
       - Trending Publications.md

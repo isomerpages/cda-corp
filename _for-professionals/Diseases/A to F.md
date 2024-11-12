@@ -13,7 +13,7 @@ third_nav_title: Diseases
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/a-to-f/chlamydia/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Chlamydia</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/a-to-f/chlamydia/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Chlamydia</div><div class="isomer-card-description">Chlamydia is a common sexually transmitted infection (STI). It is caused by the bacterium Chlamydia trachomatis and can occur in both men and women. Pregnant women can also transmit the disease to their babies. Chlamydia is easily treated and cured with antibiotics. </div><div class="isomer-card-link">Learn More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/page-under-construction/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">C Lorem Ipsum</div>

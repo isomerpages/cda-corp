@@ -2,6 +2,7 @@ collections:
   research:
     output: true
     order:
+      - Research Coordination and Administration.md
       - About CDA Research.md
       - Background and Objectives.md
       - About the Research Team.md

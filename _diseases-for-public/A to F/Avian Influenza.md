@@ -167,9 +167,68 @@ to those of regular flu:</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>How is Avian Influenza Treated?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Treatment may vary, depending on your symptoms. If the disease is caught
+early, Tamiflu (Oseltamivir) is often the recommended treatment alongside
+symptomatic treatment. Tamiflu may also be offered to any family members
+who have been exposed to the virus as (prevention) prophylaxis.</p>
+<p>There is currently no vaccine available for humans, and the seasonal influenza
+vaccines do not protect against avian influenza infection.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How to Prevent Avian Influenza?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>To reduce risk of exposure to avian influenza, travellers to affected
+areas are advised to maintain their vigilance and adopt the following health
+precautions:</p>
+<ul>
+<li>
+<p>Observe and practise good personal hygiene at all times.</p>
+</li>
+<li>
+<p>Wash your hands regularly with soap, especially before handling food or
+eating, after going to the toilet, or when hands are dirty from coughing
+or sneezing. If water is not available, use an alcohol-based hand sanitiser
+that contains at least 60% alcohol.</p>
+</li>
+<li>
+<p>Avoid close contact with persons who are unwell or have symptoms of infectious
+diseases.</p>
+</li>
+<li>
+<p>Cover your mouth with a tissue when coughing or sneezing, and dispose
+the soiled tissue into the bin immediately. Avoid touching your face, including
+eyes, nose and mouth with unwashed hands after coughing or sneezing.</p>
+</li>
+<li>
+<p>Eat food that have been fully cooked and wash fruits and vegetables before
+eating them. Avoid eating raw or undercooked meat and seafood, milk/milk
+products, and food prepared in unhygienic conditions.</p>
+</li>
+<li>
+<p>Avoid visits to commercial or backyard poultry farms, live bird markets
+and dairy farms.</p>
+</li>
+<li>
+<p>Avoid contact with potentially sick or dead birds and animals.</p>
+</li>
+<li>
+<p>Avoid contact with animal waste or untreated bird feathers.</p>
+</li>
+<li>
+<p>Wash your hands thoroughly with soap and water after handling live or
+dead poultry and birds.</p>
+</li>
+<li>
+<p>Wear a mask and seek medical attention promptly if you become unwell or
+develop respiratory symptoms such as cough or runny nose, and inform the
+doctor of your travel history.</p>
+</li>
+</ul>
 </div>
 </details>
 </div>

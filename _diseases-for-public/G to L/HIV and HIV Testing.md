@@ -381,5 +381,108 @@ as prescribed can suppress their HIV viral load to an undetectable level
 (i.e. Undetectable = Untransmittable, U=U).</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Educational Materials</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>National HIV Recommendations and Guidelines&nbsp;</p>
+<p>Developed by the National HIV Programme (NHIVP), the following recommendations
+and guidelines are used to promote HIV prevention, treatment, and care:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>HIV Testing Recommendations;</p>
+</li>
+<li>
+<p>Pre-Exposure Prophylaxis (PrEP) Guidance;</p>
+</li>
+<li>
+<p>Antiretroviral Therapy (ART) Recommendations; and&nbsp;</p>
+</li>
+<li>
+<p>Primary Care Recommendations.</p>
+</li>
+</ul>
+<p>Find the guidelines <a href="https://www.ncid.sg/nhivp" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
+<p>National Campaigns</p>
+<p>The NHIVP and its partners develop education campaigns aimed at debunking
+HIV myths and misconceptions, promoting HIV prevention, testing and treatment,
+and stopping HIV stigma.&nbsp;</p>
+<p>HIV Doesn’t Differentiate (2022 &amp; 2023)</p>
+<p>&nbsp;</p>
+<p><u>Content Pieces</u>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=spkGLUw92No" rel="noopener noreferrer nofollow" target="_blank">Why you need to do a HIV test right now</a>,
+R u okay, NCID, 2023</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.awedio.sg/podcast-ep/095934d8-0824-439e-87de-b0ca001e3a40/" rel="noopener noreferrer nofollow" target="_blank">The Brightside with Carol, Lavinia &amp; Shehzad</a>,
+ONE FM, DSC Clinic, 2023&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ​健康粉&nbsp;tastic with Violet Fenying:&nbsp;
+<a href="https://fb.watch/pF_J5MrDfw/" rel="noopener noreferrer nofollow" target="_blank">Dr Lee Pei Hua</a>&nbsp;(NCID),&nbsp;<a href="https://fb.watch/pF_BLjD2Wj/" rel="noopener noreferrer nofollow" target="_blank">Dr Edwin Sng</a>&nbsp;(CGH), Love 97.2,
+2023</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch belt with Aura Shai:&nbsp;
+<a href="https://fb.watch/oShrziwEm5/?mibextid=Nif5oz" rel="noopener noreferrer nofollow" target="_blank">Dr Terrence Chiew</a>&nbsp;(NSC),&nbsp;<a href="https://www.facebook.com/share/v/9DUHFKQonvNRsZhF/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank">Dr Dhiya Metussin</a>&nbsp;(NCID),
+Warna, 2023</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vanakkam Singai with Haleema &amp;
+Rafi, SGH:&nbsp;<a href="https://fb.watch/pFZizwzg-U/?mibextid=Nif5oz" rel="noopener noreferrer nofollow" target="_blank">Session 1</a>,&nbsp;
+<a href="https://fb.watch/pFZeOrkXgB/?mibextid=Nif5oz" rel="noopener noreferrer nofollow" target="_blank">Session 2</a>, Oli 968, 2023</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.channelnewsasia.com/advertorial/when-it-comes-hiv-getting-tested-only-way-be-sure-3122431" rel="noopener noreferrer nofollow" target="_blank">When it Comes to HIV, Getting Tested is the Only Way to be Sure</a>,
+CNA, NCID, 2022</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=fVHiAMTVvV4" rel="noopener noreferrer nofollow" target="_blank">There’s a “Plan B” Pill that Prevents HIV Infection?</a>,
+MOSG, The Daily Ketchup #162, NCID, 2022</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=ZKuWF-30Kbg" rel="noopener noreferrer nofollow" target="_blank">ABCD 证明你的爱</a>, King
+Kong Media Production, 2022</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://youtu.be/g7_W6YCnYUg" rel="noopener noreferrer nofollow" target="_blank">HIV (What Do We Know?) – Just Saying</a>,
+The Backstage Bunch, DSC Clinic, 2023</p>
+<p>With Early and Effective Treatment, People Living with HIV Can Lead Lives
+No Different from Others (2021)&nbsp;</p>
+<p></p>
+<p><u>&nbsp;</u>
+</p>
+<p><u>Content Pieces</u>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://mothership.sg/2021/12/living-with-hiv-half-truths/" rel="noopener noreferrer nofollow" target="_blank">Living with HIV Half-truths</a>,
+Mothership, NCID, 2021</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.ricemedia.co/risk-diclosing-hiv-status-workplace/" rel="noopener noreferrer nofollow" target="_blank">Is Silence Really Golden When it Comes to Disclosing HIV Status at Work?</a>,
+Rice Media Editorial piece, SNEF, 2022</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=Z2f54rzgWF8" rel="noopener noreferrer nofollow" target="_blank">Why is HIV Still Taboo in Singapore?</a>,
+MOSG TDK #61, NCID, 2022</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://youtu.be/AerIvqLfzpg" rel="noopener noreferrer nofollow" target="_blank">The REAL HIV Issue in Singapore</a> -
+Despite decades of research and development, medical advancements, and
+public education, why do people living with HIV in Singapore continue to
+face stigma and discrimination?, MOSG Micro-documentary, NUH, 2022</p>
+<p>It’s Time to Spread the Facts (2019)</p>
+<p></p>
+<p>Click the poster to watch the campaign videos.</p>
+<p>Articles in Media and Publications&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.channelnewsasia.com/singapore/new-hiv-infections-among-singapore-residents-fall-lowest-level-1998-3558166" rel="noopener noreferrer nofollow" target="_blank">New HIV Infections Among Singapore Residents Fall to Lowest Level Since 1998</a>,
+CNA, 2023</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.beritaharian.sg/wacana/hiv-boleh-dirawat" rel="noopener noreferrer nofollow" target="_blank">HIV can be Treated</a>,
+Berita Harian, 2023</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.herworld.com/life/wellness/health-matters-why-we-need-to-destigmatise-hiv/" rel="noopener noreferrer nofollow" target="_blank">Health Matters: Why We Need to Destigmatise Attitudes Towards HIV</a>,
+Her World, 2022</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.ncid.sg/About-NCID/Pages/Infectious-Disease-Intelligence.aspx" rel="noopener noreferrer nofollow" target="_blank">Living with HIV in an Age of COVID-19</a>,
+NCID Intelligence, 2022</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.ncid.sg/Health-Professionals/Articles/Pages/Ending-HIV-(and-it%27s-stigma)-in-Singapore---the-ambitious-goal-of-the-National-HIV-Programme.aspx" rel="noopener noreferrer nofollow" target="_blank">Ending HIV (and its stigma) in Singapore - the Ambitious Goal of the NHIVP</a>,
+NCID, 2021</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.ncid.sg/News-Events/News/Pages/HIV-and-COVID-19-Lessons-from-two-plagues.aspx" rel="noopener noreferrer nofollow" target="_blank">HIV and COVID-19: Lessons from Two Plagues</a>,
+The Straits Times, 2020</p>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.straitstimes.com/opinion/need-to-maintain-trust-with-people-living-with-hiv" rel="noopener noreferrer nofollow" target="_blank">Need to Maintain Trust with People Living with HIV</a>,
+The Straits Times, 2019</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>About the National HIV Programme</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The National HIV Programme (NHIVP) is a nationwide programme to end HIV
+in Singapore. Led by &nbsp;the Communicable Diseases Agency (CDA), NHIVP
+encompasses clinical HIV management; formulation and recommendations for
+national guidelines and policymaking; surveillance; training of healthcare
+workers; and public education.</p>
+<p>Through these efforts, the NHVIP aims to achieve the UNAIDS 90-90-90 /
+95-95-95 targets, provide quality and holistic patient-centred care for
+those living with HIV in Singapore, and foster environments free from stigma
+and discrimination. Get more information on the programme <u>here</u>.</p>
+</div>
+</details>
 </div>
 <p></p>

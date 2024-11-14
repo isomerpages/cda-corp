@@ -228,9 +228,157 @@ Site (ATS).&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Understanding HIV Test Results</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>You Tested Negative for HIV. What’s Next?</p>
+<p>A negative result means there were no signs of a HIV infection in your
+sample. However, you might still be infected because HIV takes about one
+to six weeks to incubate. The time between potential exposure and testing
+is called the window period.</p>
+<p>Different HIV tests have different window periods. Ask your healthcare
+provider about the window period for the HIV test you are taking. For HIV
+self-test kits, you can find the information &nbsp;in the package.&nbsp;</p>
+<p>If you have a negative HIV test result and the last possible HIV exposure
+was:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Less than 72 hours ago</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You may need post-exposure prophylaxis (PEP) (see PEP below under ‘HIV
+Prevention and Treatment’).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Less than 90 days ago</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You will need to repeat the HIV test.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>If you get a negative test result again after the window period, and have
+no possible HIV exposure during that time, then you do not have HIV.&nbsp;</p>
+<p>You Tested HIV Positive, What’s Next?</p>
+<p>All positive test results require a follow-up test for confirmation.&nbsp;</p>
+<p>If you test positive:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>On a HIV self-test kit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Repeat the testing at a healthcare facility; includes <a href="https://www.healthhub.sg/a-z/diseases-and-conditions/18/topics_hiv_aids" rel="noopener noreferrer nofollow" target="_blank">anonymous testing</a> sites.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>At a healthcare facility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Repeat testing will be done automatically.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>If you get a positive test result again, it means you have HIV.&nbsp;</p>
+<p>What to do When Diagnosed with HIV?</p>
+<p>There is currently no effective cure for HIV, but it can be controlled
+with proper care. This can be done through antiretroviral therapy (ART).
+With early detection and treatment, people living with HIV can live long,
+healthy lives, and protect their partners.&nbsp;</p>
+<p>HIV treatment is available in most public hospitals like the <a href="https://www.ncid.sg/Facilities-Services/Services/Pages/Clinical-HIV-Programme.aspx" rel="noopener noreferrer nofollow" target="_blank">National Centre for Infectious Diseases (NCID)</a>,
+<a href="https://www.nuh.com.sg/care-at-nuh/specialties/medicine/infectious-diseases" rel="noopener noreferrer nofollow" target="_blank">National University Hospital (NUH)</a>, Singapore General Hospital (SGH),
+and Changi General Hospital (CGH); and private healthcare institutions
+in Singapore. Most HIV medications are <a href="https://www.moh.gov.sg/healthcare-schemes-subsidies/subsidised-drug-list" rel="noopener noreferrer nofollow" target="_blank">subsidised</a>,
+making them accessible and affordable.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How to Prevent HIV?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>How to Prevent Getting HIV?</p>
+<p>Staying HIV negative means:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Practising the ABCD approach to prevent HIV (Abstinence from casual sex,
+Be faithful, Correct and consistent condom usage, and early Detection);</p>
+</li>
+<li>
+<p>Considering taking pre-exposure prophylaxis (PrEP) treatment if there
+is ongoing risk (see PrEP below under ‘HIV Prevention and Treatment’);
+and</p>
+</li>
+<li>
+<p>Testing regularly for HIV, or every 3–6 months if you engage in risky
+behaviours.&nbsp;&nbsp;&nbsp;</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>What is Pre-exposure Prophylaxis (PrEP) Treatment?</p>
+<p>Pre-exposure Prophylaxis (PrEP) is a risk-reduction treatment against
+HIV. When taken as prescribed, PrEP is highly effective at preventing HIV
+infection. PrEP only protects against HIV, so condom use is still important
+to prevent other sexually transmitted infections (STIs).&nbsp;</p>
+<p>Find out if PrEP is suitable for you <a href="https://form.gov.sg/633d18823c24b6001161899a" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
+<p>Talk to your doctor if you are interested in PrEP.</p>
+<p>What is Post-exposure Prophylaxis (PEP) Treatment?</p>
+<p>Post-exposure prophylaxis (PEP) is a short course of HIV medicine to prevent
+its transmission. It must be used within 72 hours of possible high-risk
+exposure and should only be used during emergencies. High-risk exposure
+to HIV includes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Any unprotected anal or vaginal sex with someone who is HIV positive or
+belongs to a HIV-risk group (commercial sex workers, IV drug users, men
+who have sex with men, or bisexual men);</p>
+</li>
+<li>
+<p>Sharing or exposure to contaminated needles or blades, particularly needle-stick
+injuries; or</p>
+</li>
+<li>
+<p>Victims of sexual assault.</p>
+</li>
+</ul>
+<p>PEP is not meant for regular use, and it is not a substitute for other
+HIV prevention methods such as consistent condom use. You should consider
+PrEP instead if you are repeatedly exposed to HIV.</p>
+<p>Talk to your doctor if you think you need PEP. Should you require PEP
+during emergencies, please visit the Emergency Department of any public
+hospital and request for it.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How to Treat HIV?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>What is Antiretroviral Therapy (ART)?</p>
+<p>Antiretroviral Therapy (ART) is recommended for all individuals living
+with HIV. Although ART cannot cure HIV, it can control the virus and help
+them live longer, healthier lives. ART can also reduce the risk of HIV
+transmission, but it does not prevent transmission of other STIs.</p>
+<p>What is Treatment as Prevention (TasP)?</p>
+<p>Treatment as Prevention (TasP) refers to the use of HIV medicine to decrease
+the risk of HIV transmission. People living with HIV who take the medicine
+as prescribed can suppress their HIV viral load to an undetectable level
+(less than 50 copies/ml), reducing the risk of HIV transmission to others
+(i.e. Undetectable = Untransmittable, U=U).</p>
 </div>
 </details>
 </div>

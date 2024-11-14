@@ -82,8 +82,6 @@ their contaminated environment.</p>
 animal products (e.g. unpasteurized milk).</p>
 </li>
 </ul>
-<p>Slaughtering, de-feathering, handling or preparing infected birds for
-consumption may increase the risks of contracting the avian influenza infection.</p>
 <p>There is currently no evidence to suggest that the virus can be spread
 through the consumption of properly prepared poultry or eggs, although
 a few cases have been linked to consumption of dishes containing raw, contaminated
@@ -146,6 +144,24 @@ to those of regular flu:</p>
 </li>
 <li>
 <p>Conjunctivitis</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What are the Risk Factors?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Risk Factors Include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Slaughtering</p>
+</li>
+<li>
+<p>De-feathering</p>
+</li>
+<li>
+<p>Handling or preparing infected birds for consumption</p>
 </li>
 </ul>
 </div>

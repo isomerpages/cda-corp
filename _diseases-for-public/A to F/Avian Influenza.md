@@ -94,5 +94,67 @@ to transmit easily between humans.</p>
 <p>The incubation period is about 1 to 10 days.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>What are the Symptoms of Avian Influenza?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The most common symptoms of human infection with avian influenza are similar
+to those of regular flu:</p>
+<ul>
+<li>
+<p>High fever (usually over 38 degrees Celsius)</p>
+</li>
+<li>
+<p>Cough</p>
+</li>
+<li>
+<p>Sore throat</p>
+</li>
+<li>
+<p>Runny nose</p>
+</li>
+<li>
+<p>Phlegm</p>
+</li>
+<li>
+<p>Difficulty breathing</p>
+</li>
+<li>
+<p>Headaches</p>
+</li>
+<li>
+<p>Muscle or body aches</p>
+</li>
+<li>
+<p>Fatigue</p>
+</li>
+</ul>
+<p>
+<br>Other possible symptoms include:</p>
+<ul>
+<li>
+<p>Diarrhoea</p>
+</li>
+<li>
+<p>Nausea</p>
+</li>
+<li>
+<p>Vomiting</p>
+</li>
+<li>
+<p>Seizures</p>
+</li>
+<li>
+<p>Conjunctivitis</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>

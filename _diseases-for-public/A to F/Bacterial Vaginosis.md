@@ -70,5 +70,61 @@ for pregnant women with BV);</p>
 </ul>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>What are the Risk Factors?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Risk factors include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Vaginal douching;</p>
+</li>
+<li>
+<p>Having oral sex;</p>
+</li>
+<li>
+<p>Recent change of sex partner;&nbsp;</p>
+</li>
+<li>
+<p>Smoking; or</p>
+</li>
+<li>
+<p>Having an STI.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How to Treat BV?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>If you have BV, you should avoid vaginal douching, using shower gels,
+antiseptic agents, or shampoos in the bath.&nbsp;</p>
+<p>Follow-up with your doctor is not necessary if symptoms resolve. If you
+are pregnant and are facing the aforementioned risk factors, a follow-up
+visit after one month is recommended.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How to Prevent BV?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Ways to prevent BV include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Avoiding douching and using feminine sprays;</p>
+</li>
+<li>
+<p>Not having sex;</p>
+</li>
+<li>
+<p>Limiting the number of sexual partners; and</p>
+</li>
+<li>
+<p>Using condoms consistently and correctly.</p>
+</li>
+</ul>
+</div>
+</details>
 </div>
 <p></p>

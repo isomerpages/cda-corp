@@ -22,7 +22,7 @@ the acidity of a vagina.</div>
 2019 and quickly spread across the world.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/page-under-construction/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">C Lorem Ipsum</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/for-public/diseases/a-to-f/dengue/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Dengue</div><div class="isomer-card-description">Dengue fever is a disease caused by the dengue virus which is transmitted to humans via the bite of an infective mosquito.</div><div class="isomer-card-link">Learn More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/page-under-construction/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">C Lorem Ipsum</div>

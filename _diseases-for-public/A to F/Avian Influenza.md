@@ -231,5 +231,16 @@ doctor of your travel history.</p>
 </ul>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>What are the Potential Complications of Avian Influenza</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The signs and symptoms of human infection with avian influenza viruses
+range from mild respiratory symptoms to severe illnesses such as pneumonia.
+The disease may progress rapidly, leading to respiratory failure with acute
+respiratory distress syndrome (ARDS) and multiple organ failure, and may
+result in death.</p>
+</div>
+</details>
 </div>
 <p></p>

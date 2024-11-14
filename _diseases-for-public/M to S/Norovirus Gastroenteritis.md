@@ -87,7 +87,7 @@ by drinking plenty of liquids. Seek medical attention if necessary.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How is Norovirus treated?</strong>
+<summary><strong>How is Norovirus Treated?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>There is no specific treatment to treat norovirus illness, most people

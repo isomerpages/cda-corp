@@ -64,9 +64,34 @@ viruses are circulating in poultry.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>How is Avian Influenza Transmitted?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Human infection with avian influenza virus is primarily acquired through:</p>
+<ul>
+<li>
+<p>Direct or close contact with potentially sick or dead birds and other
+animals (e.g. mammals).</p>
+</li>
+<li>
+<p>Direct exposure to secretions or excretions from infected animals, or
+their contaminated environment.</p>
+</li>
+<li>
+<p>Consumption or exposure to infected animals’ undercooked or unprocessed
+animal products (e.g. unpasteurized milk).</p>
+</li>
+</ul>
+<p>Slaughtering, de-feathering, handling or preparing infected birds for
+consumption may increase the risks of contracting the avian influenza infection.</p>
+<p>There is currently no evidence to suggest that the virus can be spread
+through the consumption of properly prepared poultry or eggs, although
+a few cases have been linked to consumption of dishes containing raw, contaminated
+poultry blood.</p>
+<p>Based on current available evidence, avian influenza viruses have not
+developed the capability to easily infect humans and other mammals, nor
+to transmit easily between humans.</p>
+<p>The incubation period is about 1 to 10 days.</p>
 </div>
 </details>
 </div>

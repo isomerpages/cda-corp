@@ -6,7 +6,7 @@ description: ""
 third_nav_title: A to F
 ---
 <h2>Understanding Chlamydia: Causes, Symptoms, and Treatments</h2>
-<p><em>Bacteria name</em>
+<p><em>Chlamydia trachomatis</em>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -22,7 +22,7 @@ It is easily treated and cured with antibiotics.</p>
 <summary><strong>How is Chlamydia Transmitted?&nbsp;&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Chlamydia can be transmitted through vaginal, anal, or oral sex.</p>
+<p>Chlamydia can be transmitted through vaginal, anal, or oral sex.&nbsp;</p>
 <p>Common scenarios include:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -34,14 +34,12 @@ time they are used;</p>
 </li>
 <li>
 <p>Infected semen or vaginal fluid getting into your eye.</p>
-<p></p>
 </li>
 </ul>
 <p>Pregnant women can also transmit chlamydia to their babies.</p>
-<p></p>
 <p>Chlamydia cannot be spread through casual contact, such as kissing and
-hugging, or from sharing baths, towels, swimming pools, toilet seats or
-cutlery.</p>
+hugging, or from sharing bathtubs, towels, swimming pools, toilet seats
+or cutlery.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -71,13 +69,13 @@ are usually mild and appear one to three weeks after exposure.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Burning when urinating;</p>
+<p>Burning sensation when urinating;</p>
 </li>
 <li>
 <p>Discharge from the penis; or</p>
 </li>
 <li>
-<p>Pain or discomfort in the testicles</p>
+<p>Pain or discomfort in the testicles.</p>
 </li>
 </ul>
 </td>

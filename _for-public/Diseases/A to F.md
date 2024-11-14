@@ -15,10 +15,11 @@ the acidity of a vagina.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/for-public/diseases/a-to-f/chlamydia/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Chlamydia</div><div class="isomer-card-description">Chlamydia is a common sexually transmitted infection (STI). It can occur in both men and women. Pregnant women can also transmit the disease to their babies. Chlamydia is easily treated and cured with antibiotics.</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/page-under-construction/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/for-public/diseases/a-to-f/covid-19/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">C Lorem Ipsum</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">COVID-19</div>
+<div class="isomer-card-description">COVID-19 is a disease caused by the SARS-CoV-2 virus that emerged in late
+2019 and quickly spread across the world.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/page-under-construction/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">C Lorem Ipsum</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn More</div></div></a>

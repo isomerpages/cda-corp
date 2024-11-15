@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Careers
 ---
 <h2>Pursue Your Future in Healthcare</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDA_HR_Visual.jpg">
+</div>
 <p>Learn more about the available opportunities of scholarships, grants,
 fellowships, and internships designed to support your journey and propel
 your healthcare career forward. Here is your one-stop shop for exploring

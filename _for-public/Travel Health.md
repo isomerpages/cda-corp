@@ -13,7 +13,8 @@ description: ""
 stay well throughout their travels. Learn more below:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Food and Water Consumption</summary>
+<summary><strong>Food and Water Consumption</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Travellers’ diarrhoea is the most common infectious problem encountered
 by travellers. Follow these tips for safe consumption of food and drink:</p>
@@ -44,7 +45,8 @@ salads.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Treatment of Travellers' Diarrhoea</summary>
+<summary><strong>Treatment of Travellers' Diarrhoea</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Diseases from food and water cause diarrhoea, vomiting, as well as fever
 in severe cases. Most cases of travellers’ diarrhoea will improve after

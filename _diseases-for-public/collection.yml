@@ -2,6 +2,7 @@ collections:
   diseases-for-public:
     output: true
     order:
+      - A to F/Testtttt.md
       - A to F/.keep
       - A to F/Avian Influenza.md
       - A to F/Bacterial Vaginosis.md

@@ -4,7 +4,69 @@ permalink: /one-health/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h3>Definition and Overview of One Health</h3>
+<p>One Health is an integrated, unifying approach that aims to sustainably
+balance and optimize the health of people, animals and ecosystems. It recognizes
+the health of humans, domestic and wild animals, plants, and the wider
+environment (including ecosystems) are closely linked and inter-dependent.
+The approach mobilizes multiple sectors, disciplines and communities at
+varying levels of society to work together to foster well-being and tackle
+threats to health and ecosystems, while addressing the collective need
+for clean water, energy and air, safe and nutritious food, taking action
+on climate change, and contributing to sustainable development.</p>
+<p>Central to this definition is taking One Health from theory to practice
+through 4Cs: Communication, Coordination, Collaboration, and Capacity Building.
+The approach is supported by four major international organisations, the
+Food and Agriculture Organization of the United Nations (FAO), the World
+Organisation for Animal Health (WOAH), the UN Environment Programme (UNEP)
+and the World Health Organization (WHO).</p>
+<p>The concept of One Health is not new, as there has always been a need
+for the human health, animal health and environmental health agencies to
+work together to address cross-sectoral areas.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Key One Health Issues</p>
+</li>
+</ul>
+<p>One Health encompasses a wide range of interconnected issues affecting
+humans, animals, and the environment. These include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Zoonotic diseases: Both emerging and re-emerging, as well as those endemic
+to the Southeast Asian region</p>
+</li>
+<li>
+<p>Neglected tropical diseases and vector-borne illnesses</p>
+</li>
+<li>
+<p>Challenges to food safety and security</p>
+</li>
+<li>
+<p>Antimicrobial resistance (AMR)</p>
+</li>
+</ul>
+<p>To illustrate, at the global level:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Risk drivers such as climate change and international trade and travel
+of people, animals and food supply contribute to expanding habitats for
+disease vectors like mosquitoes, leading to an increase in associated illnesses.</p>
+</li>
+<li>
+<p>Zoonotic diseases can jeopardise food production, affecting livelihoods
+and economic stability.</p>
+</li>
+<li>
+<p>Contaminated water sources used for consumption, leisure, and other purposes
+pose health risks to both people and animals.</p>
+</li>
+<li>
+<p>AMR pathogens can spread rapidly through various channels, including communities,
+food chains, healthcare settings, and the environment, complicating treatment
+for both humans and animals (For more information on Singapore’s National
+Strategic Action Plan on AMR, please refer to: <a href="https://www.ncid.sg/About-NCID/OurDepartments/Antimicrobial-Resistance-Coordinating-Office/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">https://www.ncid.sg/About-NCID/OurDepartments/Antimicrobial-Resistance-Coordinating-Office/Pages/default.aspx</a>)</p>
+</li>
+</ul>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Definition<sup>1</sup> and Overview of One Health</strong>

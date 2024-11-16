@@ -23,7 +23,7 @@ description: ""
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Raymond_Lin.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Raymond Lin Tzer Pin (Director)</strong>
 </p>
 <p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>

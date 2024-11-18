@@ -6,14 +6,16 @@ description: ""
 ---
 <h2>Staying Healthy Abroad</h2>
 <p>All the information you need to stay healthy while travelling.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Coronavirus: All travellers arriving in Singapore must submit ..." src="https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2020/03/23/yq-changiairport-23032020.jpg?VersionId=6Kd5cNAegRaUxMFYgF3DynB0ZkxdF9YE">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDA_Travel_health_Placeholder.jpg">
 </div>
 <p>This page provides resources and information to help Singapore residents
 stay well throughout their travels. Learn more below:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Food and Water Consumption</summary>
+<summary><strong>Food and Water Consumption</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Travellers’ diarrhoea is the most common infectious problem encountered
 by travellers. Follow these tips for safe consumption of food and drink:</p>
@@ -44,7 +46,8 @@ salads.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Treatment of Travellers' Diarrhoea</summary>
+<summary><strong>Treatment of Travellers' Diarrhoea</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Diseases from food and water cause diarrhoea, vomiting, as well as fever
 in severe cases. Most cases of travellers’ diarrhoea will improve after

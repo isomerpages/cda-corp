@@ -18,7 +18,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width:30%" rowspan="1" colspan="1">
+<td width="30%" rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Raymond_Lin.jpg">
 </div>
@@ -26,7 +26,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Raymond Lin Tzer Pin (Director)</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -39,7 +39,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Nancy Tee Wen Sim</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -52,7 +52,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Gabriel Yan</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -65,7 +65,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Douglas Chan</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -78,7 +78,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Yang Huina</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -97,7 +97,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Cui Lin (Senior Principal Scientific Officer)</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -111,7 +111,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Michelle Ang Lay Teng (Senior Scientific Officer)</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -124,7 +124,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Carmen Low (Senior Scientific Officer)</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -137,7 +137,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Chavatte Jean-Marc Gilbert (Senior Scientific Officer)</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -151,7 +151,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Ngan Jie Yin (Scientific Officer)</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -164,7 +164,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Benny Yeo Ken Yee (Scientific Officer)</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -177,7 +177,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Daniel Lim Rui Xiang (Scientific Officer)</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -190,7 +190,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Cho Su Lei Sharol (Scientific Officer)</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -203,7 +203,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Ding Yichen (Scientific Officer)</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -216,7 +216,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Chu Hon Weng Wilson (Scientific Officer)</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -235,7 +235,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Head, Laboratory Ops (Roger)</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -248,7 +248,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Biosafety Specialist</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -261,7 +261,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Laboratory Information System Specialist</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>
@@ -274,7 +274,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Quality Officer</strong>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
+<p><a href="/page-under-construction/" rel="noopener noreferrer nofollow" target="_blank">More -&gt;</a>
 </p>
 </td>
 </tr>

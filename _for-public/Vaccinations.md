@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2>Building Immunity Through Vaccinations</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDA_Vaccination_Placeholder.jpg">
+</div>
 <p>Vaccinations protect you and your loved ones from illnesses like influenza
 and pneumococcal disease. Get vaccinated – it's the best defense against
 serious complications preventable diseases can cause.</p>

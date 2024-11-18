@@ -2,6 +2,7 @@ collections:
   for-professionals:
     output: true
     order:
+      - Infection, Prevention/.keep
       - Diseases/.keep
       - Diseases/A to F.md
       - Diseases/G to L.md
@@ -12,18 +13,15 @@ collections:
       - One Health.md
       - Antimicrobial Resistance/.keep
       - Antimicrobial Resistance/About Antimicrobial Resistance.md
-      - Antimicrobial Resistance/About the Antimicrobial Resistance Coordinating
-        Office (AMRCO).md
-      - Antimicrobial Resistance/About Singapore’s National Strategic Action
-        Plan (NSAP) on AMR.md
-      - Healthcare Epidemiology.md
+      - Antimicrobial Resistance/About NSAP on AMR.md
+      - Antimicrobial Resistance/About AMRCO.md
+      - IPC and HE.md
       - Professional Training.md
       - National TB Programme/.keep
       - National TB Programme/About NTBP.md
-      - National TB Programme/History and Goals.md
-      - National TB Programme/Organisation Structure.md
-      - National TB Programme/Info Sheet.md
-      - National TB Programme/Media Spotlight.md
+      - National TB Programme/NTBP Director's Message.md
+      - National TB Programme/Organisation Chart.md
+      - National TB Programme/Resources.md
       - National TB Programme/Contact Us.md
       - National HIV Programme/.keep
       - National HIV Programme/About NHIVP.md

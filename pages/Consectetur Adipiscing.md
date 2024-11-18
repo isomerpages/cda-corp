@@ -10,7 +10,7 @@ doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
 veritatis et quasi architecto.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">Sed ut perspiciatis unde omnis </a>
+<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">Sed ut perspiciatis unde omnis</a>
 </p>
 </li>
 <li>
@@ -30,4 +30,16 @@ veritatis et quasi architecto.</p>
 </p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Test Title</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This is my test content ed ut perspiciatis unde omnis iste natus error
+sit voluptatem accusantium doloremed ut perspiciatis unde omnis iste natus
+error sit voluptatem accusantium dolorem</p>
+</div>
+</details>
+</div>
 <p></p>

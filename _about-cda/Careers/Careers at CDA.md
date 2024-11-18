@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Careers
 ---
 <h2>Make Your Mark on Public Health with CDA</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDA_Careers_Visual.jpg">
+</div>
 <p>A career in public health can be challenging yet rewarding. If you believe
 in creating positive change and making a real difference, we invite you
 to explore the exciting opportunities available at CDA.</p>

@@ -36,7 +36,8 @@ sections:
       announcement_items:
         - title: Dengue Screening
           date: 10 June 2024
-          announcement: Get screened at a polyclinic near you.
+          announcement: Early detection is key to fighting dengue. Schedule a screening at
+            a polyclinic near you today.
           link_text: Learn more
           link_url: https://safe.menlosecurity.com/https://staging-lite.d1j7qe69dakcfb.amplifyapp.com/dengue-screening-2025/
         - title: Travel Advisory

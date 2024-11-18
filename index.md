@@ -38,7 +38,7 @@ sections:
           date: 10 June 2024
           announcement: Get screened at a polyclinic near you.
           link_text: Learn more
-          link_url: https://www.ncid.sg/Health-Professionals/Diseases-and-Conditions/Pages/Dengue.aspx
+          link_url: https://safe.menlosecurity.com/https://staging-lite.d1j7qe69dakcfb.amplifyapp.com/dengue-screening-2025/
         - title: Travel Advisory
           date: 11 June 2024
           announcement: Zika virus outbreak in parts of South America. Get travel advisory

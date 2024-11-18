@@ -45,7 +45,7 @@ sections:
           announcement: Zika virus outbreak in parts of South America. Get travel advisory
             updates below.
           link_text: Learn more
-          link_url: https://www.ncid.sg/For-General-Public/Travel-Health/Pages/default.aspx
+          link_url: https://safe.menlosecurity.com/https://staging-lite.d1j7qe69dakcfb.amplifyapp.com/travel-advisories/
         - title: New COVID-19 Booster Available
           date: 10 June 2024
           announcement: The latest bivalent booster shot is now available for eligible

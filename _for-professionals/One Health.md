@@ -31,7 +31,7 @@ work together to address cross-sectoral areas.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Key One Health Issues</strong> 
+<summary><strong>Key One Health Issues</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>One Health encompasses a wide range of interconnected issues affecting

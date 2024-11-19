@@ -5,23 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: G to L
 ---
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Overview/Background</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Human Immunodeficiency Virus (HIV) is a retrovirus that attacks the immune
+<h2>Overview</h2>
+<p>Human immunodeficiency virus (HIV) is a retrovirus that attacks the immune
 system, specifically the CD4 cells (T cells), which help the immune system
-fight off infections. If left untreated, HIV can cause a weakened immune
-system or Acquired Immunodeficiency Syndrome (AIDS). AIDS is a late or
-advanced stage of HIV infection that occurs when the CD4 cell count falls
-below 200 cells/mm<sup>3 </sup>or when an individual develops one or more
-opportunistic infections regardless of the CD4 count.</p>
-<p>&nbsp;</p>
+fight infections. If left untreated, HIV can cause a weakened immune system
+or acquired mmunodeficiency syndrome (AIDS). AIDS is a late or advanced
+stage of HIV infection that occurs when the CD4 cell count falls below
+200 cells/mm<sup>3 </sup>or when an individual develops one or more opportunistic
+infections regardless of the CD4 count.</p>
 <p>HIV can be treated and prevented with antiretroviral therapy (ART). While
 there is no cure for HIV, it is now considered a manageable chronic condition.</p>
-</div>
-</details>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Disease Epidemiology</strong>
 </summary>
@@ -31,13 +25,12 @@ with HIV worldwide and 630,000 people died of AIDS-related illness in 2022.
 It disproportionately affects resource-poor countries and certain groups
 of populations, including men who have sex with men (MSM), sex workers
 and their clients, and people who inject drugs.</p>
-<p>&nbsp;</p>
-<p>In 2022, there were 202 new cases of human immunodeficiency virus (HIV)
-infections&nbsp;reported among Singapore residents. 51% of the new cases
-had late-stage HIV infection&nbsp;when they were diagnosed. Sexual intercourse
-remains the main mode of HIV transmission, accounting for 93% of the cases.
-Heterosexual transmission accounted for 37% of all cases, while 51% and
-4% of the cases were due to homosexual and bisexual transmissions respectively.&nbsp;&nbsp;</p>
+<p>In 2022, there were 202 new cases of HIVinfections&nbsp;reported among
+Singapore residents. 51% of the new cases had late-stage HIV infection&nbsp;when
+they were diagnosed. Sexual intercourse remains the main mode of HIV transmission,
+accounting for 93% of cases. Heterosexual transmission accounted for 37%
+of all cases, while 51% and 4% of cases were due to homosexual and bisexual
+transmissions respectively.&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -55,7 +48,6 @@ Heterosexual transmission accounted for 37% of all cases, while 51% and
 (blood, breast milk, semen and vaginal fluids) from a person with HIV,
 sharing of contaminated needles and syringes, and from mother to child
 during childbirth or breastfeeding.</p>
-<p>&nbsp;</p>
 <p><strong>Incubation period:</strong> The time from infection to development
 of detectable antibodies is generally 1 to 3months. Between 1 and 6 weeks
 (median 3 weeks) after exposure to HIV, some infected individuals may develop
@@ -143,26 +135,26 @@ sarcoma, cervical cancer)</p>
 <p>Risk factors include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Unprotected sex with a person who has a HIV detectable viral load</p>
+<p>Unprotected sex with a person who has a HIV detectable viral load;</p>
 </li>
 <li>
-<p>Having multiple sex partners</p>
+<p>Having multiple sex partners;</p>
 </li>
 <li>
-<p>Inconsistent condom use if the relationship is not monogamous</p>
+<p>Inconsistent condom use if the relationship is not monogamous;</p>
 </li>
 <li>
 <p>Engaging in sexual activities under the influence of alcohol or other
-drugs</p>
+drugs;</p>
 </li>
 <li>
-<p>Sharing needles, syringes or other drug injection equipment</p>
+<p>Sharing needles, syringes or other drug injection equipment;</p>
 </li>
 <li>
-<p>Persons who exchange sex for money or drugs</p>
+<p>Persons who exchange sex for money or drugs; or</p>
 </li>
 <li>
-<p>Past history or current presence of other STIs</p>
+<p>History or current presence of other STIs.</p>
 </li>
 </ul>
 </div>
@@ -179,14 +171,11 @@ can be confirmed. Conventional tests are those in which blood is collected
 and then sent to the laboratory for testing. Results from conventional
 tests are typically available from a few hours to a few days. HIV self-testing
 kits are also available as of August 2022 as part of a pilot programme.</p>
-<p>&nbsp;</p>
 <p>HIV tests are very accurate, but no test can detect the virus immediately
 after infection. The window period varies from person to person and is
 also dependent on the type of HIV test. A negative test should be repeated
-1 and 3 months after the last high-risk exposure for confirmation.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Please refer to <a href="https://www.ncid.sg/About-NCID/OurDepartments/Documents/2023%20NHIVP%20HIV%20testing%20recommendations.pdf" rel="noopener noreferrer nofollow" target="_blank">NHIVP’s HIV Testing Recommendations</a> for
+one and three months after the last high-risk exposure for confirmation.</p>
+<p>Refer to <a href="https://www.ncid.sg/About-NCID/OurDepartments/Documents/2023%20NHIVP%20HIV%20testing%20recommendations.pdf" rel="noopener noreferrer nofollow" target="_blank">NHIVP’s HIV Testing Recommendations</a> for
 more information.</p>
 </div>
 </details>
@@ -195,29 +184,44 @@ more information.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>ART is recommended for all individuals with HIV, regardless of CD4 cell
-count. It should be started for all individuals within 2 weeks of presentation
+count. It should be started for all individuals within two weeks of presentation
 to care, barring several exceptions:</p>
-<p></p>
-<p>(1) Tuberculosis (TB): We recommend that ART be started within 2 weeks
-of TB treatment initiation for patients with a CD4 count less than 50 cells/mm<sup>3</sup>,
-but started within 2-8 weeks of TB treatment initiation if the CD4 count
-is more than 50 cells/mm<sup>3</sup>.</p>
-<p></p>
-<p>(2) CMV retinitis: The optimal timing of ART initiation should be individualized.
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Tuberculosis (TB):</strong>&nbsp; ART should be started within
+2 weeks of TB treatment initiation for patients with a CD4 count less than
+50 cells/mm<sup>3</sup>, and started within 2–8 weeks of TB treatment initiation
+if the CD4 count is more than 50 cells/mm<sup>3</sup>.</p>
+</li>
+<li>
+<p><strong>CMV Retinitis</strong>: Initiation of ART should be individualised.
 Joint management by a HIV physician and an ophthalmologist with expertise
 in managing CMV retinitis is required.</p>
-<p></p>
-<p>(3) CNS opportunistic infections (OIs): We recommend that ART be delayed
+</li>
+<li>
+<p><strong>CNS Opportunistic Infections (OIs)</strong>: ART should be delayed
 in patients with CNS OIs until specific treatment for these OIs has been
 initiated, and clinical improvement observed.</p>
-<p><strong>&nbsp;</strong>
+</li>
+</ul>
+<p><strong>The goals of ART treatment are to:</strong>
 </p>
-<p>The goals of ART treatment are to achieve undetectable HIV viral loads,
-to reduce HIV-associated morbidity, prolong the duration and quality of
-survival, and prevent HIV transmission.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Please refer to <a href="https://www.ncid.sg/About-NCID/OurDepartments/Documents/NHIVP%20ART%20Recommendations%202023_final.pdf" rel="noopener noreferrer nofollow" target="_blank">NHIVP’s ART Recommendations</a> for
+<ul data-tight="true" class="tight">
+<li>
+<p>Achieve undetectable HIV viral loads;</p>
+</li>
+<li>
+<p>To reduce HIV-associated morbidity;</p>
+</li>
+<li>
+<p>Prolong the duration and quality of survival; and</p>
+</li>
+<li>
+<p>Prevent HIV transmission (also known as Treatment as Prevention, TasP).</p>
+</li>
+</ul>
+<p>To learn more about TasP, please click&nbsp;<a href="https://www.ncid.sg/About-NCID/OurDepartments/Documents/Treatment%20as%20Prevention%2c%20U=U.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Refer to <a href="https://www.ncid.sg/About-NCID/OurDepartments/Documents/NHIVP%20ART%20Recommendations%202023_final.pdf" rel="noopener noreferrer nofollow" target="_blank">NHIVP’s ART Recommendations</a> for
 more information.</p>
 </div>
 </details>
@@ -225,87 +229,80 @@ more information.</p>
 <summary><strong>Precaution, Prevention and Control</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The NHIVP recommends that all persons aged more than 21 years old or those
-who are sexually active should be offered HIV testing at least once in
-their lifetime. HIV testing is also recommended for the following persons:</p>
+<p>The NHIVP recommends people aged 21 years old and above or those who are
+sexually active should undergo HIV testing at least once in their lifetime.
+HIV testing is also recommended for the following persons:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Person who are diagnosed with TB</p>
+<p>People diagnosed with TB;</p>
 </li>
 <li>
-<p>Persons who seek evaluation and treatment for STIs</p>
+<p>People seeking treatment for STIs;</p>
 </li>
 <li>
-<p>Individuals with signs and symptoms suggestive of HIV-related illnesses
-and AIDS-defining illness</p>
+<p>Individuals with symptoms suggesting HIV-related illnesses and AIDS-defining
+illnesses;</p>
 </li>
 <li>
-<p>Pregnant women at their first antenatal visit</p>
+<p>Pregnant women at their first antenatal visit; or</p>
 </li>
 <li>
-<p>Individuals whose behaviour puts them at risk for HIV infection</p>
+<p>Individuals at risk of HIV infection based on their behaviours.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Repeat screening should be performed at least annually for the following
 populations with high-risk behaviours:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sexual partners of HIV-infected persons whose viral load is above the
-limit of detection, especially if RNA&gt;200 copies/ml</p>
+limit of detection, especially if RNA is more than 200 copies/ml;</p>
 </li>
 <li>
-<p>Persons who are currently on pre-exposure prophylaxis (PrEP)</p>
+<p>Persons who are currently on pre-exposure prophylaxis (PrEP);</p>
 </li>
 <li>
 <p>Persons seeking treatment for or diagnosed with STIs (including viral
-hepatitis) should be routinely screened at each visit for a new complaint</p>
+hepatitis) should be routinely screened at each visit for a new complaint;</p>
 </li>
 <li>
-<p>Persons who exchange sex for money, and the partners of such persons</p>
+<p>Persons who exchange sex for money, and the partners of such persons;</p>
 </li>
 <li>
 <p>Persons with a history of injection drug use or who engage in sexual activities
 under the influence of alcohol or other drugs, and the partners of such
-persons</p>
+persons;</p>
 </li>
 <li>
-<p>Persons with multiple sexual partners</p>
+<p>Persons with multiple sexual partners; and</p>
 </li>
 <li>
 <p>More frequent screening than annual for certain individuals might be indicated
-on the basis of risk behaviors</p>
+based on risk behaviours.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Prevention of HIV:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Consistent and correct use of condoms when engaging in sexual activity&nbsp;</p>
+<p>Consistent and correct use of condoms when engaging in sexual activity;&nbsp;</p>
 </li>
 <li>
-<p>Limit the number of sex partners</p>
+<p>Limit the number of sex partners;</p>
 </li>
 <li>
-<p>Get tested for STIs and HIV regularly</p>
+<p>Get tested for STIs and HIV regularly;</p>
 </li>
 <li>
-<p>Consider taking pre-exposure prophylaxis (PrEP) and post-exposure prophylaxis
-(PEP) for individuals at risk of HIV infection</p>
+<p>Consider taking PrEP and post-exposure prophylaxis (PEP) for individuals
+at risk of HIV infection; and</p>
 </li>
 <li>
-<p>Do not inject drugs</p>
+<p>Do not inject drugs.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>Management of sexual contacts:</p>
-<ul data-tight="true" class="tight">
-<li>
+<p>Management of sexual contacts</p>
 <p>HIV-infected patients should be encouraged to inform their partners and
 refer them for counselling and testing. This can be assisted by medical
 social workers and counsellors.</p>
-</li>
-</ul>
 </div>
 </details>
 <details class="isomer-details">
@@ -315,16 +312,21 @@ social workers and counsellors.</p>
 <p>HIV is a notifiable disease.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Who should notify: medical practitioners and laboratories</p>
+<p>Who to notify:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Medical practitioners and laboratories.</p>
+</li>
+</ul>
 </li>
 <li>
 <p>When to notify:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Medical practitioners – on clinical suspicion</p>
+<p>Medical practitioners: on clinical suspicion.</p>
 </li>
 <li>
-<p>Laboratories – on laboratory confirmation</p>
+<p>Laboratories: on laboratory confirmation.</p>
 </li>
 </ul>
 </li>
@@ -336,15 +338,15 @@ social workers and counsellors.</p>
 </li>
 <li>
 <p>Submit MD131 Notification of Infectious Diseases Form via CDLENS (<a rel="noopener noreferrer nofollow" target="_blank">http://www.cdlens.moh.gov.sg</a>)
-or fax (6221-5528/38/67)</p>
+or fax (6221-5528/38/67).</p>
 </li>
 </ul>
 </li>
 <li>
-<p>Timeline on notification:</p>
+<p>Notification timeline:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Within 72 hours from time of diagnosis</p>
+<p>Within 72 hours from time of diagnosis.</p>
 </li>
 </ul>
 </li>

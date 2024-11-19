@@ -312,7 +312,7 @@ social workers and counsellors.</p>
 <p>HIV is a notifiable disease.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Who to notify:</p>
+<p>Who should notify:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Medical practitioners and laboratories.</p>

@@ -5,20 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: T to Z
 ---
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Overview/Background</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h2>Overview</h2>
 <p>Trichomoniasis is a sexually transmitted infection (STI) of the genital
 tract caused by the protozoan <em>Trichomonas vaginalis</em>. Women are
 the main carriers of the disease; men who are infected men are usually
 asymptomatic.</p>
-<p>&nbsp;</p>
-<p>It is a preventable and curable STI. However, re-infection appears to
-be common.</p>
-</div>
-</details>
+<p>It is a preventable and curable STI. However, reinfection appears to be
+common.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Disease Epidemiology</strong>
 </summary>
@@ -44,7 +38,6 @@ in the African region, followed by Regions of the Americas.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><em>T. vaginalis</em> is most often transmitted through vaginal, anal,
 or oral intercourse with an infected individual.</p>
-<p></p>
 <p><strong>Incubation period:</strong> 5 to 28 days</p>
 <p><strong>Infectious period: </strong>Unknown but is presumed to last until
 treatment is completed. If untreated, it may persist for months or years.</p>
@@ -61,7 +54,6 @@ vulvitis, vaginitis and 2% of patients have strawberry cervix. Up to 50%
 of men with <em>T. vaginalis </em>are asymptomatic and usually present as
 sexual partners of infected women. Some male patients may have symptoms
 of urethritis and rarely balanoposthitis.</p>
-<p>&nbsp;</p>
 <p>If untreated, <em>T. vaginalis </em>infection in pregnant women is associated
 with adverse pregnancy outcomes, particularly premature rupture of membranes,
 preterm delivery, and delivery of a low birthweight infant. <em>T. vaginalis </em>infection
@@ -123,7 +115,6 @@ should still be confirmed by direct microscopy of vaginal secretions or
 culture</p>
 </li>
 </ul>
-<p></p>
 <p>All women should be screened for other STIs and HIV.</p>
 </div>
 </details>
@@ -132,7 +123,6 @@ culture</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Both symptomatic and asymptomatic patients should be treated.</p>
-<p>&nbsp;</p>
 <p>Recommended regimens for <em>T. vaginalis</em> in adults:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -145,7 +135,6 @@ culture</p>
 <p>Tinidazole 2g orally single dose</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Considerations in pregnancy:</p>
 <p><em>T. vaginalis </em>infection has been associated with adverse pregnancy
 outcomes; all infected pregnant women should be treated. Metronidazole
@@ -153,11 +142,9 @@ in pregnancy has not been shown to be teratogenic or mutagenic and can
 be used during all stages of pregnancy or breastfeeding. Imidazole and
 metronidazole pessaries may be used to provide symptomatic relief, but
 oral metronidazole is needed for eradication of infection.</p>
-<p>&nbsp;</p>
 <p>Metronidazole is secreted in breast milk and may affect its taste. Avoid
 high doses if breastfeeding or if using a single dose of metronidazole,
 breastfeeding should be discontinued for 12-24 hours to reduce infant exposure.</p>
-<p>&nbsp;</p>
 <p>Persistent symptoms:</p>
 <p>Patients with persistent symptoms treated with either regimen should be
 retreated with:</p>
@@ -166,7 +153,6 @@ retreated with:</p>
 <p>Metronidazole 400mg orally 2 times/day for 7 days</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>If treatment failure occurs again (and reinfection, non-compliance excluded),
 treat with:</p>
 <ul data-tight="true" class="tight">
@@ -174,16 +160,13 @@ treat with:</p>
 <p>Metronidazole 2g orally daily for 5-7 days</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Failure after the third regimen should prompt antibiotic resistance testing.</p>
-<p>&nbsp;</p>
 <p>Follow-up:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Follow-up is unnecessary for asymptomatic patients.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Please refer to <a href="https://www.nsc.com.sg/dsc/healthcare-professionals/publications/Pages/STI-Management-Guidelines.aspx" rel="noopener noreferrer nofollow" target="_blank">DSC’s website</a> for
 more information on alternative regimens.</p>
 </div>
@@ -215,7 +198,6 @@ been confirmed</p>
 <p>Get tested for STIs regularly</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Management of sexual contacts:</p>
 <p>Sex partners within 4 weeks prior to presentation of symptoms (or last
 sexual partner if &gt;4 weeks) should be treated on epidemiological grounds
@@ -260,4 +242,5 @@ guidelines 7<sup>th</sup> edition. 2021.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>

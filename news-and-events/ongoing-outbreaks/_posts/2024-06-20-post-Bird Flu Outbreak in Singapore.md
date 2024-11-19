@@ -10,6 +10,10 @@ variant: tiptap
 <p>Singapore is currently experiencing a localized outbreak of Avian Influenza
 (commonly known as bird flu). While the risk to the general public remains
 low, it is important to be aware of the situation and take necessary precautions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/shutterstock_1930988900.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Affected Areas:</strong> The outbreak is primarily affecting poultry

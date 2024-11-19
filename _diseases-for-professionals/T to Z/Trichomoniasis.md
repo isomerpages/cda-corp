@@ -180,31 +180,32 @@ more information on alternative regimens.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Inform current or recent sexual partners if a diagnosis of <em>T. vaginalis </em>has
-been confirmed</p>
+been confirmed;</p>
 </li>
 <li>
-<p>Avoid sexual intercourse until treatment is completed</p>
+<p>Avoid sexual intercourse until treatment is completed;</p>
 </li>
 <li>
-<p>Not having sex</p>
+<p>Not having sex;</p>
 </li>
 <li>
-<p>Consistent and correct use of condoms when engaging in sexual activity&nbsp;</p>
+<p>Consistent and correct use of condoms when engaging in sexual activity;&nbsp;</p>
 </li>
 <li>
-<p>Limit the number of sex partners</p>
+<p>Limit the number of sex partners; and</p>
 </li>
 <li>
 <p>Get tested for STIs regularly</p>
 </li>
 </ul>
-<p>Management of sexual contacts:</p>
-<p>Sex partners within 4 weeks prior to presentation of symptoms (or last
-sexual partner if &gt;4 weeks) should be treated on epidemiological grounds
-and screened for other STIs. They should be advised to abstain from intercourse
-until they and their sex partners have been adequately treated and any
-symptoms have resolved. There is evidence to suggest that patient-delivered
-partner therapy might have a role in partner management for trichomoniasis.</p>
+<p>Management of sexual contacts</p>
+<p>Sex partners within four weeks prior to presentation of symptoms (or last
+sexual partner if more than four weeks) should be treated on epidemiological
+grounds and screened for other STIs. They should be advised to abstain
+from intercourse until they and their sex partners have been adequately
+treated and any symptoms have resolved. There is evidence to suggest that
+patient-delivered partner therapy might have a role in partner management
+for trichomoniasis.</p>
 </div>
 </details>
 <details class="isomer-details">

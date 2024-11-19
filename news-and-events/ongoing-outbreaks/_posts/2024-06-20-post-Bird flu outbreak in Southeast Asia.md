@@ -7,21 +7,47 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>As of June 20, 2024, Southeast Asia faces a wave of highly pathogenic
-H5N1 avian influenza. Cambodia reported the most concerning cases, with
-six human infections linked to the virus, one of which resulted in death.
-This outbreak involved a reassortant strain of H5N1, raising concerns due
-to its potential for adaptation.</p>
-<p>While there haven't been recent reports of large-scale outbreaks in the
-region, public health officials remain vigilant. Continued surveillance
-in poultry farms and awareness campaigns for those working with birds are
-crucial to prevent further spread and potential human infections.</p>
-<p>Avian influenza, commonly known as bird flu, is a highly contagious viral
-infection that primarily affects birds. However, in rare cases, it can
-spread to humans and cause severe illness. Symptoms of bird flu in humans
-can include fever, cough, sore throat, muscle aches, and difficulty breathing.
-In severe cases, the infection can lead to pneumonia and even death. &nbsp;</p>
-<p>To protect yourself from bird flu, it is important to practice good hygiene,
-such as washing your hands frequently and avoiding contact with sick or
-dead birds. If you experience any flu-like symptoms after being exposed
-to sick birds, seek medical attention immediately.</p>
+<p>Singapore is currently experiencing a localized outbreak of Avian Influenza
+(commonly known as bird flu). While the risk to the general public remains
+low, it is important to be aware of the situation and take necessary precautions.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Affected Areas:</strong> The outbreak is primarily affecting poultry
+farms in Choa Chu Kang and Kranji.</p>
+</li>
+<li>
+<p><strong>Human Cases:</strong> No human cases of bird flu have been reported
+in Singapore.</p>
+</li>
+<li>
+<p><strong>Transmission:</strong> Bird flu viruses typically do not spread
+easily between humans. However, it is possible to contract the virus through
+direct contact with infected birds or contaminated surfaces.</p>
+</li>
+<li>
+<p><strong>Symptoms in humans:</strong> Fever, cough, sore throat, muscle
+aches, and difficulty breathing. In severe cases, the infection can lead
+to pneumonia and even death.</p>
+</li>
+</ul>
+<p>Preventive Measures:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Avoid Contact:</strong> Do not touch or handle sick or dead birds.</p>
+</li>
+<li>
+<p><strong>Thorough Cleaning:</strong> Wash your hands thoroughly with soap
+and water after handling poultry or eggs.</p>
+</li>
+<li>
+<p><strong>Cook Thoroughly:</strong> Ensure that poultry and eggs are cooked
+thoroughly before consumption.</p>
+</li>
+<li>
+<p><strong>Stay Informed:</strong> Monitor updates from the CDA and the Agri-Food
+&amp; Veterinary Authority (AVA).
+<br>
+</p>
+</li>
+</ul>
+<p></p>

@@ -9,6 +9,10 @@ variant: tiptap
 ---
 <p><em>This thought leadership piece was contributed by Professor Evan Lim, an expert in infectious disease research.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/shutterstock_2118695246.jpg">
+</div>
 <p>Singapore, a global health hub, has always been at the forefront of medical
 innovation. In recent years, Artificial Intelligence (AI) has emerged as
 a powerful tool in the fight against infectious diseases. By leveraging

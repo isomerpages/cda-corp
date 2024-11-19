@@ -121,36 +121,171 @@ over and have separated, with normal skin underneath (re-epithelialisation).</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Disease epidemiology</strong>
+<summary><strong>Risk Factors</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Risk factors include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Contact with infected animals, preparation, or consumption of bush meat;</p>
+</li>
+<li>
+<p>Close contact with confirmed cases, including history of sexual or intimate
+in-person contact with persons in a social or sexual network experiencing
+mpox activity; or</p>
+</li>
+<li>
+<p>Having multiple sex partners.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Diagnosis</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>The diagnosis of mpox can be confirmed by testing by PCR (polymerase chain
+reaction) which is a type of molecular test performed at the National Public
+Health Laboratory (NPHL). When a case is suspected, clinicians should contact
+the NPHL via their hospital's diagnostic laboratories, and send swabs from
+vesicles (throat swabs and blood are less preferred alternative due to
+lower sensitivity) in a dry and sterile tube (without universal transport
+medium) for further diagnostic testing.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Treatment and Management</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Mpox is typically a self-limiting illness and most mpox patients usually
+recover within two to four weeks, although serious illness and complications
+may occur especially in vulnerable persons (e.g. young children, pregnant
+women, or immunocompromised individuals). Usually, no specific antiviral
+treatment is required for majority of cases, and clinical management is
+supportive.&nbsp;</p>
+<p>Suspect and confirmed mpox cases should be isolated, preferably in a negative
+pressure isolation (NEP) room, if admitted. Healthcare workers caring for
+these cases should practice strict hand hygiene and don personal protective
+equipment including disposable gowns, gloves, N95 masks or equivalent,
+as well as eye protection.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Precaution, Prevention, and Control</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Individuals are strongly advised to maintain vigilance and take the following
+precautions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monitor their health and maintain a high standard of personal hygiene,
+including frequent hand washing after going to the toilet, or when hands
+are soiled;</p>
+</li>
+<li>
+<p>Avoid contact with persons who are unwell and objects that may have become
+contaminated with infectious fluids such as soiled clothing, bedding, or
+towels;</p>
+</li>
+<li>
+<p>Avoid high-risk sexual activity, such as having multiple sex partners
+or casual sex;</p>
+</li>
+<li>
+<p>When travelling, avoid contact with wild animals that could harbour the
+virus, and consumption of bush meat; and</p>
+</li>
+<li>
+<p>Seek medical attention immediately if you develop symptoms such as sudden
+onset of high fever, swollen lymph nodes and rash, and inform your doctor
+of any recent travel or exposure history.</p>
+</li>
+</ul>
+<p><strong>Vaccination:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The MVA-BN (JYNNEOS),&nbsp;a&nbsp;third-generation smallpox vaccine, is
+currently available as post-exposure prophylaxis (PEP) for&nbsp;persons
+who have been identified to be close contacts of confirmed mpox cases,
+as well as pre-exposure prophylaxis (PrEP) for persons at higher risk of&nbsp;being
+infected with mpox based on epidemiological factors in the 2022 outbreak.
+While JYNNEOS is estimated to provide over 80% protection against mpox,
+current data remains limited in concluding the level and duration of protection
+conferred by vaccination, and persons are advised to continue adhering
+to the recommended precautions against the disease.</p>
+</li>
+<li>
+<p>Aligning with international recommendations, population-wide vaccination
+is currently not recommended as a preventive strategy for mpox, as the
+risk to the public remains low, as disease transmission is predominantly
+via close physical or prolonged contact.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Notification</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Mpox is a notifiable disease.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Who should notify:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Medical practitioners and laboratories.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>When to notify:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Medical practitioners: on clinical suspicion; and</p>
+</li>
+<li>
+<p>Laboratories: laboratory confirmation.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>How to notify:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Call Surveillance Duty Officer, Communicable Diseases Group; and</p>
+</li>
+<li>
+<p>Submit MD131 Notification of Infectious Diseases Form via CDLENS (<a rel="noopener noreferrer nofollow" target="_blank">http://www.cdlens.moh.gov.sg</a>)
+or fax (6221-5528/38/67).</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Notification timeline:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Within 24 hours from time of diagnosis.</p>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Resources</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Refer to the US <a href="https://www.cdc.gov/poxvirus/mpox/response/2022/world-map.html" rel="noopener noreferrer nofollow" target="_blank">CDC’s website</a> for
+the 2022–2023 Mpox outbreak global map.</p>
+</li>
+<li>
+<p>Refer to the <a href="https://www.moh.gov.sg/resources-statistics/infectious-disease-statistics/2023/weekly-infectious-diseases-bulletin" rel="noopener noreferrer nofollow" target="_blank">MOH Weekly Infectious Diseases Bulletin</a> for
+the numbers of confirmed mpox cases in Singapore.</p>
+</li>
+</ul>
 </div>
 </details>
 </div>

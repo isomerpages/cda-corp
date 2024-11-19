@@ -55,7 +55,7 @@ sections:
           date: 19 November 2024
           announcement: Public health preparedness measures for mpox Clade I epidemic.
           link_text: Read more
-          link_url: https://staging-lite.d1j7qe69dakcfb.amplifyapp.com/thought-leadership/
+          link_url: https://staging-lite.d1j7qe69dakcfb.amplifyapp.com/update-on-public-health-preparedness-measures-for-mpox-clade-i/
   - resources:
       title: News and Events
       id: resources

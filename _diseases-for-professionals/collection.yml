@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - A to F/.keep
-      - A to F/Bacillus cereus.md
       - A to F/Bacterial Vaginosis.md
       - A to F/Botulism.md
       - A to F/Campylobacteriosis.md

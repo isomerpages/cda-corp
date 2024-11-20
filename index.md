@@ -68,7 +68,7 @@ sections:
       button: Explore our research efforts
       alt: Image alt text
       image: /images/Research_Infopic.png
-      url: /research/background/
+      url: /about-cda-research/
       subtitle: Decoding Diseases
   - infopic:
       title: National Public Health Laboratory (NPHL)

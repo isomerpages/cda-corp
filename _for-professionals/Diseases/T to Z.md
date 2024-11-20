@@ -6,27 +6,16 @@ description: ""
 third_nav_title: Diseases
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/page-under-construction/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">T Lorem Ipsum</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/page-under-construction/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/t-to-z/trichomoniasis/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Trichomoniasis</div><div class="isomer-card-description">Trichomoniasis is a sexually transmitted infection (STI) of the genital tract caused by the protozoan Trichomonas vaginalis.</div><div class="isomer-card-link">Learn More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/t-to-z/tuberculosis/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">T Lorem Ipsum</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Tuberculosis</div>
+<div class="isomer-card-description">Tuberculosis (TB) is an airborne disease and is highly contagious. It
+is caused by the bacteria Mycobacterium tuberculosis. TB primarily affects
+the lungs but can also spread to other parts of the body. TB is curable
+but remains a significant public health concern.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/t-to-z/tuberculosis/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Tuberculosis</div><div class="isomer-card-description">Tuberculosis (TB) is an airborne disease and is highly contagious. It is caused by the bacteria Mycobacterium tuberculosis. TB primarily affects the lungs but can also spread to other parts of the body. TB is curable but remains a significant public health concern.</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/page-under-construction/" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Z Lorem Ipsum</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">Learn More</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/page-under-construction/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Z Lorem Ipsum</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/page-under-construction/" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Z Lorem Ipsum</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">Learn More</div>
-</div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/t-to-z/zika-virus-infection/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Zika Virus Infection</div><div class="isomer-card-description">Zika virus infection is primarily transmitted by the Aedes mosquito, similar to dengue.</div><div class="isomer-card-link">Learn More</div></div></a>
 </div>
 <p></p>

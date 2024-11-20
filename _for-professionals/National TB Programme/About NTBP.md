@@ -9,7 +9,7 @@ third_nav_title: National TB Programme
 TB Elimination Programme (STEP), was launched by the Ministry of Health
 (MOH) in 1997 to strengthen the national tuberculosis (TB) prevention and
 care efforts in response to the then-decade-long stagnation in the country's
-TB incidence rate. Read more about STEP <a href="ncbi.nlm.nih.gov/pmc/articles/PMC2572427/pdf/12764518.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+TB incidence rate. Read more about STEP <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2572427/pdf/12764518.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p><u>Vision:</u> A TB-free Singapore with people-centred care</p>
 <p><u>Mission:</u> Protect the people of Singapore from TB through:</p>

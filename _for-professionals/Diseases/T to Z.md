@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Diseases
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/t-to-z/tetanus/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Tetanus</div><div class="isomer-card-description">Tetanus is an infection caused by bacteria called Clostridium tetani (C. tetani), that are found in the environment. </div><div class="isomer-card-link">Learn More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/t-to-z/tetanus/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Tetanus</div><div class="isomer-card-description">Tetanus is an infection caused by bacteria called Clostridium tetani (C. tetani), that are found in the environment.</div><div class="isomer-card-link">Learn More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/t-to-z/trichomoniasis/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Trichomoniasis</div>

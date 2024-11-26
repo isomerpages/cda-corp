@@ -48,12 +48,19 @@ encephalitis virus.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/g-to-l/legionellosis/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Legionellosis</div><div class="isomer-card-description">Legionellosis is a generic term describing the pneumonic and non-pneumonic forms of infection with Legionella bacteria.</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/g-to-l/leptospirosis/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/g-to-l/leprosy/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Leptospirosis</div>
-<div class="isomer-card-description">Leptospirosis is a zoonotic bacterial disease of variable clinical manifestations.</div>
+<div class="isomer-card-title">Leprosy</div>
+<div class="isomer-card-description">Leprosy, also known as Hansen’s disease, is a chronic infectious disease.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/g-to-l/listeriosis/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Listeriosis</div><div class="isomer-card-description">Listeria monocytogenes is a micro-organism that causes food poisoning.</div><div class="isomer-card-link">Learn More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/g-to-l/leptospirosis/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Leptospirosis</div><div class="isomer-card-description">Leptospirosis is a zoonotic bacterial disease of variable clinical manifestations.</div><div class="isomer-card-link">Learn More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/g-to-l/listeriosis/" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Listeriosis</div>
+<div class="isomer-card-description">Listeria monocytogenes is a micro-organism that causes food poisoning.</div>
+<div class="isomer-card-link">Learn More</div>
+</div>
+</a>
 </div>
 <p></p>

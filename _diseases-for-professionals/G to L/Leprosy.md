@@ -140,8 +140,8 @@ partially protective).</p>
 <p>How to notify:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submit MD131 Notification of Infectious Diseases Form via CDLENS (<a rel="noopener noreferrer nofollow" target="_blank">http://www.cdlens.moh.gov.sg</a>)
-or fax (6221-5528/38/67)</p>
+<p>Submit MD131 Notification of Infectious Diseases Form via CDLENS (<a rel="noopener noreferrer nofollow" target="_blank">http://www.cdlens.moh.gov.sg</a>) or
+fax (6221-5528/38/67)</p>
 </li>
 </ul>
 </li>

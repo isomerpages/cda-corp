@@ -14,13 +14,21 @@ third_nav_title: Diseases
 <div class="isomer-card-link">Learn More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/m-to-s/mpox/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Mpox</div><div class="isomer-card-description">Mpox is a viral disease caused by the monkeypox virus, a species of the genus Orthopoxvirus.</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/m-to-s/murine-typhus/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/m-to-s/mumps/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Murine Typhus</div>
-<div class="isomer-card-description">Murine typhus is a zoonotic bacterial disease caused by Rickettsia typhi.</div>
+<div class="isomer-card-title">Mumps</div>
+<div class="isomer-card-description">Mumps is a viral infection affecting the salivary glands.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/m-to-s/mycoplasma-genitalium/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Mycoplasma Genitalium</div><div class="isomer-card-description">Mycoplasma genitalium (MG) is a sexually transmitted infection (STI) caused by the Mycoplasma genitalium bacteria.</div><div class="isomer-card-link">Learn More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/m-to-s/murine-typhus/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Murine Typhus</div><div class="isomer-card-description">Murine typhus is a zoonotic bacterial disease caused by Rickettsia typhi.</div><div class="isomer-card-link">Learn More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/m-to-s/mycoplasma-genitalium/" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mycoplasma Genitalium</div>
+<div class="isomer-card-description">Mycoplasma genitalium (MG) is a sexually transmitted infection (STI) caused
+by the Mycoplasma genitalium bacteria.</div>
+<div class="isomer-card-link">Learn More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/m-to-s/pertussis/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Pertussis</div><div class="isomer-card-description">Pertussis, also known as whooping cough, is a highly contagious respiratory infection.</div><div class="isomer-card-link">Learn More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/m-to-s/salmonellosis/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Salmonellosis</div>

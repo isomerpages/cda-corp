@@ -279,25 +279,71 @@ the doctor of your travel or exposure history.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Mpox is a notifiable disease under the Infectious Diseases Act.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who should notify:</p>
-<p>o&nbsp;&nbsp; Medical practitioners</p>
-<p>o&nbsp;&nbsp; Laboratories</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When to notify:</p>
-<p>o&nbsp;&nbsp; Medical practitioners – on clinical suspicion</p>
-<p>o&nbsp;&nbsp; Laboratories – on laboratory confirmation</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How to notify:</p>
-<p>o&nbsp;&nbsp; <strong>MPXV Clade I</strong>: Call 9817-1463 (available
-24 hours) Surveillance Duty Officer, Communicable Diseases Group; and Submit
-MD131 Notification of Infectious Diseases Form via CDLENS (<a rel="noopener noreferrer nofollow" target="_blank">http://www.cdlens.moh.gov.sg</a>)
-or fax (6221-5528/38/67)</p>
-<p>o&nbsp;&nbsp; <strong>MPXV Clade II</strong>: Submit MD131 Notification
+<ul data-tight="true" class="tight">
+<li>
+<p>Who should notify:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Medical practitioners</p>
+</li>
+<li>
+<p>Laboratories</p>
+</li>
+</ul>
+</li>
+<li>
+<p>When to notify:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Medical practitioners – on clinical suspicion</p>
+</li>
+<li>
+<p>Laboratories – on laboratory confirmation</p>
+</li>
+</ul>
+</li>
+<li>
+<p>How to notify:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>MPXV Clade I</strong>: Call 9817-1463 (available 24 hours) Surveillance
+Duty Officer, Communicable Diseases Group; and Submit MD131 Notification
 of Infectious Diseases Form via CDLENS (<a rel="noopener noreferrer nofollow" target="_blank">http://www.cdlens.moh.gov.sg</a>)
 or fax (6221-5528/38/67)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Timeline on notification:</p>
-<p>o&nbsp;&nbsp; <strong>MPXV Clade I</strong>: Immediately. No later than
-24 hours</p>
-<p>o&nbsp;&nbsp; <strong>MPXV Clade II</strong>: As soon as possible. No later
-than 24 hours</p>
+</li>
+<li>
+<p><strong>MPXV Clade II</strong>: Submit MD131 Notification of Infectious
+Diseases Form via CDLENS (<a rel="noopener noreferrer nofollow" target="_blank">http://www.cdlens.moh.gov.sg</a>)
+or fax (6221-5528/38/67)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Timeline on notification:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>MPXV Clade I</strong>: Immediately. No later than 24 hours</p>
+</li>
+<li>
+<p><strong>MPXV Clade II</strong>: As soon as possible. No later than 24
+hours</p>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Resources</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please refer to the <u>MOH Weekly Infectious Diseases</u> Bulletin for the
+number of mpox cases in Singapore.</p>
+<p>For more information on mpox, please refer to the <a href="https://www.who.int/news-room/fact-sheets/detail/mpox" rel="noopener noreferrer nofollow" target="_blank">WHO</a> and
+<a href="https://www.cdc.gov/mpox/index.html" rel="noopener noreferrer nofollow" target="_blank">CDC</a>website.</p>
+<p>Please refer to <a href="https://www.sfa.gov.sg/monkeypox-and-food-safety" rel="noopener noreferrer nofollow" target="_blank">SFA's website</a>&nbsp;for
+more information on the risk of mpox transmission through food.</p>
+<p>For general travel advisory, please refer to <a href="https://www.moh.gov.sg/diseases-updates/health-advisory-for-travellers" rel="noopener noreferrer nofollow" target="_blank">MOH Health Advisory for Travellers</a>.</p>
 </div>
 </details>
 </div>

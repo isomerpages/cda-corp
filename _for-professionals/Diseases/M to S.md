@@ -29,13 +29,21 @@ by the Mycoplasma genitalium bacteria.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/m-to-s/pertussis/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Pertussis</div><div class="isomer-card-description">Pertussis, also known as whooping cough, is a highly contagious respiratory infection.</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/m-to-s/salmonellosis/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/m-to-s/pneumococcal-disease-invasive/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Salmonellosis</div>
-<div class="isomer-card-description">Salmonella is a type of bacteria and a leading cause of food-borne illnesses
-worldwide.</div>
+<div class="isomer-card-title">Pneumococcal Disease, Invasive</div>
+<div class="isomer-card-description">Invasive pneumococcal disease (IPD) is defined as the isolation of Streptococcus
+pneumoniae from normally sterile sites such as blood, pleural fluid and
+cerebrospinal fluid.</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/m-to-s/salmonellosis/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Salmonellosis</div><div class="isomer-card-description">Salmonella is a type of bacteria and a leading cause of food-borne illnesses worldwide.</div><div class="isomer-card-link">Learn More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/m-to-s/syphilis/" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Syphilis</div>
+<div class="isomer-card-description">Syphilis is a systemic infection caused by Treponema pallidum.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/for-professionals/diseases/m-to-s/syphilis/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Syphilis</div><div class="isomer-card-description">Syphilis is a systemic infection caused by Treponema pallidum.</div><div class="isomer-card-link">Learn More</div></div></a>
+</a>
 </div>
 <p></p>

@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: M to S
 ---
-<p>Overview</p>
+<h2>Overview</h2>
 <p>Mumps is a viral infection affecting the salivary glands. It is transmitted
 through direct contact with saliva or respiratory droplets. Mumps is still
 a common disease in many countries. Most people with mumps recover completely
@@ -141,8 +141,8 @@ to be quarantined from 12 to 25 days after exposure.</p>
 <p>How to notify:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submit MD13 Notification of Infectious Diseases Form via CDLENS (<a rel="noopener noreferrer nofollow" target="_blank">http://www.cdlens.moh.gov.sg</a>)
-or fax (6221-5528/38/67)</p>
+<p>Submit MD13 Notification of Infectious Diseases Form via CDLENS (<a rel="noopener noreferrer nofollow" target="_blank">http://www.cdlens.moh.gov.sg</a>) or
+fax (6221-5528/38/67)</p>
 </li>
 </ul>
 </li>

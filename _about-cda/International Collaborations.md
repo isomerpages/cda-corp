@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h2>Partnerships to bolster collaboration on communicable diseases in our region</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Colleagues from NCID and Kirby Institute" src="https://www.kirby.unsw.edu.au/sites/default/files/styles/hero_banner/public/images/NCID-KI-2022.png?h=ddb1ad0c&amp;itok=T4QTtx4p">
-</div>
 <p>The Kirby Institute and the Communicable Diseases Agency (CDA) re have
 signed a landmark Memorandum of Understanding that formalises the collaborative
 synergies and opportunities between the two organisations.</p>

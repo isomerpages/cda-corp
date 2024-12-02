@@ -1,5 +1,5 @@
 collections:
-  for-professionals:
+  professionals:
     output: true
     order:
       - Infection, Prevention/.keep

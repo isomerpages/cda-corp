@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2>What are Pandemics?</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Public_Pandemic_Preparedness_Sample_SS.jpg">
+</div>
 <p>A pandemic is a disease outbreak that occurs over a large geographical
 area and across international borders and affects a significantly large
 proportion of the world’s population.</p>

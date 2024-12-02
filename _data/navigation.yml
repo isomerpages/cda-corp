@@ -1,7 +1,7 @@
 logo: /images/cda_logo.png
 links:
-  - title: For Public
-    collection: for-public
+  - title: Public
+    collection: public
   - title: Professionals
     collection: professionals
   - title: Research

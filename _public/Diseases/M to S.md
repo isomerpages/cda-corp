@@ -22,6 +22,6 @@ Orthopoxvirus.</div>
 stomach and intestines.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/for-public/diseases/m-to-s/syphilis/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Syphilis</div><div class="isomer-card-description">Syphilis is a systemic infection caused by Treponema pallidum. It can be treated with antibiotics.</div><div class="isomer-card-link">Learn More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/for-public/diseases/m-to-s/syphilis/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Syphilis</div><div class="isomer-card-description">Syphilis is a systemic infection caused by Treponema pallidum.</div><div class="isomer-card-link">Learn More</div></div></a>
 </div>
 <p></p>

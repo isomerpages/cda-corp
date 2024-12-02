@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2>Partnerships to bolster collaboration on communicable diseases in our region</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/International_Collaboration_Sample_SS.jpg">
+</div>
 <p>The Kirby Institute and the Communicable Diseases Agency (CDA) re have
 signed a landmark Memorandum of Understanding that formalises the collaborative
 synergies and opportunities between the two organisations.</p>
